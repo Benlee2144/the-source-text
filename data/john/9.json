@@ -1,0 +1,2073 @@
+{
+  "book": "John",
+  "bookGreek": "Κατὰ Ἰωάννην",
+  "bookTransliteration": "Kata Iōannēn",
+  "bookMeaning": "According to John",
+  "chapter": 9,
+  "author": "John (Ἰωάννης / Yohanan — 'God is gracious'), son of Zebedee, one of the twelve apostles. Called 'the disciple whom Jesus loved.' Wrote this gospel late in life, likely from Ephesus around 85-95 AD — decades after Matthew, Mark, and Luke.",
+  "audience": "Greek-speaking believers and seekers in Asia Minor (modern Turkey), familiar with both Jewish theology and Greco-Roman philosophy.",
+  "historicalContext": "John 9 records the healing of a man born blind — the only such miracle in all four gospels. This event occurs during or near the Feast of Tabernacles (Sukkot), when massive candelabras lit up the Temple courts. Jesus had just declared 'I am the light of the world' (8:12), and now He proves it by giving light to eyes that never had it. The chapter is a masterpiece of irony: the blind man progressively sees more clearly (physically and spiritually) while the Pharisees become progressively more blind. The narrative also reflects the tension between the early church and the synagogue — the threat of expulsion (ἀποσυνάγωγος, 9:22) mirrors what Jewish Christians were experiencing when John wrote. The Birkat haMinim (a benediction against heretics added to synagogue liturgy ~85 AD) was being used to identify and expel Christ-followers.",
+  "verses": [
+    {
+      "verseNumber": 1,
+      "verseText": "And as Jesus passed by, he saw a man which was blind from his birth.",
+      "freshTranslation": "As Jesus was walking along, He noticed a man who had been blind since birth.",
+      "historicalContext": "Blindness was extremely common in the ancient Near East due to infections, dust, and lack of medical care. Beggars who were blind from birth sat at temple gates and major thoroughfares. This man was likely near the Temple, given the context of chapters 7-8.",
+      "crossRefs": [
+        {
+          "ref": "John 8:12",
+          "explanation": "Jesus just declared 'I am the light of the world.' Now He gives literal light to blind eyes."
+        },
+        {
+          "ref": "Psalm 146:8",
+          "explanation": "'The LORD opens the eyes of the blind' — a messianic marker."
+        }
+      ],
+      "words": [
+        {
+          "english": "And",
+          "original": "Καὶ",
+          "transliteration": "Kai",
+          "pronunciation": "kai",
+          "strongs": "G2532",
+          "partOfSpeech": "conjunction",
+          "literalMeaning": "and, also, even",
+          "definition": "A primary conjunction linking clauses or sentences. The most common word in the Greek NT, appearing over 9,000 times. Here it connects this episode seamlessly to the preceding events of chapters 7-8.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "as [He] passed by",
+          "original": "παράγων",
+          "transliteration": "paragōn",
+          "pronunciation": "pah-RAH-gohn",
+          "strongs": "G3855",
+          "partOfSpeech": "verb, present active participle, nominative masculine singular",
+          "literalMeaning": "passing alongside",
+          "definition": "From παρά (beside) + ἄγω (to lead). Means to pass by or along a path. The present participle indicates Jesus was in the act of walking — this wasn't a planned stop but a spontaneous encounter. He noticed the man while in motion.",
+          "translationNote": "Accurate. The participle form conveys that Jesus saw the man during normal movement, not as a destination.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "he saw",
+          "original": "εἶδεν",
+          "transliteration": "eiden",
+          "pronunciation": "AY-den",
+          "strongs": "G1492",
+          "partOfSpeech": "verb, aorist active indicative, 3rd person singular",
+          "literalMeaning": "he saw, perceived",
+          "definition": "From εἴδω (to see, know, perceive). This word means more than physical sight — it implies perception and understanding. The aorist tense marks a definitive moment: Jesus saw and immediately understood. Related to the Latin 'video' and English 'idea' — seeing that leads to knowing.",
+          "translationNote": "Accurate. But the depth of 'seeing' here is lost — Jesus didn't just glance; He perceived the man's entire situation.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "a man",
+          "original": "ἄνθρωπον",
+          "transliteration": "anthrōpon",
+          "pronunciation": "AHN-throh-pon",
+          "strongs": "G444",
+          "partOfSpeech": "noun, accusative masculine singular",
+          "literalMeaning": "human being, person",
+          "definition": "From ἄνω (upward) + ὤψ (face) — literally 'upward-facing one,' the creature that looks up. The generic term for a human being regardless of gender, though here clearly a male individual. The accusative case marks him as the object of Jesus' seeing.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "blind",
+          "original": "τυφλὸν",
+          "transliteration": "typhlon",
+          "pronunciation": "toof-LON",
+          "strongs": "G5185",
+          "partOfSpeech": "adjective, accusative masculine singular",
+          "literalMeaning": "blind, unable to see",
+          "definition": "Related to τῦφος (smoke, vapor) — blindness as if eyes were clouded by smoke. Used both literally (physical blindness) and metaphorically (spiritual blindness) throughout John 9. This double meaning is the engine of the entire chapter's irony.",
+          "translationNote": "Accurate. The metaphorical dimension becomes central by verse 39.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "from",
+          "original": "ἐκ",
+          "transliteration": "ek",
+          "pronunciation": "ek",
+          "strongs": "G1537",
+          "partOfSpeech": "preposition (with genitive)",
+          "literalMeaning": "out of, from within",
+          "definition": "A primary preposition meaning 'out of' or 'from within.' It denotes origin or source. Here it specifies that the blindness originated from birth — not acquired later through disease or injury. This is medically significant: congenital blindness was considered incurable.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "birth",
+          "original": "γενετῆς",
+          "transliteration": "genetēs",
+          "pronunciation": "geh-neh-TAYS",
+          "strongs": "G1079",
+          "partOfSpeech": "noun, genitive feminine singular",
+          "literalMeaning": "birth, origin, beginning of life",
+          "definition": "From γίνομαι (to become, be born). Refers to the moment of birth or origin. This word appears only here in the entire NT. The genitive case with ἐκ emphasizes the blindness was present from the very beginning of life — making this condition humanly irreversible. Root of English 'genetics.'",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 2,
+      "verseText": "And his disciples asked him, saying, Master, who did sin, this man, or his parents, that he was born blind?",
+      "freshTranslation": "His disciples asked Him, 'Rabbi, who sinned — this man or his parents — that he was born blind?'",
+      "historicalContext": "The disciples' question reflects mainstream Jewish theology: suffering was linked to sin (cf. Job's friends). Some rabbis even taught that a child could sin in the womb (based on Gen 25:22, Jacob and Esau struggling). The idea of parental sin causing birth defects came from Exodus 20:5 ('visiting the iniquity of the fathers').",
+      "crossRefs": [
+        {
+          "ref": "Exodus 20:5",
+          "explanation": "The theological basis for the disciples' question: God 'visiting the iniquity of the fathers upon the children.'"
+        },
+        {
+          "ref": "Ezekiel 18:20",
+          "explanation": "Ezekiel already corrected this: 'The son shall not bear the iniquity of the father.'"
+        }
+      ],
+      "words": [
+        {
+          "english": "asked",
+          "original": "ἠρώτησαν",
+          "transliteration": "ērōtēsan",
+          "pronunciation": "ay-ROH-tay-san",
+          "strongs": "G2065",
+          "partOfSpeech": "verb, aorist active indicative, 3rd person plural",
+          "literalMeaning": "they asked, questioned",
+          "definition": "From ἐρωτάω (to ask, request, question). In classical Greek, this carried more weight than simple asking — it implied making a formal request or earnest inquiry. The disciples aren't making small talk; they're raising a genuine theological question that every rabbi debated.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "Rabbi",
+          "original": "Ῥαββί",
+          "transliteration": "Rhabbi",
+          "pronunciation": "hrab-BEE",
+          "strongs": "G4461",
+          "partOfSpeech": "noun, vocative (Hebrew loanword)",
+          "literalMeaning": "my great one, my master",
+          "definition": "From Hebrew רַבִּי (rabbi), from רַב (rab, 'great'). A title of respect for a Jewish teacher, literally 'my great one.' By the 1st century, it was becoming a formal title for ordained teachers. The disciples address Jesus as their authoritative teacher on this theological question.",
+          "translationNote": "KJV translates as 'Master,' which loses the specific Jewish academic connotation. 'Rabbi' is more precise.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "who",
+          "original": "τίς",
+          "transliteration": "tis",
+          "pronunciation": "tis",
+          "strongs": "G5101",
+          "partOfSpeech": "interrogative pronoun, nominative masculine singular",
+          "literalMeaning": "who? which? what?",
+          "definition": "An interrogative pronoun used to ask about identity. Here it frames the theological debate: the disciples assume someone sinned and just want to know who. They don't question the sin-suffering connection itself.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "sinned",
+          "original": "ἥμαρτεν",
+          "transliteration": "hēmarten",
+          "pronunciation": "hay-MAR-ten",
+          "strongs": "G264",
+          "partOfSpeech": "verb, aorist active indicative, 3rd person singular",
+          "literalMeaning": "missed the mark, sinned",
+          "definition": "From ἁμαρτάνω (to miss the mark, err, sin). Originally an archery term meaning to miss the target. The aorist tense asks about a specific past act of sin that caused the blindness. The theological assumption: every affliction has a specific sin as its direct cause.",
+          "translationNote": "Accurate. The archery metaphor is lost but the meaning is preserved.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "born",
+          "original": "γεννηθῇ",
+          "transliteration": "gennēthē",
+          "pronunciation": "gen-nay-THAY",
+          "strongs": "G1080",
+          "partOfSpeech": "verb, aorist passive subjunctive, 3rd person singular",
+          "literalMeaning": "be born, brought into being",
+          "definition": "From γεννάω (to beget, give birth to). The passive voice — 'was born' — emphasizes that the man had no choice in the matter. The subjunctive mood in a purpose clause implies the disciples see the blindness as a result intended by someone's sin. Root of English 'generate.'",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "blind",
+          "original": "τυφλός",
+          "transliteration": "typhlos",
+          "pronunciation": "toof-LOS",
+          "strongs": "G5185",
+          "partOfSpeech": "adjective, nominative masculine singular",
+          "literalMeaning": "blind, sightless",
+          "definition": "Same word as verse 1 — the chapter's keyword. Appears 17 times in John 9, creating an insistent drumbeat. The repetition forces the reader to confront what 'blindness' really means.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 3,
+      "verseText": "Jesus answered, Neither hath this man sinned, nor his parents: but that the works of God should be made manifest in him.",
+      "freshTranslation": "Jesus answered, 'Neither this man sinned nor his parents. Rather, this happened so that God's works might be displayed through him.'",
+      "historicalContext": "Jesus shatters the sin-suffering equation. This was revolutionary — He introduces a third option: suffering can exist for God's glory, not as punishment. This reframes all disability and suffering theology.",
+      "crossRefs": [
+        {
+          "ref": "John 11:4",
+          "explanation": "Same pattern with Lazarus: 'This sickness is not unto death, but for the glory of God.'"
+        },
+        {
+          "ref": "Romans 8:28",
+          "explanation": "God works all things — including suffering — for His purposes."
+        }
+      ],
+      "words": [
+        {
+          "english": "answered",
+          "original": "ἀπεκρίθη",
+          "transliteration": "apekrithē",
+          "pronunciation": "ah-peh-KREE-thay",
+          "strongs": "G611",
+          "partOfSpeech": "verb, aorist passive indicative, 3rd person singular",
+          "literalMeaning": "he answered, responded",
+          "definition": "From ἀπό (from) + κρίνω (to judge, decide). Literally 'to judge from' or 'to decide in response.' More than casual replying — it implies a considered, authoritative response. The passive form (deponent) is standard for this verb in the NT.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "Neither",
+          "original": "Οὔτε",
+          "transliteration": "Oute",
+          "pronunciation": "OO-teh",
+          "strongs": "G3777",
+          "partOfSpeech": "conjunction (negative)",
+          "literalMeaning": "neither, nor",
+          "definition": "From οὐ (not) + τε (and). A strong negative conjunction used in pairs ('neither...nor'). Jesus demolishes both options the disciples offered. He doesn't split the difference — He rejects the entire framework.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "sinned",
+          "original": "ἥμαρτεν",
+          "transliteration": "hēmarten",
+          "pronunciation": "hay-MAR-ten",
+          "strongs": "G264",
+          "partOfSpeech": "verb, aorist active indicative, 3rd person singular",
+          "literalMeaning": "missed the mark",
+          "definition": "Same word as verse 2. Jesus uses their own vocabulary to dismantle their theology. The man's sin didn't cause this. His parents' sin didn't cause this. The entire sin-punishment equation is wrong here.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "works",
+          "original": "ἔργα",
+          "transliteration": "erga",
+          "pronunciation": "ER-gah",
+          "strongs": "G2041",
+          "partOfSpeech": "noun, nominative neuter plural",
+          "literalMeaning": "works, deeds, actions",
+          "definition": "From ἔργω (to work). Refers to deeds or accomplishments. In John's Gospel, 'works' is a key term for Jesus' miracles — they're not just signs but the Father's own works performed through the Son (cf. 5:17, 10:37-38). Root of English 'ergonomic.'",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "be made manifest",
+          "original": "φανερωθῇ",
+          "transliteration": "phanerōthē",
+          "pronunciation": "fah-neh-roh-THAY",
+          "strongs": "G5319",
+          "partOfSpeech": "verb, aorist passive subjunctive, 3rd person singular",
+          "literalMeaning": "be made visible, revealed",
+          "definition": "From φανερός (visible, manifest), related to φαίνω (to shine). The purpose of the man's lifelong blindness was to create a stage for God's power to be revealed. The passive voice: God's works will be revealed by God through this situation. Root of English 'phenomenon.'",
+          "translationNote": "Accurate. 'Made manifest' captures the Greek well.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 4,
+      "verseText": "I must work the works of him that sent me, while it is day: the night cometh, when no man can work.",
+      "freshTranslation": "'We must carry out the works of the One who sent Me while it is still day. Night is coming when no one can work.'",
+      "historicalContext": "The 'day/night' metaphor connects to Jesus' approaching death. His earthly ministry has a limited window. The plural 'we' includes the disciples — they share in the mission.",
+      "crossRefs": [
+        {
+          "ref": "John 5:17",
+          "explanation": "'My Father is working until now, and I am working' — Jesus' works mirror the Father's."
+        },
+        {
+          "ref": "John 12:35",
+          "explanation": "'Walk while you have the light' — same day/night urgency."
+        }
+      ],
+      "words": [
+        {
+          "english": "We must",
+          "original": "ἡμᾶς δεῖ",
+          "transliteration": "hēmas dei",
+          "pronunciation": "hay-MAHS day",
+          "strongs": "G1473/G1163",
+          "partOfSpeech": "pronoun acc. pl. + impersonal verb",
+          "literalMeaning": "it is necessary for us",
+          "definition": "Δεῖ is an impersonal verb expressing divine necessity — something that must happen according to God's plan. The plural 'we' (ἡμᾶς) is significant: Jesus includes His disciples in the mission. This isn't His work alone; they share in it.",
+          "translationNote": "Some manuscripts read 'I must' (ἐμέ δεῖ) instead of 'we must.' The 'we' reading has stronger manuscript support and is the harder reading (a scribe would more likely change 'we' to 'I' than vice versa).",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "work",
+          "original": "ἐργάζεσθαι",
+          "transliteration": "ergazesthai",
+          "pronunciation": "er-GAH-zeh-sthah-ee",
+          "strongs": "G2038",
+          "partOfSpeech": "verb, present middle/passive infinitive",
+          "literalMeaning": "to work, labor, accomplish",
+          "definition": "From ἔργον (work). The present tense indicates ongoing, continuous work — not a single act but a lifestyle of doing God's works. The infinitive with δεῖ creates a sense of urgent obligation.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "sent",
+          "original": "πέμψαντός",
+          "transliteration": "pempsantos",
+          "pronunciation": "PEMP-san-tos",
+          "strongs": "G3992",
+          "partOfSpeech": "verb, aorist active participle, genitive masculine singular",
+          "literalMeaning": "the one having sent",
+          "definition": "From πέμπω (to send, dispatch). One of two Greek words for 'send' (the other being ἀποστέλλω). John uses πέμπω specifically for the Father sending the Son — emphasizing the ongoing authority of the sender. Jesus defines His identity relationally: He is 'the sent one.'",
+          "translationNote": "Accurate. The participial form emphasizes the Father's role as the sender.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "day",
+          "original": "ἡμέρα",
+          "transliteration": "hēmera",
+          "pronunciation": "hay-MEH-rah",
+          "strongs": "G2250",
+          "partOfSpeech": "noun, nominative feminine singular",
+          "literalMeaning": "day, daytime, time of light",
+          "definition": "Refers to the period of light, as opposed to night. Here it's metaphorical: 'day' represents the time of Jesus' earthly ministry when His work can be accomplished. The metaphor is especially potent during the Feast of Tabernacles with its light ceremonies.",
+          "translationNote": "Accurate. The metaphorical usage is clear from context.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "night",
+          "original": "νύξ",
+          "transliteration": "nyx",
+          "pronunciation": "nüks",
+          "strongs": "G3571",
+          "partOfSpeech": "noun, nominative feminine singular",
+          "literalMeaning": "night, darkness",
+          "definition": "The period of darkness. Metaphorically refers to the time after Jesus' departure (His death and ascension) when the direct light of His physical presence is removed. The urgency is real: Jesus' earthly ministry has a deadline. Root of English 'nocturnal.'",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 5,
+      "verseText": "As long as I am in the world, I am the light of the world.",
+      "freshTranslation": "'While I am in the world, I am the light of the world.'",
+      "historicalContext": "Direct callback to John 8:12. During Sukkot, four massive golden candelabras in the Court of Women lit up all of Jerusalem. Jesus claimed to be what those lights symbolized. Now He proves it.",
+      "crossRefs": [
+        {
+          "ref": "John 8:12",
+          "explanation": "Repeats the 'light of the world' declaration, now with a demonstration about to follow."
+        },
+        {
+          "ref": "Isaiah 49:6",
+          "explanation": "The Servant is appointed 'as a light to the nations' — messianic prophecy."
+        }
+      ],
+      "words": [
+        {
+          "english": "As long as",
+          "original": "Ὅταν",
+          "transliteration": "Hotan",
+          "pronunciation": "HOH-tan",
+          "strongs": "G3752",
+          "partOfSpeech": "conjunction (temporal)",
+          "literalMeaning": "whenever, as long as",
+          "definition": "From ὅτε (when) + ἄν (conditional particle). A temporal conjunction indicating a condition that holds for a limited time. Jesus' physical presence as 'light of the world' is temporary — bounded by His incarnation.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "I am",
+          "original": "εἰμι",
+          "transliteration": "eimi",
+          "pronunciation": "ay-MEE",
+          "strongs": "G1510",
+          "partOfSpeech": "verb, present active indicative, 1st person singular",
+          "literalMeaning": "I am, I exist",
+          "definition": "The fundamental verb of being. While here it's part of the predicate ('I am the light'), it echoes the absolute ἐγώ εἰμι statements throughout John (8:12, 8:58). Every time Jesus says 'I am,' there's a resonance with God's self-revelation to Moses: 'I AM WHO I AM' (Exodus 3:14).",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "light",
+          "original": "φῶς",
+          "transliteration": "phōs",
+          "pronunciation": "fohs",
+          "strongs": "G5457",
+          "partOfSpeech": "noun, nominative neuter singular",
+          "literalMeaning": "light, radiance",
+          "definition": "Physical light, but in John always carrying theological weight. Light represents truth, knowledge, revelation, and divine presence. Contrasted with darkness (σκοτία) throughout the Gospel. The word is cognate with φαίνω (to shine) and is the root of English 'phosphorus,' 'photo,' and 'phenomenon.'",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "world",
+          "original": "κόσμου",
+          "transliteration": "kosmou",
+          "pronunciation": "KOS-moo",
+          "strongs": "G2889",
+          "partOfSpeech": "noun, genitive masculine singular",
+          "literalMeaning": "world, ordered universe, human realm",
+          "definition": "From κοσμέω (to arrange, adorn). Originally meant 'order' or 'arrangement' — the universe as an ordered system. In John it typically refers to the human world, often with a sense of the world alienated from God. Root of English 'cosmos,' 'cosmetic.'",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 6,
+      "verseText": "When he had thus spoken, he spat on the ground, and made clay of the spittle, and he anointed the eyes of the blind man with the clay,",
+      "freshTranslation": "After saying this, He spat on the ground, made mud with the saliva, and spread the mud over the blind man's eyes.",
+      "historicalContext": "Spitting was used in ancient healing (both Jewish and Greco-Roman). Roman sources record Vespasian healing a blind man with spit. But Jesus adding dirt echoes Genesis 2:7 — God forming man from the ground. He's re-creating, not just healing.",
+      "crossRefs": [
+        {
+          "ref": "Genesis 2:7",
+          "explanation": "God formed man from the dust of the ground. Jesus uses dirt to re-create what was missing — echoing the original creation."
+        },
+        {
+          "ref": "Mark 8:23",
+          "explanation": "Jesus also used spit to heal the blind man at Bethsaida — a different method each time."
+        }
+      ],
+      "words": [
+        {
+          "english": "he spat",
+          "original": "ἔπτυσεν",
+          "transliteration": "eptusen",
+          "pronunciation": "EP-too-sen",
+          "strongs": "G4429",
+          "partOfSpeech": "verb, aorist active indicative, 3rd person singular",
+          "literalMeaning": "he spat",
+          "definition": "From πτύω (to spit). The act of spitting was associated with healing in both Jewish and Greco-Roman traditions. Tacitus and Suetonius record Emperor Vespasian healing a blind man with spit in Alexandria. Saliva was thought to have medicinal properties. Jesus' use of spit is not magical but incarnational — using physical means.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "ground",
+          "original": "χαμαί",
+          "transliteration": "chamai",
+          "pronunciation": "khah-MAI",
+          "strongs": "G5476",
+          "partOfSpeech": "adverb",
+          "literalMeaning": "on the ground, earthward",
+          "definition": "An adverb meaning 'on the ground' or 'to the earth.' The combination of spit and earth to make clay deliberately evokes Genesis 2:7, where God formed Adam from the dust. Jesus is performing a new creation — making what was never there.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "clay",
+          "original": "πηλὸν",
+          "transliteration": "pēlon",
+          "pronunciation": "pay-LON",
+          "strongs": "G4081",
+          "partOfSpeech": "noun, accusative masculine singular",
+          "literalMeaning": "clay, mud, wet earth",
+          "definition": "Clay or mud made from mixing earth with liquid. In the OT, clay symbolizes God's creative work as a potter (Isaiah 64:8, Jeremiah 18:6). Making clay on the Sabbath would constitute 'kneading' — one of the 39 categories of prohibited work (melakhot). Jesus deliberately provokes the Sabbath controversy.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "anointed",
+          "original": "ἐπέχρισεν",
+          "transliteration": "epechrisen",
+          "pronunciation": "eh-PEH-khree-sen",
+          "strongs": "G2025",
+          "partOfSpeech": "verb, aorist active indicative, 3rd person singular",
+          "literalMeaning": "he smeared upon, anointed",
+          "definition": "From ἐπί (upon) + χρίω (to anoint). The root χρίω is the same root as Χριστός (Christ, 'the Anointed One'). The irony is thick: the Christ anoints the blind man's eyes. This unique compound verb appears only here and in verse 11 in the NT.",
+          "translationNote": "KJV's 'anointed' captures the χρίω root beautifully — connecting this act to Jesus' identity as the Christ (the Anointed). Many modern translations use 'spread' or 'applied,' losing this connection.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 7,
+      "verseText": "And said unto him, Go, wash in the pool of Siloam, (which is by interpretation, Sent.) He went his way therefore, and washed, and came seeing.",
+      "freshTranslation": "Then He told him, 'Go wash in the pool of Siloam' (which means 'Sent'). So the man went, washed, and came back seeing.",
+      "historicalContext": "The Pool of Siloam was a major water source in Jerusalem, fed by Hezekiah's tunnel from the Gihon Spring. During Sukkot, priests drew water from it in a golden pitcher for the water-pouring ceremony. The name means 'Sent' — John sees theological significance: Jesus is the true 'Sent One,' and the man must go to 'Sent' to receive sight. The pool was rediscovered archaeologically in 2004.",
+      "crossRefs": [
+        {
+          "ref": "2 Kings 5:10-14",
+          "explanation": "Naaman told to wash in the Jordan for healing. Same pattern: go wash, be healed. Obedience precedes the miracle."
+        },
+        {
+          "ref": "Isaiah 8:6",
+          "explanation": "The 'waters of Shiloah that go softly' — same pool, symbolizing God's gentle provision vs. Assyrian floodwaters."
+        }
+      ],
+      "words": [
+        {
+          "english": "Go",
+          "original": "Ὕπαγε",
+          "transliteration": "Hypage",
+          "pronunciation": "HÜ-pah-geh",
+          "strongs": "G5217",
+          "partOfSpeech": "verb, present active imperative, 2nd person singular",
+          "literalMeaning": "go, depart, go away",
+          "definition": "From ὑπό (under) + ἄγω (to lead). Literally 'go under' or 'withdraw.' A common command from Jesus requiring obedient action. The present imperative suggests 'go and keep going' — start walking and don't stop until you arrive.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "wash",
+          "original": "νίψαι",
+          "transliteration": "nipsai",
+          "pronunciation": "NIP-sah-ee",
+          "strongs": "G3538",
+          "partOfSpeech": "verb, aorist middle imperative, 2nd person singular",
+          "literalMeaning": "wash (a part of the body)",
+          "definition": "From νίπτω (to wash). Specifically refers to washing a part of the body (face, hands, feet), as opposed to λούω which means to bathe the whole body. The middle voice indicates the man is to wash himself — active participation in his own healing.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "pool",
+          "original": "κολυμβήθραν",
+          "transliteration": "kolymbēthran",
+          "pronunciation": "koh-lüm-BAY-thran",
+          "strongs": "G2861",
+          "partOfSpeech": "noun, accusative feminine singular",
+          "literalMeaning": "swimming pool, reservoir",
+          "definition": "From κολυμβάω (to swim, dive). A pool large enough for immersion. The Pool of Siloam was a major public reservoir in southeastern Jerusalem, fed by Hezekiah's tunnel (2 Kings 20:20). Archaeologists uncovered it in 2004 — it's much larger than previously thought.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "Siloam",
+          "original": "Σιλωάμ",
+          "transliteration": "Silōam",
+          "pronunciation": "see-loh-AHM",
+          "strongs": "G4611",
+          "partOfSpeech": "proper noun (indeclinable)",
+          "literalMeaning": "Sent",
+          "definition": "From Hebrew שִׁלֹחַ (Shiloach), from שָׁלַח (shalach, 'to send'). John explicitly translates the name as 'Sent' (ἀπεσταλμένος) — a theological pun. Jesus, the true 'Sent One' (ἀπεσταλμένος, from ἀποστέλλω), sends the blind man to 'Sent' to receive sight. The name becomes a sign.",
+          "translationNote": "John's parenthetical explanation '(which is by interpretation, Sent)' preserves the Hebrew etymology. Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "Sent",
+          "original": "Ἀπεσταλμένος",
+          "transliteration": "Apestalmenos",
+          "pronunciation": "ah-peh-STAL-meh-nos",
+          "strongs": "G649",
+          "partOfSpeech": "verb, perfect passive participle, nominative masculine singular",
+          "literalMeaning": "having been sent",
+          "definition": "From ἀποστέλλω (to send with a commission). This is the root of 'apostle' (ἀπόστολος). The perfect tense indicates a completed action with ongoing results — Siloam was 'sent' (its waters were channeled) and remains 'the sent one.' John sees Jesus in the name.",
+          "translationNote": "Accurate. The connection between 'Siloam/Sent' and Jesus as God's 'Sent One' is the interpretive key.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "seeing",
+          "original": "βλέπων",
+          "transliteration": "blepōn",
+          "pronunciation": "BLEH-pohn",
+          "strongs": "G991",
+          "partOfSpeech": "verb, present active participle, nominative masculine singular",
+          "literalMeaning": "seeing, looking",
+          "definition": "From βλέπω (to see, look at). The most common Greek word for physical sight. The present participle — 'seeing' as an ongoing state — emphasizes the permanence of the healing. He didn't just see once; he came back in a continuous state of seeing. This man had never seen anything before this moment.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 8,
+      "verseText": "The neighbours therefore, and they which before had seen him that he was blind, said, Is not this he that sat and begged?",
+      "freshTranslation": "His neighbors and those who had previously seen him begging asked, 'Isn't this the man who used to sit and beg?'",
+      "historicalContext": "The neighbors' confusion shows how radical the transformation was. This wasn't improved vision — this was a man who had never seen anything now seeing everything.",
+      "crossRefs": [
+        {
+          "ref": "Acts 3:10",
+          "explanation": "Similar reaction when the lame man at the Temple gate was healed — recognition followed by amazement."
+        }
+      ],
+      "words": [
+        {
+          "english": "neighbours",
+          "original": "γείτονες",
+          "transliteration": "geitones",
+          "pronunciation": "GAY-toh-nes",
+          "strongs": "G1069",
+          "partOfSpeech": "noun, nominative masculine plural",
+          "literalMeaning": "neighbors, those living nearby",
+          "definition": "From γῆ (earth, land). People who share the same land or neighborhood. These are the locals who knew the man in his pre-healing state. Their testimony establishes the reality of the miracle — these aren't strangers; they knew him.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "begged",
+          "original": "προσαιτῶν",
+          "transliteration": "prosaitōn",
+          "pronunciation": "pros-ah-ee-TOHN",
+          "strongs": "G4319",
+          "partOfSpeech": "verb, present active participle, nominative masculine singular",
+          "literalMeaning": "begging, asking for alms",
+          "definition": "From πρός (toward) + αἰτέω (to ask, request). A beggar who asks passersby for help. The present participle indicates this was his habitual activity — it's how everyone knew him. Begging was the primary means of survival for the disabled in the ancient world, as there was no social safety net.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 9,
+      "verseText": "Some said, This is he: others said, He is like him: but he said, I am he.",
+      "freshTranslation": "Some said, 'It's him.' Others said, 'No, he just looks like him.' But the man himself kept saying, 'I am the one.'",
+      "historicalContext": "The man's simple 'I am he' (ἐγώ εἰμι) ironically echoes Jesus' divine declaration in 8:58. The blind man can make simple identity claims; Jesus makes the ultimate one.",
+      "crossRefs": [
+        {
+          "ref": "John 8:24",
+          "explanation": "The man's 'I am he' (ἐγώ εἰμι) linguistically echoes Jesus' divine 'I AM' statements."
+        }
+      ],
+      "words": [
+        {
+          "english": "I am",
+          "original": "Ἐγώ εἰμι",
+          "transliteration": "Egō eimi",
+          "pronunciation": "eh-GOH ay-MEE",
+          "strongs": "G1473/G1510",
+          "partOfSpeech": "pronoun + verb, present active indicative",
+          "literalMeaning": "I am (he)",
+          "definition": "The emphatic first person pronoun with the verb of being. While the man simply means 'I'm the one,' the phrase ἐγώ εἰμι is loaded in John's Gospel — it's the same phrase Jesus uses for His divine self-revelation (8:24, 8:28, 8:58). John likely intends the reader to hear the echo, even though the man's usage is purely identificational.",
+          "translationNote": "KJV adds 'he' in italics, showing it's implied. The Greek is simply 'I am' — the same words as Jesus' divine claim.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 10,
+      "verseText": "Therefore said they unto him, How were thine eyes opened?",
+      "freshTranslation": "So they asked him, 'Then how were your eyes opened?'",
+      "historicalContext": "The question shifts from identity to method — how did this happen? This begins the interrogation sequence.",
+      "crossRefs": [
+        {
+          "ref": "John 3:9",
+          "explanation": "Nicodemus asked 'How can these things be?' — same question of mechanism when confronted with divine action."
+        }
+      ],
+      "words": [
+        {
+          "english": "How",
+          "original": "Πῶς",
+          "transliteration": "Pōs",
+          "pronunciation": "pohs",
+          "strongs": "G4459",
+          "partOfSpeech": "interrogative adverb",
+          "literalMeaning": "how? in what way?",
+          "definition": "An interrogative adverb asking about manner or method. This question — 'How?' — becomes the central question of the chapter. The Pharisees will ask it repeatedly (vv. 15, 19, 26). They can't deny the what; they're desperate to control the how.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "were opened",
+          "original": "ἠνεῴχθησαν",
+          "transliteration": "ēneōchthēsan",
+          "pronunciation": "ay-neh-OCH-thay-san",
+          "strongs": "G455",
+          "partOfSpeech": "verb, aorist passive indicative, 3rd person plural",
+          "literalMeaning": "were opened up",
+          "definition": "From ἀνοίγω (to open). The passive voice is a 'divine passive' — implying God is the one who opened the eyes, even though Jesus was the human agent. The aorist marks a single, definitive act. The plural refers to both eyes.",
+          "translationNote": "Accurate. The passive construction points to divine agency.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 11,
+      "verseText": "He answered and said, A man that is called Jesus made clay, and anointed mine eyes, and said unto me, Go to the pool of Siloam, and wash: and I went and washed, and I received sight.",
+      "freshTranslation": "He answered, 'The man called Jesus made mud, spread it on my eyes, and told me, \"Go to Siloam and wash.\" So I went and washed, and I received my sight.'",
+      "historicalContext": "The man gives a straightforward factual account. Notice his knowledge of Jesus grows progressively: first 'a man called Jesus,' then 'prophet' (v.17), then 'from God' (v.33), then 'Lord' (v.38).",
+      "crossRefs": [
+        {
+          "ref": "John 5:8-9",
+          "explanation": "Similar pattern: Jesus gives a command, the person obeys, healing follows."
+        }
+      ],
+      "words": [
+        {
+          "english": "A man",
+          "original": "ἄνθρωπος",
+          "transliteration": "anthrōpos",
+          "pronunciation": "AHN-throh-pos",
+          "strongs": "G444",
+          "partOfSpeech": "noun, nominative masculine singular",
+          "literalMeaning": "a human being, a man",
+          "definition": "The healed man's first description of Jesus is simply 'a man.' This marks the beginning of his progressive revelation: man → prophet (v.17) → from God (v.33) → Lord (v.38). His understanding grows through the chapter while the Pharisees' understanding shrinks.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "called",
+          "original": "λεγόμενος",
+          "transliteration": "legomenos",
+          "pronunciation": "leh-GOH-meh-nos",
+          "strongs": "G3004",
+          "partOfSpeech": "verb, present passive participle, nominative masculine singular",
+          "literalMeaning": "being called, named",
+          "definition": "From λέγω (to say, speak). The passive participle means 'the one called' or 'the one known as.' The man knows Jesus only by reputation — a name he's heard, since he couldn't have seen Him. He had to learn the name from others.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "I received sight",
+          "original": "ἀνέβλεψα",
+          "transliteration": "aneblepsa",
+          "pronunciation": "ah-NEH-blep-sah",
+          "strongs": "G308",
+          "partOfSpeech": "verb, aorist active indicative, 1st person singular",
+          "literalMeaning": "I looked up, recovered sight",
+          "definition": "From ἀνά (up, again) + βλέπω (to see). Literally 'to look up' or 'to see again.' Interestingly, ἀναβλέπω usually implies recovering lost sight. But this man never had sight — for him, this is first sight, not recovery. The word may not perfectly fit, which is why John uses it: no existing word captured what happened.",
+          "translationNote": "KJV's 'received sight' is good. The Greek word normally means 'regained sight,' but this man never had it — highlighting how unprecedented this miracle was.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 12,
+      "verseText": "Then said they unto him, Where is he? He said, I know not.",
+      "freshTranslation": "They asked him, 'Where is this man?' He said, 'I don't know.'",
+      "historicalContext": "The man doesn't know where Jesus is — he was blind when Jesus sent him away and has never seen Jesus' face. He'll see it for the first time in verse 37.",
+      "crossRefs": [
+        {
+          "ref": "John 5:13",
+          "explanation": "After the Pool of Bethesda healing, the man also 'did not know who it was' who healed him."
+        }
+      ],
+      "words": [
+        {
+          "english": "Where",
+          "original": "Ποῦ",
+          "transliteration": "Pou",
+          "pronunciation": "poo",
+          "strongs": "G4226",
+          "partOfSpeech": "interrogative adverb of place",
+          "literalMeaning": "where?",
+          "definition": "An adverb asking about location. The question 'Where is He?' parallels 7:11 where the Jews asked the same about Jesus at the feast. It also foreshadows the Pharisees' concern with Jesus' origins (v.29: 'we know not from whence He is').",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "I know not",
+          "original": "οὐκ οἶδα",
+          "transliteration": "ouk oida",
+          "pronunciation": "ook OY-dah",
+          "strongs": "G3756/G1492",
+          "partOfSpeech": "adverb (negative) + verb, perfect active indicative",
+          "literalMeaning": "I do not know/perceive",
+          "definition": "Οἶδα is a perfect tense verb used with present meaning — 'I have come to know' = 'I know.' With the negative, it's a simple admission of ignorance. The man is honest about the limits of his knowledge — a trait the Pharisees conspicuously lack throughout this chapter.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 13,
+      "verseText": "They brought to the Pharisees him that aforetime was blind.",
+      "freshTranslation": "They brought the formerly blind man to the Pharisees.",
+      "historicalContext": "Bringing the man to the Pharisees suggests this was becoming a public controversy. The Pharisees served as the religious court (bet din) for such matters.",
+      "crossRefs": [
+        {
+          "ref": "John 7:47-48",
+          "explanation": "The Pharisees were already hostile to Jesus after the Feast of Tabernacles debates."
+        }
+      ],
+      "words": [
+        {
+          "english": "They brought",
+          "original": "Ἄγουσιν",
+          "transliteration": "Agousin",
+          "pronunciation": "AH-goo-sin",
+          "strongs": "G71",
+          "partOfSpeech": "verb, present active indicative, 3rd person plural",
+          "literalMeaning": "they lead, bring",
+          "definition": "From ἄγω (to lead, bring, carry). The present tense is the 'historical present' — vivid narrative style that makes the reader feel present. The neighbors are bringing the man like a case file to the authorities.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "Pharisees",
+          "original": "Φαρισαίους",
+          "transliteration": "Pharisaious",
+          "pronunciation": "fah-ree-SAI-oos",
+          "strongs": "G5330",
+          "partOfSpeech": "noun, accusative masculine plural",
+          "literalMeaning": "separated ones",
+          "definition": "From Hebrew פְּרוּשִׁים (perushim, 'separated ones'). A Jewish sect emphasizing strict adherence to both written Torah and oral tradition. They controlled synagogue life and set the standards for everyday Jewish practice. About 6,000 strong in Jesus' day, they wielded enormous social influence.",
+          "translationNote": "Accurate. A transliteration of the Hebrew.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 14,
+      "verseText": "And it was the sabbath day when Jesus made the clay, and opened his eyes.",
+      "freshTranslation": "Now it was a Sabbath day when Jesus made the mud and opened his eyes.",
+      "historicalContext": "John drops this detail almost casually, but it's the crux of the conflict. Making clay on the Sabbath violated rabbinic law (kneading, one of the 39 prohibited categories of work). Jesus deliberately chose the Sabbath for this miracle.",
+      "crossRefs": [
+        {
+          "ref": "John 5:9-10",
+          "explanation": "Same issue at Bethesda: healing on the Sabbath triggers conflict."
+        },
+        {
+          "ref": "Luke 13:14",
+          "explanation": "Synagogue ruler indignant about Sabbath healing — a recurring conflict."
+        }
+      ],
+      "words": [
+        {
+          "english": "sabbath day",
+          "original": "σάββατον",
+          "transliteration": "sabbaton",
+          "pronunciation": "SAH-bah-ton",
+          "strongs": "G4521",
+          "partOfSpeech": "noun, nominative/accusative neuter singular",
+          "literalMeaning": "Sabbath, day of rest",
+          "definition": "From Hebrew שַׁבָּת (shabbat), from שָׁבַת (shavat, 'to cease, rest'). The seventh day of the week, set apart for rest and worship (Exodus 20:8-11). By the 1st century, rabbinic tradition had elaborated 39 categories of prohibited work (Mishnah Shabbat 7:2). Making clay violated 'kneading'; healing violated 'reaping' (by some interpretations).",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "made",
+          "original": "ἐποίησεν",
+          "transliteration": "epoiēsen",
+          "pronunciation": "eh-POI-ay-sen",
+          "strongs": "G4160",
+          "partOfSpeech": "verb, aorist active indicative, 3rd person singular",
+          "literalMeaning": "he made, did, created",
+          "definition": "From ποιέω (to make, do, create). This is the standard word for making or creating — the same verb used in the LXX for God's creative acts. Jesus 'made' clay on the Sabbath, echoing God who 'made' creation and then rested on the seventh day. The Creator is not bound by creation's rest.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 15,
+      "verseText": "Then again the Pharisees also asked him how he had received his sight. He said unto them, He put clay upon mine eyes, and I washed, and do see.",
+      "freshTranslation": "So the Pharisees also asked him how he had received his sight. He told them, 'He put mud on my eyes, I washed, and now I see.'",
+      "historicalContext": "The Pharisees conduct their own investigation. The man's account gets shorter each telling — he's getting impatient with repetition.",
+      "crossRefs": [
+        {
+          "ref": "John 5:16",
+          "explanation": "Same pattern: Sabbath healing leads to Pharisaic investigation and persecution."
+        }
+      ],
+      "words": [
+        {
+          "english": "He put",
+          "original": "ἐπέθηκεν",
+          "transliteration": "epethēken",
+          "pronunciation": "eh-PEH-thay-ken",
+          "strongs": "G2007",
+          "partOfSpeech": "verb, aorist active indicative, 3rd person singular",
+          "literalMeaning": "he placed upon",
+          "definition": "From ἐπί (upon) + τίθημι (to place, put). Note the man's account is getting shorter: verse 11 was detailed, verse 15 is compressed to essentials. He's told this story multiple times and is getting impatient. His irritation will boil over by verse 27.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "I see",
+          "original": "βλέπω",
+          "transliteration": "blepō",
+          "pronunciation": "BLEH-poh",
+          "strongs": "G991",
+          "partOfSpeech": "verb, present active indicative, 1st person singular",
+          "literalMeaning": "I see, I am seeing",
+          "definition": "The present tense is powerful: 'I see' — right now, continuously, ongoing. Not 'I saw' (past) but 'I see' (present reality). The evidence is standing in front of them, seeing them with eyes that never worked before.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 16,
+      "verseText": "Therefore said some of the Pharisees, This man is not of God, because he keepeth not the sabbath day. Others said, How can a man that is a sinner do such miracles? And there was a division among them.",
+      "freshTranslation": "Some Pharisees said, 'This man is not from God, because He does not keep the Sabbath.' But others said, 'How can a sinful man perform such signs?' And there was a division among them.",
+      "historicalContext": "The division mirrors what happened in 7:43. The theological logic: (1) God doesn't empower Sabbath-breakers, (2) but only God can do this miracle. Conclusion: system error. They can't reconcile their theology with the evidence.",
+      "crossRefs": [
+        {
+          "ref": "John 7:43",
+          "explanation": "A division (σχίσμα) among the people — same word, same cause."
+        },
+        {
+          "ref": "John 3:2",
+          "explanation": "Nicodemus' logic: 'No one can do these signs unless God is with him.' Some Pharisees still think this way."
+        }
+      ],
+      "words": [
+        {
+          "english": "of God",
+          "original": "θεοῦ",
+          "transliteration": "theou",
+          "pronunciation": "theh-OO",
+          "strongs": "G2316",
+          "partOfSpeech": "noun, genitive masculine singular",
+          "literalMeaning": "of God",
+          "definition": "From θεός (God). The genitive 'of God' means 'from God' or 'belonging to God.' The Pharisees' logic: anyone who breaks the Sabbath cannot be 'from God.' But the counter-logic is equally strong: anyone who performs this miracle must be 'from God.' The division (σχίσμα) is the natural result.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "division",
+          "original": "σχίσμα",
+          "transliteration": "schisma",
+          "pronunciation": "SKHIS-mah",
+          "strongs": "G4978",
+          "partOfSpeech": "noun, nominative neuter singular",
+          "literalMeaning": "tear, split, division",
+          "definition": "From σχίζω (to split, tear, divide). Originally a physical tear in fabric. Used metaphorically for divisions in opinion or community. Root of English 'schism.' This is the third σχίσμα Jesus causes in John (7:43, 9:16, 10:19) — He consistently divides opinion because He forces a decision.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "miracles",
+          "original": "σημεῖα",
+          "transliteration": "sēmeia",
+          "pronunciation": "say-MAY-ah",
+          "strongs": "G4592",
+          "partOfSpeech": "noun, accusative neuter plural",
+          "literalMeaning": "signs, indicators, miracles",
+          "definition": "From σῆμα (a mark, sign). John's preferred term for miracles — he never calls them 'wonders' (τέρατα) alone. They are σημεῖα: signs that point beyond themselves to Jesus' identity. The miracles aren't the point; they're arrows pointing to who Jesus is.",
+          "translationNote": "KJV's 'miracles' misses the nuance. 'Signs' is more faithful — these are not just displays of power but indicators of identity.",
+          "twisted": true,
+          "twistedExplanation": "Translating σημεῖα as 'miracles' shifts focus from the sign's meaning to the sign's spectacle. John carefully chose 'signs' to emphasize that these acts point to Jesus' identity as the Son of God, not just raw supernatural power."
+        }
+      ]
+    },
+    {
+      "verseNumber": 17,
+      "verseText": "They say unto the blind man again, What sayest thou of him, that he hath opened thine eyes? He said, He is a prophet.",
+      "freshTranslation": "So they asked the blind man again, 'What do you say about Him, since He opened your eyes?' He replied, 'He is a prophet.'",
+      "historicalContext": "They turn to the healed man for his opinion — ironic that the religious experts need theological input from a beggar. His answer escalates: 'a prophet' places Jesus in the line of Moses and Elijah.",
+      "crossRefs": [
+        {
+          "ref": "John 4:19",
+          "explanation": "The Samaritan woman also recognized Jesus as a prophet first, then as Messiah."
+        },
+        {
+          "ref": "Deuteronomy 18:15",
+          "explanation": "Moses promised a prophet like himself — the man may be identifying Jesus with this expectation."
+        }
+      ],
+      "words": [
+        {
+          "english": "prophet",
+          "original": "προφήτης",
+          "transliteration": "prophētēs",
+          "pronunciation": "pro-FAY-tays",
+          "strongs": "G4396",
+          "partOfSpeech": "noun, nominative masculine singular",
+          "literalMeaning": "one who speaks forth, spokesman for God",
+          "definition": "From πρό (before, forth) + φημί (to speak). Not primarily a 'predictor of the future' but 'one who speaks forth God's message.' The man's theology is advancing: from 'a man called Jesus' (v.11) to 'a prophet.' This is the second step in his progressive revelation of Jesus' identity.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 18,
+      "verseText": "But the Jews did not believe concerning him, that he had been blind, and received his sight, until they called the parents of him that had received his sight.",
+      "freshTranslation": "The Jewish leaders did not believe that the man had been blind and received sight until they summoned his parents.",
+      "historicalContext": "When the evidence doesn't fit their conclusion, they challenge the evidence. 'The Jews' here refers to the religious leadership, not the Jewish people generally.",
+      "crossRefs": [
+        {
+          "ref": "John 5:10-16",
+          "explanation": "Same investigative pattern from the religious authorities when confronted with Jesus' miracles."
+        }
+      ],
+      "words": [
+        {
+          "english": "the Jews",
+          "original": "οἱ Ἰουδαῖοι",
+          "transliteration": "hoi Ioudaioi",
+          "pronunciation": "hoy ee-oo-DAI-oy",
+          "strongs": "G2453",
+          "partOfSpeech": "noun, nominative masculine plural (with article)",
+          "literalMeaning": "the Judeans, the Jewish leaders",
+          "definition": "From Ἰούδας (Judah). In John's Gospel, this term usually refers not to the Jewish people generally but to the religious establishment in Jerusalem — particularly the Pharisees and Sadducees who held institutional power. John himself was Jewish, as were Jesus and all the apostles. The term is political/institutional, not ethnic.",
+          "translationNote": "This is one of the most historically consequential translation issues in the NT. Rendering Ἰουδαῖοι simply as 'the Jews' has fueled centuries of antisemitism. Many scholars now translate it as 'the Jewish leaders' or 'the Judean authorities' in this context.",
+          "twisted": true,
+          "twistedExplanation": "The blanket translation 'the Jews' obscures that John refers to the religious establishment, not an entire ethnic group. Jesus, the disciples, the healed man, and John himself were all Jewish. The conflict is between Jesus and the institutional authorities, not between Christianity and Judaism."
+        }
+      ]
+    },
+    {
+      "verseNumber": 19,
+      "verseText": "And they asked them, saying, Is this your son, who ye say was born blind? how then doth he now see?",
+      "freshTranslation": "They asked them, 'Is this your son whom you say was born blind? How is it that he now sees?'",
+      "historicalContext": "Two-pronged question designed to trap: confirm identity AND explain the mechanism. If the parents confirm both, they're implicitly endorsing Jesus.",
+      "crossRefs": [
+        {
+          "ref": "John 7:52",
+          "explanation": "The leaders consistently look for ways to discredit evidence for Jesus."
+        }
+      ],
+      "words": [
+        {
+          "english": "your son",
+          "original": "υἱὸς ὑμῶν",
+          "transliteration": "huios hymōn",
+          "pronunciation": "hwee-OS hü-MOHN",
+          "strongs": "G5207/G5216",
+          "partOfSpeech": "noun nom. masc. sg. + pronoun gen. pl.",
+          "literalMeaning": "son of you (plural)",
+          "definition": "υἱός means son (from a root meaning 'to suckle'). The authorities' question is designed as a trap: by confirming identity and cure together, the parents would implicitly endorse Jesus.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 20,
+      "verseText": "His parents answered them and said, We know that this is our son, and that he was born blind:",
+      "freshTranslation": "His parents answered, 'We know this is our son, and that he was born blind.'",
+      "historicalContext": "The parents confirm only what's undeniable: identity and original condition. They won't touch the miracle.",
+      "crossRefs": [
+        {
+          "ref": "John 3:11",
+          "explanation": "'We speak what we know and testify to what we have seen' — the parents limit testimony to what they directly witnessed."
+        }
+      ],
+      "words": [
+        {
+          "english": "We know",
+          "original": "Οἴδαμεν",
+          "transliteration": "Oidamen",
+          "pronunciation": "OY-dah-men",
+          "strongs": "G1492",
+          "partOfSpeech": "verb, perfect active indicative, 1st person plural",
+          "literalMeaning": "we know, we perceive",
+          "definition": "The parents use 'we know' for what they can confirm from direct experience. The irony is sharp: throughout this chapter, everyone claims to 'know' things. The Pharisees 'know' Jesus is a sinner (v.24). The parents 'know' their son's identity. But true knowledge — recognizing who Jesus is — eludes those who claim knowledge most confidently.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 21,
+      "verseText": "But by what means he now seeth, we know not; or who hath opened his eyes, we know not: he is of age; ask him: he shall speak for himself.",
+      "freshTranslation": "'But how he now sees, we don't know, and who opened his eyes, we don't know. Ask him — he's an adult. He can speak for himself.'",
+      "historicalContext": "The parents deflect to their son. Their fear is palpable. 'He is of age' — in Jewish law, a boy became responsible for his own religious testimony at 13 (bar mitzvah).",
+      "crossRefs": [
+        {
+          "ref": "Deuteronomy 19:15",
+          "explanation": "Legal requirement for testimony from witnesses of legal age."
+        }
+      ],
+      "words": [
+        {
+          "english": "of age",
+          "original": "ἡλικίαν ἔχει",
+          "transliteration": "hēlikian echei",
+          "pronunciation": "hay-lee-KEE-ahn EH-khay",
+          "strongs": "G2244/G2192",
+          "partOfSpeech": "noun acc. + verb pres. act. ind.",
+          "literalMeaning": "he has age/maturity",
+          "definition": "ἡλικία refers to age, maturity, or stature. Combined with ἔχει (he has), it means 'he is of legal age.' In Jewish law, this was 13 for a male (bar mitzvah age), though the phrase may imply he was well into adulthood. The parents are legally deflecting: he can testify for himself.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 22,
+      "verseText": "These words spake his parents, because they feared the Jews: for the Jews had agreed already, that if any man did confess that he was Christ, he should be put out of the synagogue.",
+      "freshTranslation": "His parents said this because they were afraid of the Jewish leaders, who had already decided that anyone who acknowledged Jesus as the Messiah would be expelled from the synagogue.",
+      "historicalContext": "This is one of the most historically significant verses in John. The ἀποσυνάγωγος (aposynagōgos — expelled from synagogue) appears only in John (9:22, 12:42, 16:2). It likely reflects the Birkat haMinim, a formal benediction against heretics added to synagogue prayers ~85 AD, used to identify and expel Jewish Christians. This verse bridges the story's original setting (~30 AD) with John's readers' experience (~90 AD).",
+      "crossRefs": [
+        {
+          "ref": "John 12:42-43",
+          "explanation": "'Many even of the rulers believed in Him, but because of the Pharisees they did not confess it, so they would not be put out of the synagogue.'"
+        },
+        {
+          "ref": "John 16:2",
+          "explanation": "Jesus predicted this: 'They will put you out of the synagogues.'"
+        }
+      ],
+      "words": [
+        {
+          "english": "feared",
+          "original": "ἐφοβοῦντο",
+          "transliteration": "ephobounto",
+          "pronunciation": "eh-foh-BOON-toh",
+          "strongs": "G5399",
+          "partOfSpeech": "verb, imperfect middle/passive indicative, 3rd person plural",
+          "literalMeaning": "they were fearing",
+          "definition": "From φοβέω (to fear, be afraid). The imperfect tense indicates ongoing, continuous fear — not a momentary fright but a sustained state of terror. This fear controlled their testimony. Root of English 'phobia.'",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "put out of the synagogue",
+          "original": "ἀποσυνάγωγος",
+          "transliteration": "aposynagōgos",
+          "pronunciation": "ah-poh-soo-NAH-goh-gos",
+          "strongs": "G656",
+          "partOfSpeech": "adjective, nominative masculine singular",
+          "literalMeaning": "expelled from the assembly",
+          "definition": "From ἀπό (away from) + συναγωγή (synagogue, assembly). A uniquely Johannine word, appearing only in John 9:22, 12:42, and 16:2. It describes formal expulsion from the synagogue community — social, economic, and religious death in a Jewish context. This likely reflects the Birkat haMinim (~85 AD), when synagogues formalized the exclusion of Jewish Christians. One of the most historically significant words in the NT for understanding Jewish-Christian relations.",
+          "translationNote": "KJV's paraphrase captures the meaning. The single Greek compound word conveys an entire institutional process of excommunication.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "Christ",
+          "original": "Χριστόν",
+          "transliteration": "Christon",
+          "pronunciation": "khree-STON",
+          "strongs": "G5547",
+          "partOfSpeech": "noun, accusative masculine singular",
+          "literalMeaning": "Anointed One",
+          "definition": "From χρίω (to anoint). The Greek equivalent of Hebrew מָשִׁיחַ (Mashiach, 'Messiah'). Both mean 'Anointed One' — the promised deliverer. Confessing Jesus as the Christ was the defining boundary between those who stayed in the synagogue and those who were expelled.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 23,
+      "verseText": "Therefore said his parents, He is of age; ask him.",
+      "freshTranslation": "That is why his parents said, 'He is an adult; ask him.'",
+      "historicalContext": "Repetition for emphasis — John highlights that the parents' deflection was motivated purely by fear.",
+      "crossRefs": [
+        {
+          "ref": "Proverbs 29:25",
+          "explanation": "'The fear of man brings a snare' — the parents are trapped by fear."
+        }
+      ],
+      "words": [
+        {
+          "english": "Therefore",
+          "original": "Διὰ τοῦτο",
+          "transliteration": "Dia touto",
+          "pronunciation": "dee-AH TOO-toh",
+          "strongs": "G1223/G3778",
+          "partOfSpeech": "preposition + demonstrative pronoun",
+          "literalMeaning": "because of this, for this reason",
+          "definition": "A causal phrase linking the parents' deflection directly to their fear. John makes the motive explicit — there's no ambiguity about why they refused to speak.",
+          "translationNote": "KJV's 'Therefore' captures the causal connection.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 24,
+      "verseText": "Then again called they the man that was blind, and said unto him, Give God the praise: we know that this man is a sinner.",
+      "freshTranslation": "So for a second time they summoned the man who had been blind and said to him, 'Give glory to God! We know this man is a sinner.'",
+      "historicalContext": "'Give God the praise' was a judicial formula meaning 'tell the truth before God' (cf. Joshua 7:19). 'We know this man is a sinner' — they've reached their verdict before completing the investigation.",
+      "crossRefs": [
+        {
+          "ref": "Joshua 7:19",
+          "explanation": "'Give glory to God' was the formula Joshua used when interrogating Achan — it means 'confess the truth under oath.'"
+        },
+        {
+          "ref": "John 9:16",
+          "explanation": "They've already decided He's a sinner — this is a predetermined verdict, not an investigation."
+        }
+      ],
+      "words": [
+        {
+          "english": "Give God the praise",
+          "original": "Δὸς δόξαν τῷ θεῷ",
+          "transliteration": "Dos doxan tō theō",
+          "pronunciation": "dos DOK-san toh theh-OH",
+          "strongs": "G1325/G1391/G2316",
+          "partOfSpeech": "verb aor. act. imp. + noun acc. + noun dat.",
+          "literalMeaning": "Give glory to God",
+          "definition": "A judicial oath formula (cf. Joshua 7:19 LXX). Not a call to praise but a demand to tell the truth under divine oath. The Pharisees are using a legal procedure, but their conclusion ('we know this man is a sinner') reveals they've already decided the verdict before hearing the testimony.",
+          "translationNote": "KJV's 'Give God the praise' could mislead modern readers into thinking this is a worship instruction. It's actually a courtroom demand: 'Tell the truth, so help you God.'",
+          "twisted": true,
+          "twistedExplanation": "Modern readers may miss that this is a legal formula, not an exhortation to worship. The phrase functions like swearing on a Bible in court — it's a demand for honest testimony under oath, and the Pharisees are using it to pressure a predetermined confession."
+        }
+      ]
+    },
+    {
+      "verseNumber": 25,
+      "verseText": "He answered and said, Whether he be a sinner or no, I know not: one thing I know, that, whereas I was blind, now I see.",
+      "freshTranslation": "He answered, 'Whether He is a sinner, I don't know. One thing I do know: I was blind, and now I see.'",
+      "historicalContext": "One of the most powerful testimonies in Scripture. The man refuses to engage in theological debate and sticks to undeniable personal experience. This is the pattern for all testimony: I can't explain everything, but I know what happened to me.",
+      "crossRefs": [
+        {
+          "ref": "1 John 1:1-3",
+          "explanation": "John's epistle uses the same pattern: testimony based on personal experience — 'what we have seen, heard, and touched.'"
+        },
+        {
+          "ref": "Acts 4:20",
+          "explanation": "'We cannot stop speaking about what we have seen and heard' — same boldness of personal testimony."
+        }
+      ],
+      "words": [
+        {
+          "english": "one thing",
+          "original": "ἓν",
+          "transliteration": "hen",
+          "pronunciation": "hen",
+          "strongs": "G1520",
+          "partOfSpeech": "adjective, accusative neuter singular",
+          "literalMeaning": "one",
+          "definition": "The number one, used here emphatically. The man strips away all theological debate and reduces his testimony to a single, undeniable fact. This rhetorical move is devastatingly effective — you can argue theology, but you can't argue with 'I was blind and now I see.'",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "I know",
+          "original": "οἶδα",
+          "transliteration": "oida",
+          "pronunciation": "OY-dah",
+          "strongs": "G1492",
+          "partOfSpeech": "verb, perfect active indicative, 1st person singular",
+          "literalMeaning": "I know, I perceive",
+          "definition": "From εἴδω (to see, perceive). The perfect tense indicates settled, certain knowledge — 'I have come to know and still know.' The man claims knowledge based on experience, not theory. The Pharisees claim knowledge based on tradition. The contrast is devastating.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "blind",
+          "original": "τυφλὸς",
+          "transliteration": "typhlos",
+          "pronunciation": "toof-LOS",
+          "strongs": "G5185",
+          "partOfSpeech": "adjective, nominative masculine singular",
+          "literalMeaning": "blind",
+          "definition": "The keyword of the chapter appears again. The man states the before-and-after with no embellishment. This is perhaps the most famous personal testimony in the Bible — a template for all Christian witness: 'I don't have all the answers, but I know what changed.'",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "I see",
+          "original": "βλέπω",
+          "transliteration": "blepō",
+          "pronunciation": "BLEH-poh",
+          "strongs": "G991",
+          "partOfSpeech": "verb, present active indicative, 1st person singular",
+          "literalMeaning": "I see",
+          "definition": "Present tense — 'I see right now, continuously.' The contrast between τυφλός ὤν (being blind — past state) and βλέπω (I see — present reality) is the irreducible fact no argument can overturn.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 26,
+      "verseText": "Then said they to him again, What did he to thee? how opened he thine eyes?",
+      "freshTranslation": "They asked him, 'What did He do to you? How did He open your eyes?'",
+      "historicalContext": "They circle back to the 'how' question, likely hoping to catch him in an inconsistency. Legal proceedings required consistent testimony from multiple examinations.",
+      "crossRefs": [
+        {
+          "ref": "John 9:10-11",
+          "explanation": "They already asked this. Repetition reveals frustration, not genuine inquiry."
+        }
+      ],
+      "words": [
+        {
+          "english": "What",
+          "original": "Τί",
+          "transliteration": "Ti",
+          "pronunciation": "tee",
+          "strongs": "G5101",
+          "partOfSpeech": "interrogative pronoun, accusative neuter singular",
+          "literalMeaning": "what?",
+          "definition": "The interrogative pronoun, asking about the nature of something. The Pharisees circle back to 'what' and 'how' — questions they've already asked (v.10, 15). The repetition signals not curiosity but desperation to find an inconsistency.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 27,
+      "verseText": "He answered them, I have told you already, and ye did not hear: wherefore would ye hear it again? will ye also be his disciples?",
+      "freshTranslation": "He answered them, 'I already told you and you didn't listen. Why do you want to hear it again? Do you also want to become His disciples?'",
+      "historicalContext": "The formerly blind beggar turns sarcastic with the religious elite. 'Do you want to become His disciples?' is either genuine or (more likely) biting irony. Either way, it's extraordinarily bold for a beggar addressing the Sanhedrin.",
+      "crossRefs": [
+        {
+          "ref": "Proverbs 23:9",
+          "explanation": "'Do not speak in the hearing of a fool, for he will despise the wisdom of your words.'"
+        }
+      ],
+      "words": [
+        {
+          "english": "I have told you already",
+          "original": "εἶπον ὑμῖν ἤδη",
+          "transliteration": "eipon hymin ēdē",
+          "pronunciation": "AY-pon hü-MEEN AY-day",
+          "strongs": "G2036/G5213/G2235",
+          "partOfSpeech": "verb aor. + pronoun dat. + adverb",
+          "literalMeaning": "I told you already",
+          "definition": "The man's patience has run out. ἤδη (already) carries exasperation. He's told the same story multiple times to different audiences and is tired of repeating himself. This is remarkably human — and remarkably bold for a former beggar addressing the ruling council.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "ye did not hear",
+          "original": "οὐκ ἠκούσατε",
+          "transliteration": "ouk ēkousate",
+          "pronunciation": "ook ay-KOO-sah-teh",
+          "strongs": "G3756/G191",
+          "partOfSpeech": "negative + verb, aorist active indicative, 2nd person plural",
+          "literalMeaning": "you did not hear/listen",
+          "definition": "From ἀκούω (to hear, listen, understand). ἀκούω means more than physical hearing — it implies understanding and accepting what is heard. The man accuses the Pharisees of willful deafness. They heard the words but refused to accept them. Root of English 'acoustic.'",
+          "translationNote": "Accurate. 'Hear' in biblical usage includes 'heed' and 'obey.'",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "disciples",
+          "original": "μαθηταὶ",
+          "transliteration": "mathētai",
+          "pronunciation": "mah-thay-TAI",
+          "strongs": "G3101",
+          "partOfSpeech": "noun, nominative masculine plural",
+          "literalMeaning": "learners, students, followers",
+          "definition": "From μανθάνω (to learn). A disciple is literally a 'learner' — someone who attaches themselves to a teacher. The man's question 'Do you also want to become His disciples?' is either cutting sarcasm or a genuine offer. Either way, it's explosive in this context.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 28,
+      "verseText": "Then they reviled him, and said, Thou art his disciple; but we are Moses' disciples.",
+      "freshTranslation": "They hurled insults at him and said, 'You are His disciple, but we are disciples of Moses!'",
+      "historicalContext": "The insults reveal they've lost the argument. 'Disciples of Moses' was their highest claim — they stood in the tradition of the Torah. The irony: Jesus said Moses wrote about Him (5:46).",
+      "crossRefs": [
+        {
+          "ref": "John 5:45-47",
+          "explanation": "Jesus already told them: 'If you believed Moses, you would believe Me, for he wrote about Me.'"
+        }
+      ],
+      "words": [
+        {
+          "english": "reviled",
+          "original": "ἐλοιδόρησαν",
+          "transliteration": "eloidorēsan",
+          "pronunciation": "eh-loy-DOH-ray-san",
+          "strongs": "G3058",
+          "partOfSpeech": "verb, aorist active indicative, 3rd person plural",
+          "literalMeaning": "they reviled, insulted, abused verbally",
+          "definition": "From λοίδορος (railer, reviler). Means to heap verbal abuse on someone — stronger than mere criticism. The aorist tense captures a burst of insults. When the Pharisees resort to personal attacks, it signals they've lost the intellectual argument. The same word is used of those who reviled Jesus on the cross (Matt 27:44).",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "Moses'",
+          "original": "Μωϋσέως",
+          "transliteration": "Mōuseōs",
+          "pronunciation": "moh-ü-SEH-ohs",
+          "strongs": "G3475",
+          "partOfSpeech": "proper noun, genitive masculine singular",
+          "literalMeaning": "of Moses",
+          "definition": "Moses (Hebrew מֹשֶׁה, Mosheh) — the supreme human authority in Judaism, through whom God gave the Torah. The Pharisees claim Moses as their teacher to position themselves above Jesus' followers. The irony: Jesus already told them 'Moses wrote about Me' (5:46).",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 29,
+      "verseText": "We know that God spake unto Moses: as for this fellow, we know not from whence he is.",
+      "freshTranslation": "'We know that God spoke to Moses, but as for this man, we don't even know where He comes from.'",
+      "historicalContext": "'We don't know where He comes from' is deeply ironic. In 7:27-28, they claimed to know where Jesus was from (Nazareth) and that disqualified Him. Now they claim ignorance. They keep shifting their objection.",
+      "crossRefs": [
+        {
+          "ref": "John 7:27-28",
+          "explanation": "Earlier they claimed to know where Jesus was from. Now they claim ignorance. Their objection shifts with the evidence."
+        },
+        {
+          "ref": "John 6:42",
+          "explanation": "'Is this not Jesus, the son of Joseph, whose father and mother we know?' — they keep contradicting themselves."
+        }
+      ],
+      "words": [
+        {
+          "english": "God spake",
+          "original": "θεὸς λελάληκεν",
+          "transliteration": "theos lelalēken",
+          "pronunciation": "theh-OS leh-LAH-lay-ken",
+          "strongs": "G2316/G2980",
+          "partOfSpeech": "noun nom. + verb, perfect active indicative",
+          "literalMeaning": "God has spoken",
+          "definition": "λαλέω means to talk, speak, or utter. The perfect tense — 'has spoken' — indicates a past action with permanent results: God spoke to Moses, and that speech remains authoritative. The Pharisees build their case on God's past revelation while ignoring God's present revelation standing in front of them.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "from whence",
+          "original": "πόθεν",
+          "transliteration": "pothen",
+          "pronunciation": "POH-then",
+          "strongs": "G4159",
+          "partOfSpeech": "interrogative adverb",
+          "literalMeaning": "from where? from what origin?",
+          "definition": "An adverb asking about origin or source. 'We don't know where He's from' is deeply ironic — in 7:27-28, they claimed to know exactly where Jesus was from (Nazareth) and used it against Him. Now they claim ignorance. Their objection contradicts their earlier position.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 30,
+      "verseText": "The man answered and said unto them, Why herein is a marvellous thing, that ye know not from whence he is, and yet he hath opened mine eyes.",
+      "freshTranslation": "The man answered, 'Now that is remarkable! You don't know where He comes from, yet He opened my eyes.'",
+      "historicalContext": "The man's logic is devastating in its simplicity. He turns their ignorance against them: the gap between what they claim to know and what actually happened should cause wonder, not hostility.",
+      "crossRefs": [
+        {
+          "ref": "John 3:10",
+          "explanation": "'You are the teacher of Israel, and you don't know these things?' — same irony directed at religious experts."
+        }
+      ],
+      "words": [
+        {
+          "english": "a marvellous thing",
+          "original": "θαυμαστόν",
+          "transliteration": "thaumaston",
+          "pronunciation": "thow-mah-STON",
+          "strongs": "G2298",
+          "partOfSpeech": "adjective, nominative neuter singular",
+          "literalMeaning": "wonderful, astonishing, remarkable",
+          "definition": "From θαυμάζω (to wonder, marvel, be amazed). The man turns the Pharisees' ignorance into an argument. Their not knowing where Jesus is from — despite the evidence of an unprecedented miracle — is itself the most remarkable thing in the room. This is devastating irony delivered by a former blind beggar to the highest religious court.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 31,
+      "verseText": "Now we know that God heareth not sinners: but if any man be a worshipper of God, and doeth his will, him he heareth.",
+      "freshTranslation": "'We know that God does not listen to sinners, but if anyone is a worshiper of God and does His will, God listens to that person.'",
+      "historicalContext": "The man articulates basic Jewish theology back at the theologians. Psalm 66:18, Proverbs 15:29, Isaiah 1:15 all teach that God doesn't hear the prayers of the wicked. If Jesus were a sinner, God wouldn't have empowered this miracle.",
+      "crossRefs": [
+        {
+          "ref": "Psalm 66:18",
+          "explanation": "'If I had cherished iniquity in my heart, the Lord would not have listened.'"
+        },
+        {
+          "ref": "Proverbs 15:29",
+          "explanation": "'The LORD is far from the wicked, but He hears the prayer of the righteous.'"
+        }
+      ],
+      "words": [
+        {
+          "english": "heareth",
+          "original": "ἀκούει",
+          "transliteration": "akouei",
+          "pronunciation": "ah-KOO-ay",
+          "strongs": "G191",
+          "partOfSpeech": "verb, present active indicative, 3rd person singular",
+          "literalMeaning": "he/she/it hears, listens to",
+          "definition": "From ἀκούω (to hear). The man states basic Jewish theology: God listens to the righteous. If Jesus were a sinner, God wouldn't have answered His prayer/action with this miracle. The logic is simple and airtight, drawn from the Pharisees' own scriptures (Ps 66:18, Prov 15:29).",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "worshipper of God",
+          "original": "θεοσεβὴς",
+          "transliteration": "theosebēs",
+          "pronunciation": "theh-oh-seh-BAYS",
+          "strongs": "G2318",
+          "partOfSpeech": "adjective, nominative masculine singular",
+          "literalMeaning": "God-fearing, God-worshiping",
+          "definition": "From θεός (God) + σέβομαι (to worship, revere). A compound adjective describing someone who genuinely worships God. This word appears only here in the NT. It was also used as a technical term for Gentile 'God-fearers' who attended synagogue without full conversion.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 32,
+      "verseText": "Since the world began was it not heard that any man opened the eyes of one that was born blind.",
+      "freshTranslation": "'Never since the world began has anyone heard of someone opening the eyes of a person born blind.'",
+      "historicalContext": "This is factually accurate. The Old Testament records healing of existing blindness (Elisha in 2 Kings 6:17-20), but never giving sight to someone born without it. This miracle is unprecedented — which is exactly John's point.",
+      "crossRefs": [
+        {
+          "ref": "Psalm 51:5",
+          "explanation": "Born in sin implies born in brokenness — only divine power can fix what was broken from the start."
+        },
+        {
+          "ref": "Isaiah 35:5",
+          "explanation": "'Then the eyes of the blind shall be opened' — messianic age sign."
+        }
+      ],
+      "words": [
+        {
+          "english": "Since the world began",
+          "original": "Ἐκ τοῦ αἰῶνος",
+          "transliteration": "Ek tou aiōnos",
+          "pronunciation": "ek too ai-OH-nos",
+          "strongs": "G1537/G165",
+          "partOfSpeech": "preposition + noun, genitive masculine singular",
+          "literalMeaning": "from the age, since eternity",
+          "definition": "αἰών means 'age' or 'eternity' — a vast stretch of time. The phrase means 'never in all of history.' The man makes a factual claim: opening eyes that were blind from birth is completely unprecedented. This isn't just unusual — it's unique in all of human history. Root of English 'aeon.'",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "opened",
+          "original": "ἤνοιξεν",
+          "transliteration": "ēnoixen",
+          "pronunciation": "AY-noy-ksen",
+          "strongs": "G455",
+          "partOfSpeech": "verb, aorist active indicative, 3rd person singular",
+          "literalMeaning": "he/she/it opened",
+          "definition": "From ἀνοίγω (to open). Here in the active voice — someone actively opened these eyes. The man increasingly attributes agency to Jesus directly, moving from passive descriptions to active ones.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 33,
+      "verseText": "If this man were not of God, he could do nothing.",
+      "freshTranslation": "'If this man were not from God, He could do nothing.'",
+      "historicalContext": "The man reaches the logical conclusion that the Pharisees refuse to reach. His theology is simple but airtight: unprecedented miracle = divine origin.",
+      "crossRefs": [
+        {
+          "ref": "John 3:2",
+          "explanation": "Nicodemus reached the same conclusion: 'No one can do these signs unless God is with him.'"
+        }
+      ],
+      "words": [
+        {
+          "english": "of God",
+          "original": "θεοῦ",
+          "transliteration": "theou",
+          "pronunciation": "theh-OO",
+          "strongs": "G2316",
+          "partOfSpeech": "noun, genitive masculine singular",
+          "literalMeaning": "of God, from God",
+          "definition": "The man reaches the logical conclusion: Jesus must be 'from God' (παρὰ θεοῦ). This is the third stage of his revelation: man (v.11) → prophet (v.17) → from God (v.33). One more step remains: Lord (v.38).",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "nothing",
+          "original": "οὐδέν",
+          "transliteration": "ouden",
+          "pronunciation": "oo-DEN",
+          "strongs": "G3762",
+          "partOfSpeech": "adjective, accusative neuter singular",
+          "literalMeaning": "nothing, not one thing",
+          "definition": "An emphatic negative — not just 'nothing much' but absolutely nothing at all. The argument is airtight: without divine backing, Jesus could accomplish literally zero miracles of this magnitude.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 34,
+      "verseText": "They answered and said unto him, Thou wast altogether born in sins, and dost thou teach us? And they cast him out.",
+      "freshTranslation": "They answered him, 'You were born entirely in sins, and you are trying to teach us?' And they threw him out.",
+      "historicalContext": "'Born entirely in sins' — they weaponize the very theology Jesus rejected in verse 3. They use his blindness as proof of his moral inferiority. The excommunication (cast out) is exactly what the parents feared in verse 22.",
+      "crossRefs": [
+        {
+          "ref": "John 16:2",
+          "explanation": "Jesus predicted excommunication for His followers."
+        },
+        {
+          "ref": "Isaiah 66:5",
+          "explanation": "'Your brothers who hate you and exclude you for My name's sake' — Isaiah foresaw this."
+        }
+      ],
+      "words": [
+        {
+          "english": "altogether born in sins",
+          "original": "ἐν ἁμαρτίαις σὺ ἐγεννήθης ὅλος",
+          "transliteration": "en hamartiais sy egennēthēs holos",
+          "pronunciation": "en hah-mar-TEE-ais sü eh-gen-NAY-thays HOH-los",
+          "strongs": "G1722/G266/G4771/G1080/G3650",
+          "partOfSpeech": "prep. + noun dat. pl. + pron. nom. + verb aor. pass. + adj. nom.",
+          "literalMeaning": "in sins you were born completely",
+          "definition": "They weaponize the theology Jesus rejected in verse 3. The man's blindness from birth 'proves' he was sinful from the womb. ὅλος (wholly, completely) intensifies the insult — you are nothing but sin. This is the same theological abuse Job's friends employed.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "thou teach us",
+          "original": "σὺ διδάσκεις ἡμᾶς",
+          "transliteration": "sy didaskeis hēmas",
+          "pronunciation": "sü dee-DAHS-kays hay-MAHS",
+          "strongs": "G4771/G1321/G1473",
+          "partOfSpeech": "pron. nom. + verb pres. act. + pron. acc.",
+          "literalMeaning": "you are teaching us?!",
+          "definition": "The emphatic σύ (you!) expresses outrage. A blind beggar — born in sin, uneducated, from the lowest social class — presuming to instruct the Pharisees? The social hierarchy violation enrages them more than the theological argument.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "cast him out",
+          "original": "ἐξέβαλον",
+          "transliteration": "exebalon",
+          "pronunciation": "ek-SEH-bah-lon",
+          "strongs": "G1544",
+          "partOfSpeech": "verb, aorist active indicative, 3rd person plural",
+          "literalMeaning": "they threw out, expelled",
+          "definition": "From ἐκ (out) + βάλλω (to throw). A forceful word — used of driving out demons (Mark 1:34), overturning temple tables (John 2:15), and excommunicating. This is likely the formal ἀποσυνάγωγος expulsion threatened in verse 22. The man loses his community for telling the truth.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 35,
+      "verseText": "Jesus heard that they had cast him out; and when he had found him, he said unto him, Dost thou believe on the Son of God?",
+      "freshTranslation": "Jesus heard that they had thrown him out, and finding him, He asked, 'Do you believe in the Son of Man?'",
+      "historicalContext": "Jesus seeks out the rejected man — a consistent pattern (cf. the Samaritan woman, Zacchaeus). 'Son of Man' is Jesus' preferred self-designation, drawn from Daniel 7:13-14, where the Son of Man receives an eternal kingdom from the Ancient of Days.",
+      "crossRefs": [
+        {
+          "ref": "Daniel 7:13-14",
+          "explanation": "'Son of Man' comes from Daniel's vision of one who receives everlasting dominion from the Ancient of Days."
+        },
+        {
+          "ref": "Luke 19:10",
+          "explanation": "'The Son of Man came to seek and save the lost' — Jesus actively finds the rejected."
+        }
+      ],
+      "words": [
+        {
+          "english": "heard",
+          "original": "ἤκουσεν",
+          "transliteration": "ēkousen",
+          "pronunciation": "AY-koo-sen",
+          "strongs": "G191",
+          "partOfSpeech": "verb, aorist active indicative, 3rd person singular",
+          "literalMeaning": "he heard",
+          "definition": "Jesus hears about the expulsion — probably through His network of followers. The Good Shepherd doesn't lose track of His sheep. He actively seeks the man who was cast out, just as He sought the Samaritan woman and Zacchaeus.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "found",
+          "original": "εὑρὼν",
+          "transliteration": "heurōn",
+          "pronunciation": "hyoo-ROHN",
+          "strongs": "G2147",
+          "partOfSpeech": "verb, aorist active participle, nominative masculine singular",
+          "literalMeaning": "having found",
+          "definition": "From εὑρίσκω (to find, discover). The aorist participle indicates Jesus actively searched and found the man. This isn't a chance encounter — it's a deliberate pursuit. Root of 'eureka' and 'heuristic.' The shepherd seeks the lost sheep.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "Son of God",
+          "original": "υἱὸν τοῦ ἀνθρώπου",
+          "transliteration": "huion tou anthrōpou",
+          "pronunciation": "hwee-ON too ahn-THROH-poo",
+          "strongs": "G5207/G444",
+          "partOfSpeech": "noun acc. + noun gen.",
+          "literalMeaning": "Son of Man",
+          "definition": "Many early manuscripts read 'Son of Man' (υἱὸν τοῦ ἀνθρώπου) rather than 'Son of God' (υἱὸν τοῦ θεοῦ). 'Son of Man' is Jesus' preferred self-designation, drawn from Daniel 7:13-14 where this figure receives eternal dominion. It's both a messianic title and a claim to heavenly authority.",
+          "translationNote": "Critical textual variant. The earliest and best manuscripts (P66, P75, Sinaiticus, Vaticanus) read 'Son of Man,' not 'Son of God' as in the KJV. 'Son of Man' is more likely original since it's the harder reading and Jesus' characteristic self-title.",
+          "twisted": true,
+          "twistedExplanation": "The KJV follows later manuscripts reading 'Son of God' (θεοῦ), but the earliest manuscripts read 'Son of Man' (ἀνθρώπου). While both are true titles of Jesus, 'Son of Man' is the more probable original and carries the Daniel 7 messianic connotation that Jesus consistently used."
+        }
+      ]
+    },
+    {
+      "verseNumber": 36,
+      "verseText": "He answered and said, Who is he, Lord, that I might believe on him?",
+      "freshTranslation": "He answered, 'Who is He, Lord, so that I may believe in Him?'",
+      "historicalContext": "The man has never seen Jesus — he was blind during their first encounter. He wants to believe but needs to know who to direct his faith toward. Honest seeking.",
+      "crossRefs": [
+        {
+          "ref": "John 4:25-26",
+          "explanation": "Same pattern with the Samaritan woman: she expressed openness, and Jesus revealed His identity."
+        },
+        {
+          "ref": "Acts 8:37",
+          "explanation": "Ethiopian eunuch asks a similar question of willing faith: 'What prevents me from being baptized?'"
+        }
+      ],
+      "words": [
+        {
+          "english": "Who is he",
+          "original": "Τίς ἐστιν",
+          "transliteration": "Tis estin",
+          "pronunciation": "tis ES-tin",
+          "strongs": "G5101/G1510",
+          "partOfSpeech": "interrogative pronoun + verb, present indicative",
+          "literalMeaning": "who is (he)?",
+          "definition": "The man has never seen Jesus — he was blind during their first encounter. His question is genuine, not skeptical. He's willing to believe; he just needs to know who to believe in. This is the model of honest seeking.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "Lord",
+          "original": "Κύριε",
+          "transliteration": "Kyrie",
+          "pronunciation": "KÜ-ree-eh",
+          "strongs": "G2962",
+          "partOfSpeech": "noun, vocative masculine singular",
+          "literalMeaning": "lord, master, sir",
+          "definition": "From κῦρος (authority, supremacy). Can mean anything from polite 'sir' to divine 'Lord.' At this point the man likely means 'sir,' but by verse 38 it will carry full theological weight. The word's range mirrors the man's growing understanding.",
+          "translationNote": "The double meaning of Κύριε (sir/Lord) is lost in translation — English forces a choice. The ambiguity is intentional.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "believe",
+          "original": "πιστεύσω",
+          "transliteration": "pisteusō",
+          "pronunciation": "pis-TYOO-soh",
+          "strongs": "G4100",
+          "partOfSpeech": "verb, aorist active subjunctive, 1st person singular",
+          "literalMeaning": "I may believe, trust",
+          "definition": "From πίστις (faith, trust). In John, πιστεύω is the key verb — appearing 98 times. It means active trust, not mere intellectual assent. The subjunctive mood expresses purpose: 'so that I may believe.' The man is ready to act on whatever answer he receives.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 37,
+      "verseText": "And Jesus said unto him, Thou hast both seen him, and it is he that talketh with thee.",
+      "freshTranslation": "Jesus said to him, 'You have seen Him; in fact, He is the one speaking with you.'",
+      "historicalContext": "Jesus reveals Himself directly, as He did with the Samaritan woman (4:26). 'You have seen Him' — these are the first eyes the man has ever seen Jesus with. The physical sight he received is now the vehicle for spiritual sight.",
+      "crossRefs": [
+        {
+          "ref": "John 4:26",
+          "explanation": "'I who speak to you am He' — nearly identical self-revelation to the Samaritan woman."
+        },
+        {
+          "ref": "John 14:9",
+          "explanation": "'He who has seen Me has seen the Father' — seeing Jesus is the ultimate revelation."
+        }
+      ],
+      "words": [
+        {
+          "english": "Thou hast seen him",
+          "original": "ἑώρακας αὐτόν",
+          "transliteration": "heōrakas auton",
+          "pronunciation": "heh-OH-rah-kas ow-TON",
+          "strongs": "G3708/G846",
+          "partOfSpeech": "verb, perfect active indicative + pronoun accusative",
+          "literalMeaning": "you have seen him",
+          "definition": "From ὁράω (to see). The perfect tense — 'you have seen and continue to see.' These are the first functional eyes this man has ever had, and Jesus is telling him: the very sight I gave you is now showing you who I am. The gift of physical sight becomes the vehicle for spiritual sight.",
+          "translationNote": "Accurate. The poignancy is enormous — this man is seeing Jesus' face for the first time in his life.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "talketh",
+          "original": "λαλῶν",
+          "transliteration": "lalōn",
+          "pronunciation": "lah-LOHN",
+          "strongs": "G2980",
+          "partOfSpeech": "verb, present active participle, nominative masculine singular",
+          "literalMeaning": "the one speaking",
+          "definition": "From λαλέω (to speak). The present participle — 'the one currently speaking to you.' Jesus identifies Himself by the act of speech happening in real time. No intermediary, no secondhand report: 'I am right here, right now, speaking directly to you.'",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 38,
+      "verseText": "And he said, Lord, I believe. And he worshipped him.",
+      "freshTranslation": "He said, 'Lord, I believe!' And he worshiped Him.",
+      "historicalContext": "The progression is complete: 'a man called Jesus' (v.11) → 'a prophet' (v.17) → 'from God' (v.33) → 'Lord, I believe' + worship. Worship (προσκυνέω) was reserved for God alone in Jewish practice. The man recognizes Jesus' divinity.",
+      "crossRefs": [
+        {
+          "ref": "John 20:28",
+          "explanation": "Thomas' confession: 'My Lord and my God!' — same progression from doubt to worship."
+        },
+        {
+          "ref": "Matthew 14:33",
+          "explanation": "Disciples worshiped Jesus after He walked on water — worship is the natural response to revealed divinity."
+        }
+      ],
+      "words": [
+        {
+          "english": "Lord",
+          "original": "Κύριε",
+          "transliteration": "Kyrie",
+          "pronunciation": "KÜ-ree-eh",
+          "strongs": "G2962",
+          "partOfSpeech": "noun, vocative masculine singular",
+          "literalMeaning": "Lord, Master",
+          "definition": "The same word as verse 36, but now loaded with full theological weight. In v.36 it meant 'sir'; here it means 'Lord' — divine authority. The transformation of this single word mirrors the man's entire journey from blindness to sight, from ignorance to worship.",
+          "translationNote": "Accurate. Context makes the shift from 'sir' to 'Lord' clear.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "I believe",
+          "original": "Πιστεύω",
+          "transliteration": "Pisteuō",
+          "pronunciation": "pis-TYOO-oh",
+          "strongs": "G4100",
+          "partOfSpeech": "verb, present active indicative, 1st person singular",
+          "literalMeaning": "I believe, I trust",
+          "definition": "The present tense — ongoing, active faith. Not 'I believed' (once) but 'I believe' (now and continuing). This is the climax of the man's progressive revelation and the climax of the chapter's narrative arc. From darkness to light, from ignorance to faith.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "worshipped",
+          "original": "προσεκύνησεν",
+          "transliteration": "prosekynēsen",
+          "pronunciation": "pros-eh-KÜ-nay-sen",
+          "strongs": "G4352",
+          "partOfSpeech": "verb, aorist active indicative, 3rd person singular",
+          "literalMeaning": "he bowed down in worship, prostrated himself",
+          "definition": "From πρός (toward) + κυνέω (to kiss). Originally described the act of bowing and kissing someone's feet or the ground before them — the ultimate gesture of submission and adoration. In Jewish practice, this level of worship was reserved exclusively for God. The man worships Jesus, and Jesus does not correct him — accepting worship that belongs only to God.",
+          "translationNote": "Accurate. The significance is enormous: a Jewish man offers God-level worship to Jesus, and Jesus accepts it.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 39,
+      "verseText": "And Jesus said, For judgment I am come into this world, that they which see not might see; and that they which see might be made blind.",
+      "freshTranslation": "Jesus said, 'For judgment I came into this world — so that those who do not see may see, and those who see may become blind.'",
+      "historicalContext": "Jesus states the paradox of His ministry: He brings sight to the blind and exposes the blindness of those who think they see. This is judgment (κρίμα) — not condemnation but separation, like light separating from darkness (Genesis 1:4).",
+      "crossRefs": [
+        {
+          "ref": "John 3:19",
+          "explanation": "'This is the judgment: the light has come into the world, and people loved the darkness rather than the light.'"
+        },
+        {
+          "ref": "Luke 2:34",
+          "explanation": "Simeon prophesied Jesus was 'appointed for the fall and rising of many in Israel.'"
+        }
+      ],
+      "words": [
+        {
+          "english": "judgment",
+          "original": "κρίμα",
+          "transliteration": "krima",
+          "pronunciation": "KREE-mah",
+          "strongs": "G2917",
+          "partOfSpeech": "noun, accusative neuter singular",
+          "literalMeaning": "judgment, verdict, decision",
+          "definition": "From κρίνω (to judge, decide, separate). Not κρίσις (the process of judging) but κρίμα (the result or verdict). Jesus doesn't come primarily to condemn but to separate — His presence forces a decision that divides people. Like light entering a room: it doesn't create the darkness, but it reveals what was hidden.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "see not",
+          "original": "μὴ βλέποντες",
+          "transliteration": "mē blepontes",
+          "pronunciation": "may BLEH-pon-tes",
+          "strongs": "G3361/G991",
+          "partOfSpeech": "negative particle + verb, present active participle",
+          "literalMeaning": "the ones not seeing",
+          "definition": "Those who know they don't see — the humble, the seeking, the aware-of-their-blindness. The blind man is the model: he knew he couldn't see, and that's precisely what made him open to receiving sight. Humility about one's blindness is the prerequisite for vision.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "might be made blind",
+          "original": "τυφλοὶ γένωνται",
+          "transliteration": "typhloi genōntai",
+          "pronunciation": "toof-LOY GEH-nohn-tai",
+          "strongs": "G5185/G1096",
+          "partOfSpeech": "adjective nom. pl. + verb, aorist middle subjunctive",
+          "literalMeaning": "might become blind",
+          "definition": "Those who claim to see — the Pharisees, the self-assured, the theologically confident — are exposed as blind. Their 'seeing' was always an illusion. Jesus' light doesn't make them blind; it reveals that they always were. The subjunctive mood indicates result, not intention.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 40,
+      "verseText": "And some of the Pharisees which were with him heard these words, and said unto him, Are we blind also?",
+      "freshTranslation": "Some Pharisees who were with Him heard this and asked, 'We aren't blind too, are we?'",
+      "historicalContext": "The Pharisees sense the implication and ask with the Greek particle μή, expecting a negative answer: 'Surely we're not blind, are we?' They expect Jesus to reassure them.",
+      "crossRefs": [
+        {
+          "ref": "Matthew 15:14",
+          "explanation": "'They are blind guides of the blind' — Jesus used this metaphor of the Pharisees elsewhere."
+        },
+        {
+          "ref": "Romans 2:19",
+          "explanation": "Paul addresses those 'confident that you are a guide to the blind' — Pharisaic self-image."
+        }
+      ],
+      "words": [
+        {
+          "english": "Are we blind also?",
+          "original": "Μὴ καὶ ἡμεῖς τυφλοί ἐσμεν",
+          "transliteration": "Mē kai hēmeis typhloi esmen",
+          "pronunciation": "may kai hay-MAYS toof-LOY es-MEN",
+          "strongs": "G3361/G2532/G1473/G5185/G1510",
+          "partOfSpeech": "neg. particle + conj. + pron. nom. + adj. nom. + verb pres.",
+          "literalMeaning": "Surely we too are not blind, are we?",
+          "definition": "The particle μή expects a negative answer: 'No, of course not.' The Pharisees are confident Jesus will exempt them from His statement about blindness. They expect reassurance. They don't get it.",
+          "translationNote": "The Greek construction (μή expecting 'no') adds irony that's hard to capture in English. They ask a question designed to receive comfort but receive condemnation instead.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 41,
+      "verseText": "Jesus said unto them, If ye were blind, ye should have no sin: but now ye say, We see; therefore your sin remaineth.",
+      "freshTranslation": "Jesus said to them, 'If you were blind, you would have no sin. But since you say, \"We see,\" your sin remains.'",
+      "historicalContext": "Jesus doesn't reassure them. Their sin is not ignorance — it's willful blindness. If they admitted they couldn't see, they could be healed. But claiming 'We see' while rejecting the evidence makes their blindness permanent and their sin unforgivable.",
+      "crossRefs": [
+        {
+          "ref": "John 15:22",
+          "explanation": "'If I had not come and spoken to them, they would not have sin' — same principle: revelation increases accountability."
+        },
+        {
+          "ref": "James 4:17",
+          "explanation": "'To the one who knows the right thing to do and does not do it, to him it is sin.'"
+        }
+      ],
+      "words": [
+        {
+          "english": "If ye were blind",
+          "original": "Εἰ τυφλοὶ ἦτε",
+          "transliteration": "Ei typhloi ēte",
+          "pronunciation": "ay toof-LOY AY-teh",
+          "strongs": "G1487/G5185/G1510",
+          "partOfSpeech": "conjunction + adjective + verb, imperfect indicative",
+          "literalMeaning": "if you were blind",
+          "definition": "A contrary-to-fact conditional: 'If you were blind (but you claim you're not).' Jesus acknowledges their claim and turns it against them. True blindness (genuine ignorance) would excuse them. But they claim sight — which means they've chosen their darkness.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "no sin",
+          "original": "οὐκ ἂν εἴχετε ἁμαρτίαν",
+          "transliteration": "ouk an eichete hamartian",
+          "pronunciation": "ook ahn AY-kheh-teh hah-mar-TEE-ahn",
+          "strongs": "G3756/G302/G2192/G266",
+          "partOfSpeech": "neg. + particle + verb imperf. + noun acc.",
+          "literalMeaning": "you would not be having sin",
+          "definition": "The conditional structure: if they admitted blindness, they would have no guilt. Ignorance is not the same as willful rejection. The Pharisees aren't guilty because they can't see — they're guilty because they refuse to see while claiming they already do.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "We see",
+          "original": "Βλέπομεν",
+          "transliteration": "Blepomen",
+          "pronunciation": "BLEH-poh-men",
+          "strongs": "G991",
+          "partOfSpeech": "verb, present active indicative, 1st person plural",
+          "literalMeaning": "we see",
+          "definition": "The final use of βλέπω in the chapter. The Pharisees claim sight — and that claim is their condemnation. The man born blind gained sight and received salvation. The Pharisees who always had sight lost their souls. The entire chapter is an extended metaphor that resolves here.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "remaineth",
+          "original": "μένει",
+          "transliteration": "menei",
+          "pronunciation": "MEH-nay",
+          "strongs": "G3306",
+          "partOfSpeech": "verb, present active indicative, 3rd person singular",
+          "literalMeaning": "remains, abides, stays",
+          "definition": "From μένω (to remain, abide, stay). A key Johannine verb (40+ times in John). The present tense: their sin remains as an ongoing, permanent condition — not because it can't be forgiven, but because they refuse to acknowledge it exists. As long as they say 'we see,' they'll never seek the cure for their blindness.",
+          "translationNote": "Accurate. μένω is one of John's most important theological words — here it describes sin's permanence in those who refuse to acknowledge it.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    }
+  ]
+}

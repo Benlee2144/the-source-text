@@ -1382,6 +1382,1498 @@
           "twistedExplanation": "'Declared' (KJV) and even 'made known' (NIV) understate exēgēsato. The word means to interpret, explain, narrate fully — to exegete. Jesus didn't just 'declare' God like making an announcement. He EXPLAINED God. He interpreted God into human language, human experience, human flesh. This is the thesis of John's gospel in one word, and most translations undersell it."
         }
       ]
+    },
+    {
+      "verseNumber": 19,
+      "verseText": "And this is the record of John, when the Jews sent priests and Levites from Jerusalem to ask him, Who art thou?",
+      "freshTranslation": "Now this is the testimony John gave when the Jewish leaders in Jerusalem sent priests and Levites to question him: 'Who are you?'",
+      "historicalContext": "The Sanhedrin had authority to investigate anyone claiming prophetic status. Sending both priests (who handled Temple rituals) and Levites (Temple assistants) shows this was an official inquiry, not casual curiosity. John was baptizing at the Jordan — an act that implied spiritual authority — and the religious establishment needed to know if he was a threat or a fraud.",
+      "crossRefs": [
+        {
+          "ref": "Deuteronomy 18:15-19",
+          "explanation": "The Torah commanded Israel to listen to a coming prophet like Moses — the leaders needed to determine if John was that prophet."
+        },
+        {
+          "ref": "Malachi 4:5",
+          "explanation": "Malachi prophesied Elijah would return before the great day of the Lord, one of the specific identities they ask John about."
+        }
+      ],
+      "words": [
+        {
+          "english": "And this is",
+          "original": "Καὶ αὕτη ἐστίν",
+          "transliteration": "Kai hautē estin",
+          "pronunciation": "kai HOW-tay es-TEEN",
+          "strongs": "G2532, G3778, G1510",
+          "partOfSpeech": "conjunction + demonstrative pronoun (nominative feminine singular) + verb (present active indicative, 3rd person singular)",
+          "literalMeaning": "and this is",
+          "definition": "The phrase opens a new section with emphasis. The demonstrative pronoun αὕτη (this) points forward to what follows — it's a literary device that says 'pay attention, here comes the important part.' John's Gospel frequently uses this kind of forward-pointing introduction to signal a key narrative moment.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "the testimony",
+          "original": "ἡ μαρτυρία",
+          "transliteration": "hē martyria",
+          "pronunciation": "hay mar-too-REE-ah",
+          "strongs": "G3141",
+          "partOfSpeech": "noun (nominative feminine singular)",
+          "literalMeaning": "witness, testimony, evidence",
+          "definition": "From the root μάρτυς (martys, witness), this is formal, legal testimony — the kind you'd give in a courtroom. In Greek culture, a martyria carried the weight of sworn evidence. The English word 'martyr' comes from this root because early Christians were 'witnesses' who died for their testimony. John's Gospel uses this word and its cognates more than any other book — testimony and witness are central themes. The KJV's 'record' misses the legal weight of the term.",
+          "translationNote": "KJV translates this as 'record,' which sounds like a written document. The Greek implies active, spoken testimony — a witness taking the stand.",
+          "twisted": true,
+          "twistedExplanation": "Translating μαρτυρία as 'record' strips away the courtroom imagery that's central to John's Gospel. John the Baptist isn't filing paperwork — he's giving sworn testimony about who Jesus is. The entire Gospel of John is structured as a legal case with witnesses."
+        },
+        {
+          "english": "of John",
+          "original": "τοῦ Ἰωάννου",
+          "transliteration": "tou Iōannou",
+          "pronunciation": "too ee-oh-AHN-noo",
+          "strongs": "G2491",
+          "partOfSpeech": "proper noun (genitive masculine singular)",
+          "literalMeaning": "John (from Hebrew Yochanan, 'YHWH is gracious')",
+          "definition": "Ἰωάννης is the Greek form of the Hebrew name יוחנן (Yochanan), meaning 'the LORD has been gracious.' This is John the Baptist, son of the priest Zechariah. His very name is a theological statement — God's grace is arriving. Notably, the Gospel of John never calls him 'the Baptist'; he's simply 'John,' since the author assumes readers know which John he means.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "when the Jews sent",
+          "original": "ὅτε ἀπέστειλαν οἱ Ἰουδαῖοι",
+          "transliteration": "hote apesteilan hoi Ioudaioi",
+          "pronunciation": "HOH-teh ah-PES-tie-lan hoy ee-oo-DYE-oy",
+          "strongs": "G3753, G649, G2453",
+          "partOfSpeech": "conjunction (temporal) + verb (aorist active indicative, 3rd person plural) + article + noun (nominative masculine plural)",
+          "literalMeaning": "when sent away the Judeans/Jewish leaders",
+          "definition": "Three important words here. ἀπέστειλαν (apesteilan) is from ἀποστέλλω — the same root as 'apostle.' It means to send someone on an official mission with authority. This wasn't casual — it was a formal delegation. Οἱ Ἰουδαῖοι (hoi Ioudaioi) in John's Gospel almost always refers to the Jewish religious leadership in Jerusalem, not the Jewish people generally. This is critical for understanding John — he's not anti-Semitic (he's Jewish himself); he's describing a conflict between Jesus and the religious establishment.",
+          "translationNote": "Translating Ἰουδαῖοι simply as 'the Jews' has caused centuries of anti-Jewish sentiment. In John's Gospel, this term almost always means the Judean religious authorities — the power structure, not the ethnicity.",
+          "twisted": true,
+          "twistedExplanation": "The blanket translation 'the Jews' obscures that John is talking about specific religious leaders in Jerusalem, not an entire people. Jesus, his disciples, and John the Baptist were all Jewish. The conflict is institutional, not ethnic."
+        },
+        {
+          "english": "priests and Levites",
+          "original": "ἱερεῖς καὶ Λευίτας",
+          "transliteration": "hiereis kai Leuitas",
+          "pronunciation": "hee-eh-RICE kai leh-VEE-tahs",
+          "strongs": "G2409, G3019",
+          "partOfSpeech": "noun (accusative masculine plural) + conjunction + noun (accusative masculine plural)",
+          "literalMeaning": "priests and Levites",
+          "definition": "Ἱερεῖς (hiereis) were the descendants of Aaron who performed Temple sacrifices and rituals. Λευῖται (Leuitai) were from the broader tribe of Levi and served as Temple assistants — they guarded gates, sang in choirs, and handled logistics. Sending both groups together indicates this was a full official Temple delegation. The combination 'priests and Levites' echoes Old Testament language and would immediately signal to a Jewish reader that this was a formal religious investigation.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "from Jerusalem",
+          "original": "ἐξ Ἱεροσολύμων",
+          "transliteration": "ex Hierosolymōn",
+          "pronunciation": "ex hee-eh-ro-SO-loo-mohn",
+          "strongs": "G1537, G2414",
+          "partOfSpeech": "preposition + proper noun (genitive neuter plural)",
+          "literalMeaning": "out of Jerusalem",
+          "definition": "Jerusalem was the seat of religious and political power in Judea. The preposition ἐξ (ex, 'out of') emphasizes that these delegates came FROM the center of power TO the wilderness where John was operating. There's a geographic and theological contrast at work — the establishment travels out to the margins to confront this wilderness prophet. Ἱεροσόλυμα is the Greek form of the Hebrew ירושלים (Yerushalayim).",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "to ask him",
+          "original": "ἵνα ἐρωτήσωσιν αὐτόν",
+          "transliteration": "hina erōtēsōsin auton",
+          "pronunciation": "HEE-nah eh-ro-TAY-so-sin ow-TOHN",
+          "strongs": "G2443, G2065, G846",
+          "partOfSpeech": "conjunction (purpose) + verb (aorist active subjunctive, 3rd person plural) + pronoun (accusative masculine singular)",
+          "literalMeaning": "in order that they might question him",
+          "definition": "The verb ἐρωτάω (erōtaō) means to ask or question, but carries a slightly more formal tone than the simple αἰτέω (aiteō). Combined with the purpose clause ἵνα, this shows the delegation had a specific mandate — they were sent with the express purpose of interrogating John. This wasn't a friendly visit.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "Who are you?",
+          "original": "Σὺ τίς εἶ;",
+          "transliteration": "Sy tis ei?",
+          "pronunciation": "SOO tees AY",
+          "strongs": "G4771, G5101, G1510",
+          "partOfSpeech": "pronoun (nominative, 2nd person singular) + interrogative pronoun + verb (present active indicative, 2nd person singular)",
+          "literalMeaning": "You — who are you?",
+          "definition": "The emphatic pronoun Σύ (sy, 'you') placed first gives this a confrontational edge. In Greek, the subject pronoun is usually unnecessary since the verb ending shows the person. Including it adds emphasis — 'YOU — who are you?' It's not a polite inquiry; it's a demand for identification from people who have the authority to judge his answer.",
+          "translationNote": "The KJV's 'Who art thou?' captures the directness fairly well, though the archaic language softens what is essentially a pointed demand.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 20,
+      "verseText": "And he confessed, and denied not; but confessed, I am not the Christ.",
+      "freshTranslation": "He declared openly — he did not evade or refuse to answer — he stated plainly, 'I am not the Messiah.'",
+      "historicalContext": "The triple emphasis (confessed, denied not, confessed) is a legal formula stressing that John's testimony was voluntary, clear, and on the record. Messianic expectations were at fever pitch in first-century Judea — multiple figures had claimed to be the Messiah, and the Romans had crushed them all. John could have seized this moment for personal power but instead immediately deflected.",
+      "crossRefs": [
+        {
+          "ref": "John 3:28",
+          "explanation": "John later reaffirms this same point: 'I am not the Christ, but I have been sent before him.'"
+        },
+        {
+          "ref": "Acts 13:25",
+          "explanation": "Paul references this moment — John publicly denying he was the expected one."
+        }
+      ],
+      "words": [
+        {
+          "english": "he confessed",
+          "original": "ὡμολόγησεν",
+          "transliteration": "hōmologēsen",
+          "pronunciation": "ho-mo-LO-gay-sen",
+          "strongs": "G3670",
+          "partOfSpeech": "verb (aorist active indicative, 3rd person singular)",
+          "literalMeaning": "he spoke the same, he agreed openly",
+          "definition": "From ὁμός (homos, 'same') and λέγω (legō, 'to speak'). Literally 'to say the same thing,' meaning to agree or declare openly. In legal contexts, it meant to make a formal declaration or confession. The word implies no ambiguity — John wasn't hinting or being coy. He made a clear public statement. This is the root of our word 'homologous.' In early Christian usage, it became the technical term for confessing one's faith.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "and denied not",
+          "original": "καὶ οὐκ ἠρνήσατο",
+          "transliteration": "kai ouk ērnēsato",
+          "pronunciation": "kai ook air-NAY-sah-toh",
+          "strongs": "G2532, G3756, G720",
+          "partOfSpeech": "conjunction + negation particle + verb (aorist middle indicative, 3rd person singular)",
+          "literalMeaning": "and he did not deny/disown",
+          "definition": "Ἀρνέομαι (arneomai) means to deny, refuse, or disown. The middle voice suggests he didn't deny it for his own sake — he had no personal agenda in evading the question. The double expression 'confessed and denied not' is a Hebrew literary device called litotes — stating something positively and then negating its opposite for emphasis. It's like saying 'he was brave and not a coward' — the redundancy drives the point home.",
+          "translationNote": "Accurate — the double construction is actually preserved well in English.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "the Christ",
+          "original": "ὁ Χριστός",
+          "transliteration": "ho Christos",
+          "pronunciation": "ho khris-TOHS",
+          "strongs": "G5547",
+          "partOfSpeech": "noun with article (nominative masculine singular)",
+          "literalMeaning": "the Anointed One",
+          "definition": "Χριστός is the Greek translation of the Hebrew מָשִׁיחַ (mashiach, 'Messiah'), meaning 'anointed one.' In ancient Israel, kings, priests, and sometimes prophets were anointed with oil as a sign of divine appointment. By the first century, 'the Messiah' had become a loaded political and theological term — most Jews expected a warrior-king who would overthrow Rome and restore Israel's sovereignty. The article ὁ ('the') is critical — John isn't denying he's 'anointed' in a general sense; he's denying he's THE Anointed One, the specific promised deliverer.",
+          "translationNote": "The word 'Christ' has become so common in English that most people don't realize it's a title, not a surname. Jesus Christ literally means 'Jesus the Anointed King.'",
+          "twisted": true,
+          "twistedExplanation": "By leaving 'Christ' untranslated, most English readers think it's Jesus' last name rather than a royal title. The original audience would have heard 'the Messiah' — a politically explosive claim to kingship."
+        }
+      ]
+    },
+    {
+      "verseNumber": 21,
+      "verseText": "And they asked him, What then? Art thou Elias? And he saith, I am not. Art thou that prophet? And he answered, No.",
+      "freshTranslation": "They pressed further: 'Then who? Are you Elijah?' He said, 'I am not.' 'Are you the Prophet?' He answered, 'No.'",
+      "historicalContext": "The delegation runs through a checklist of expected end-times figures. Jewish tradition expected Elijah to return bodily before the Messiah (based on Malachi 4:5). 'The Prophet' refers to the figure promised in Deuteronomy 18:15 — a prophet like Moses. Some Jews saw these as three distinct figures; others merged them. John denies being any of them, which creates an interesting tension since Jesus later says John IS Elijah (Matthew 11:14) — meaning John fulfilled Elijah's role without being Elijah reincarnated.",
+      "crossRefs": [
+        {
+          "ref": "2 Kings 2:11",
+          "explanation": "Elijah never died — he was taken up in a chariot of fire, leading to the expectation he would physically return."
+        },
+        {
+          "ref": "Deuteronomy 18:15",
+          "explanation": "Moses promised God would raise up 'a prophet like me' — this became a distinct messianic expectation."
+        },
+        {
+          "ref": "Matthew 11:14",
+          "explanation": "Jesus identifies John as the Elijah who was to come, creating fascinating tension with John's denial here."
+        }
+      ],
+      "words": [
+        {
+          "english": "What then?",
+          "original": "Τί οὖν;",
+          "transliteration": "Ti oun?",
+          "pronunciation": "TEE oon",
+          "strongs": "G5101, G3767",
+          "partOfSpeech": "interrogative pronoun + conjunction (inferential)",
+          "literalMeaning": "What therefore?",
+          "definition": "The inferential conjunction οὖν (oun, 'therefore/then') shows logical progression — 'If you're not the Messiah, then what?' The delegation has a list they need to work through, and they're getting increasingly frustrated. This two-word question carries impatience.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "Elijah",
+          "original": "Ἠλίας",
+          "transliteration": "Ēlias",
+          "pronunciation": "ay-LEE-ahs",
+          "strongs": "G2243",
+          "partOfSpeech": "proper noun (nominative masculine singular)",
+          "literalMeaning": "Elijah (from Hebrew Eliyahu, 'My God is YHWH')",
+          "definition": "The Greek form of the Hebrew אֵלִיָּהוּ (Eliyahu). Elijah was the great prophet of the 9th century BC who confronted the worship of Baal, called down fire from heaven, and never died — he was taken to heaven in a whirlwind (2 Kings 2:11). Because he never died, Jewish tradition expected his literal, bodily return as the herald of the Messiah. The question isn't 'Are you like Elijah?' but 'Are you the actual Elijah come back from heaven?' John says no — he's not the returned Elijah in person, though Jesus later says he fulfilled Elijah's role.",
+          "translationNote": "The KJV uses 'Elias,' the Latinized Greek form. Modern translations use 'Elijah,' the Hebrew form. Neither is wrong — they're just different transliteration traditions.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "I am not",
+          "original": "Οὐκ εἰμί",
+          "transliteration": "Ouk eimi",
+          "pronunciation": "ook ay-MEE",
+          "strongs": "G3756, G1510",
+          "partOfSpeech": "negation particle + verb (present active indicative, 1st person singular)",
+          "literalMeaning": "I am not",
+          "definition": "A terse, emphatic denial. The phrase Οὐκ εἰμί is the exact negative of Jesus' great declarations ἐγώ εἰμι ('I AM') that appear throughout John's Gospel. This contrast is deliberate — every time John says 'I am NOT,' it prepares the reader for Jesus who will say 'I AM.' John's identity is defined entirely by negation and pointing away from himself.",
+          "translationNote": "Accurate — and the contrast with Jesus' 'I am' statements is preserved.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "the Prophet",
+          "original": "ὁ προφήτης",
+          "transliteration": "ho prophētēs",
+          "pronunciation": "ho pro-FAY-tays",
+          "strongs": "G4396",
+          "partOfSpeech": "noun with article (nominative masculine singular)",
+          "literalMeaning": "the one who speaks before/forth",
+          "definition": "From πρό (pro, 'before/forth') and φημί (phēmi, 'to speak'). A prophet is literally 'one who speaks forth' — declaring God's message. The definite article ὁ is crucial: they're not asking if he's a prophet (one among many) but THE Prophet — the specific figure promised in Deuteronomy 18:15, a 'prophet like Moses.' In first-century Judaism, this was sometimes identified with the Messiah and sometimes seen as a separate figure. The Samaritans especially emphasized this 'Taheb' (restorer) figure.",
+          "translationNote": "The article 'that' in KJV ('that prophet') actually captures the specificity well — this is a particular, expected figure.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 22,
+      "verseText": "Then said they unto him, Who art thou? that we may give an answer to them that sent us. What sayest thou of thyself?",
+      "freshTranslation": "So they said to him, 'Who are you, then? We need to bring back an answer to those who sent us. What do you say about yourself?'",
+      "historicalContext": "The delegation is under pressure — they were sent with a job and they need to return with a report. Having exhausted their checklist (Messiah, Elijah, the Prophet), they're forced to let John define himself in his own words. This is bureaucratic frustration meeting prophetic mystery — the religious system needs John to fit a category, and he's refusing to cooperate.",
+      "crossRefs": [
+        {
+          "ref": "John 5:33-35",
+          "explanation": "Jesus later references this moment, saying 'You sent to John and he testified to the truth.'"
+        }
+      ],
+      "words": [
+        {
+          "english": "Who are you?",
+          "original": "Τίς εἶ;",
+          "transliteration": "Tis ei?",
+          "pronunciation": "tees AY",
+          "strongs": "G5101, G1510",
+          "partOfSpeech": "interrogative pronoun + verb (present active indicative, 2nd person singular)",
+          "literalMeaning": "Who are you?",
+          "definition": "The same question from verse 19, but now without the emphatic Σύ. The tone has shifted from confrontational to exasperated. They've asked three times and gotten three denials. The repetition reveals the delegation's increasing desperation — they need a label, a category, something to put in their report.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "an answer",
+          "original": "ἀπόκρισιν",
+          "transliteration": "apokrisin",
+          "pronunciation": "ah-POH-kree-sin",
+          "strongs": "G612",
+          "partOfSpeech": "noun (accusative feminine singular)",
+          "literalMeaning": "a response, a formal answer",
+          "definition": "From ἀποκρίνομαι (apokrinomai, 'to answer, to respond'). This word carries official weight — it's not casual chitchat but a formal response to be delivered to superiors. The delegation has a chain of command and needs to file their report. The word underscores the institutional nature of this encounter.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "them that sent us",
+          "original": "τοῖς πέμψασιν ἡμᾶς",
+          "transliteration": "tois pempsasin hēmas",
+          "pronunciation": "toys PEMP-sah-sin hay-MAHS",
+          "strongs": "G3588, G3992, G1473",
+          "partOfSpeech": "article (dative) + verb participle (aorist active, dative masculine plural) + pronoun (accusative, 1st person plural)",
+          "literalMeaning": "to the ones having sent us",
+          "definition": "The verb πέμπω (pempō) is a simpler word for 'send' than ἀποστέλλω used in verse 19. Some scholars see a distinction — ἀποστέλλω implies sending with authority and commission, while πέμπω is more neutral. The delegates are acknowledging they're subordinates on assignment, not independent actors.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 23,
+      "verseText": "He said, I am the voice of one crying in the wilderness, Make straight the way of the Lord, as said the prophet Esaias.",
+      "freshTranslation": "He said, 'I am a voice shouting in the wilderness: Make the Lord's road straight!' — just as the prophet Isaiah said.",
+      "historicalContext": "John quotes Isaiah 40:3, which originally described God preparing a highway through the desert for Israel's return from Babylonian exile. John reapplies it: he's the voice preparing the way not for a physical return but for God himself arriving in person. In the ancient Near East, roads were literally smoothed and straightened before a king's arrival. John is saying: 'The King is coming — get ready.'",
+      "crossRefs": [
+        {
+          "ref": "Isaiah 40:3",
+          "explanation": "The direct source of John's self-identification — a voice preparing the way in the wilderness."
+        },
+        {
+          "ref": "Mark 1:3",
+          "explanation": "All four Gospels apply this Isaiah passage to John the Baptist."
+        },
+        {
+          "ref": "Luke 3:4-6",
+          "explanation": "Luke extends the Isaiah quote further to emphasize universal salvation."
+        }
+      ],
+      "words": [
+        {
+          "english": "voice",
+          "original": "φωνή",
+          "transliteration": "phōnē",
+          "pronunciation": "fo-NAY",
+          "strongs": "G5456",
+          "partOfSpeech": "noun (nominative feminine singular)",
+          "literalMeaning": "voice, sound, tone",
+          "definition": "The root of English words like 'phone,' 'phonetic,' and 'symphony.' In Greek, φωνή could mean any audible sound — a human voice, an animal cry, a musical tone, or even thunder. John's self-identification is remarkable in its humility: he doesn't call himself a prophet, a teacher, or a messenger. He's just a voice — a sound with no identity of its own, existing only to convey someone else's message. The voice is nothing without the words it carries.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "crying",
+          "original": "βοῶντος",
+          "transliteration": "boōntos",
+          "pronunciation": "bo-OHN-tohs",
+          "strongs": "G994",
+          "partOfSpeech": "verb participle (present active, genitive masculine singular)",
+          "literalMeaning": "shouting, crying out loudly",
+          "definition": "From βοάω (boaō), meaning to shout or cry out with a loud voice. This isn't a quiet whisper or a gentle invitation — it's someone yelling at the top of their lungs. The present tense participle indicates continuous action: he keeps shouting. Picture a herald standing on a hill, voice carrying across the wilderness. The word conveys urgency and volume, appropriate for someone announcing the arrival of God himself.",
+          "translationNote": "'Crying' in modern English usually means weeping. The Greek means shouting or calling out loudly. 'Shouting' or 'calling out' would be more accurate for today's readers.",
+          "twisted": true,
+          "twistedExplanation": "Modern readers picture someone weeping in the desert, which completely misses the image of a powerful herald shouting a royal announcement."
+        },
+        {
+          "english": "in the wilderness",
+          "original": "ἐν τῇ ἐρήμῳ",
+          "transliteration": "en tē erēmō",
+          "pronunciation": "en tay EH-ray-mo",
+          "strongs": "G1722, G2048",
+          "partOfSpeech": "preposition + article + adjective used as noun (dative feminine singular)",
+          "literalMeaning": "in the desolate/uninhabited place",
+          "definition": "Ἔρημος (erēmos) means desolate, uninhabited, or abandoned. It's where we get 'hermit' (one who lives in the ἔρημος). In biblical theology, the wilderness is loaded with meaning — it's where Israel wandered for 40 years, where God fed them manna, where the covenant was given. It's a place of testing, purification, and encounter with God. The Qumran community (Dead Sea Scrolls) also cited Isaiah 40:3 and moved to the wilderness for this exact reason — to prepare the way.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "Make straight",
+          "original": "Εὐθύνατε",
+          "transliteration": "Euthynate",
+          "pronunciation": "ef-THOO-nah-teh",
+          "strongs": "G2116",
+          "partOfSpeech": "verb (aorist active imperative, 2nd person plural)",
+          "literalMeaning": "make straight, direct, guide",
+          "definition": "From εὐθύς (euthys, 'straight, direct, immediate'). This is a command — the imperative mood makes it an order, not a suggestion. In the ancient world, when a king traveled, workers would literally go ahead of his procession to fill potholes, remove obstacles, and straighten curves in the road. This is that image applied spiritually: prepare your hearts, remove the obstacles, get ready for the King's arrival.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "the way",
+          "original": "τὴν ὁδόν",
+          "transliteration": "tēn hodon",
+          "pronunciation": "tayn ho-DOHN",
+          "strongs": "G3598",
+          "partOfSpeech": "noun with article (accusative feminine singular)",
+          "literalMeaning": "road, path, way, journey",
+          "definition": "Ὁδός (hodos) means a road, path, or way of traveling. It's used literally for physical roads and metaphorically for a way of life or a course of action. Early Christians were called followers of 'the Way' (Acts 9:2) — ἡ ὁδός became a name for the entire Christian movement. Jesus later says 'I am the Way' (John 14:6) using this same word. The image here is a royal highway being prepared for God's arrival.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "of the Lord",
+          "original": "τοῦ Κυρίου",
+          "transliteration": "tou Kyriou",
+          "pronunciation": "too koo-REE-oo",
+          "strongs": "G2962",
+          "partOfSpeech": "noun with article (genitive masculine singular)",
+          "literalMeaning": "of the Master, of the Lord",
+          "definition": "Κύριος (Kyrios) was the standard Greek translation of the Hebrew divine name YHWH in the Septuagint. When a first-century Jew heard 'Kyrios,' they heard 'God.' But κύριος also meant 'master' or 'sir' in everyday Greek — it was how you addressed a superior. This double meaning is explosively important in John's Gospel: calling Jesus κύριος could mean 'sir' on the surface but 'GOD' at the deeper level. Here in the Isaiah quote, it unambiguously means YHWH — which means John is preparing the way for God himself.",
+          "translationNote": "Accurate, though 'Lord' has become so common that readers miss its weight — this is the divine name.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "Isaiah",
+          "original": "Ἠσαΐας",
+          "transliteration": "Ēsaïas",
+          "pronunciation": "ay-sah-EE-ahs",
+          "strongs": "G2268",
+          "partOfSpeech": "proper noun (nominative masculine singular)",
+          "literalMeaning": "Isaiah (from Hebrew Yesha'yahu, 'YHWH is salvation')",
+          "definition": "The greatest of the Hebrew writing prophets, active in Jerusalem around 740-700 BC. Isaiah's prophecies span from his own time through the Babylonian exile to the ultimate coming of God's kingdom. John quotes from Isaiah 40, which opens the 'Book of Comfort' — prophecies of restoration after exile. The name itself means 'YHWH saves,' which perfectly fits the context: the salvation of YHWH is arriving in person.",
+          "translationNote": "KJV uses 'Esaias,' the Greek/Latin form. Modern translations use 'Isaiah,' closer to the Hebrew.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 24,
+      "verseText": "And they which were sent were of the Pharisees.",
+      "freshTranslation": "Now some of those who had been sent were from the Pharisee party.",
+      "historicalContext": "This detail explains why the next question is about baptism. Pharisees were obsessed with ritual purity — they had elaborate rules about washings and ceremonial cleanness. If John wasn't the Messiah, Elijah, or the Prophet, then by what authority was he performing a purification ritual? For Pharisees especially, unauthorized ritual washing would be a serious offense against the purity system they had built their entire identity around.",
+      "crossRefs": [
+        {
+          "ref": "Matthew 3:7",
+          "explanation": "Matthew records Pharisees and Sadducees coming to John's baptism, and John calling them a 'brood of vipers.'"
+        },
+        {
+          "ref": "Acts 15:5",
+          "explanation": "Shows Pharisees' continued concern with ritual requirements even after joining the early church."
+        }
+      ],
+      "words": [
+        {
+          "english": "were sent",
+          "original": "ἀπεσταλμένοι",
+          "transliteration": "apestalmenoi",
+          "pronunciation": "ah-pes-tal-MEH-noy",
+          "strongs": "G649",
+          "partOfSpeech": "verb participle (perfect passive, nominative masculine plural)",
+          "literalMeaning": "having been sent on a mission",
+          "definition": "Perfect passive participle of ἀποστέλλω — indicating a completed action with ongoing relevance. These men were sent (in the past) and they remain in that sent capacity. The perfect tense emphasizes they are still operating under their commission. Again, this is the 'apostle' root — they are officially delegated representatives.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "Pharisees",
+          "original": "Φαρισαίων",
+          "transliteration": "Pharisaiōn",
+          "pronunciation": "fah-ree-SYE-own",
+          "strongs": "G5330",
+          "partOfSpeech": "noun (genitive masculine plural)",
+          "literalMeaning": "separated ones",
+          "definition": "From the Hebrew פְּרוּשִׁים (Perushim, 'separated ones'). The Pharisees were a lay religious movement that emphasized strict Torah observance and developed extensive oral traditions (the 'tradition of the elders'). They believed in resurrection, angels, and divine providence. Unlike the aristocratic Sadducees who controlled the Temple, Pharisees operated through synagogues and had enormous influence over ordinary people. They were the populists of Jewish religion — and they took ritual purity extremely seriously, which is why John's unauthorized baptism particularly bothered them.",
+          "translationNote": "Accurate, though modern readers often equate 'Pharisee' with 'hypocrite,' which is unfair. Many Pharisees were genuinely devout — Nicodemus and Paul were both Pharisees.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 25,
+      "verseText": "And they asked him, and said unto him, Why baptizest thou then, if thou be not that Christ, nor Elias, neither that prophet?",
+      "freshTranslation": "They challenged him: 'Then why are you baptizing, if you're not the Messiah, not Elijah, and not the Prophet?'",
+      "historicalContext": "This is the key legal question. In Jewish expectation, the Messiah or Elijah or the Prophet would have the authority to institute new rituals. John is performing a symbolic washing (baptism) that implies people need purification — which is an implicit critique of the existing Temple purity system. Without recognized prophetic authority, this was unauthorized innovation in religious practice, which was a serious matter.",
+      "crossRefs": [
+        {
+          "ref": "Ezekiel 36:25",
+          "explanation": "God promises 'I will sprinkle clean water on you' — an eschatological cleansing associated with the end times."
+        },
+        {
+          "ref": "Zechariah 13:1",
+          "explanation": "'A fountain will be opened for the house of David for sin and impurity' — messianic-era purification."
+        }
+      ],
+      "words": [
+        {
+          "english": "why do you baptize",
+          "original": "Τί οὖν βαπτίζεις",
+          "transliteration": "Ti oun baptizeis",
+          "pronunciation": "TEE oon bap-TEE-zays",
+          "strongs": "G5101, G3767, G907",
+          "partOfSpeech": "interrogative pronoun + conjunction + verb (present active indicative, 2nd person singular)",
+          "literalMeaning": "Why therefore do you immerse/dip?",
+          "definition": "Βαπτίζω (baptizō) means to dip, immerse, or submerge. The word was used in everyday Greek for dyeing cloth (you 'baptize' fabric by immersing it in dye) and for ships sinking (being 'baptized' by the sea). It implies full immersion, not sprinkling. Jewish ritual already included various immersions (mikveh baths), but John was doing something new — a one-time immersion for repentance that was open to all Jews, implying that even born-and-bred Israelites needed purification. This was radical and offensive to the religious establishment.",
+          "translationNote": "The word 'baptize' is a transliteration, not a translation. English borrowed the Greek word rather than translating it. If translated, it would be 'Why do you immerse people?'",
+          "twisted": true,
+          "twistedExplanation": "By transliterating rather than translating βαπτίζω, English Bibles obscure the vivid physical image of full-body immersion in water. The original audience pictured plunging underwater, not a ceremony."
+        }
+      ]
+    },
+    {
+      "verseNumber": 26,
+      "verseText": "John answered them, saying, I baptize with water: but there standeth one among you, whom ye know not;",
+      "freshTranslation": "John answered them, 'I baptize with water — but standing right here among you is someone you don't recognize.'",
+      "historicalContext": "John pivots from defending his authority to pointing to someone greater. His answer is both evasive and profound — he doesn't justify his baptism but says it's merely water, implying the real baptism is coming. The phrase 'among you' (μέσος ὑμῶν) is striking — the one they should be looking for is already present and they don't even know it. This is a major Johannine theme: the light is in the world and the world doesn't recognize it.",
+      "crossRefs": [
+        {
+          "ref": "John 1:10-11",
+          "explanation": "Echoes the prologue: 'He was in the world...and the world knew him not.'"
+        },
+        {
+          "ref": "Malachi 3:1",
+          "explanation": "'The Lord whom you seek will suddenly come to his temple' — he arrives unrecognized."
+        }
+      ],
+      "words": [
+        {
+          "english": "I baptize",
+          "original": "Ἐγὼ βαπτίζω",
+          "transliteration": "Egō baptizō",
+          "pronunciation": "eh-GO bap-TEE-zo",
+          "strongs": "G1473, G907",
+          "partOfSpeech": "pronoun (nominative, 1st person singular) + verb (present active indicative, 1st person singular)",
+          "literalMeaning": "I myself immerse",
+          "definition": "The emphatic pronoun ἐγώ (egō, 'I myself') is used deliberately. John is drawing a contrast between what HE does (mere water baptism) and what the coming one will do. The emphasis on 'I' prepares for the 'he' that will follow. John's entire ministry is defined by contrast — he exists to point beyond himself.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "with water",
+          "original": "ἐν ὕδατι",
+          "transliteration": "en hydati",
+          "pronunciation": "en HOO-dah-tee",
+          "strongs": "G1722, G5204",
+          "partOfSpeech": "preposition + noun (dative neuter singular)",
+          "literalMeaning": "in/with water",
+          "definition": "Ὕδωρ (hydōr) is the common Greek word for water — root of English 'hydrate,' 'hydraulic,' 'hydrogen.' The preposition ἐν can mean 'in' or 'with.' John is saying his baptism is merely water — a physical symbol. The implied contrast (made explicit in other Gospels) is that the coming one will baptize 'in the Holy Spirit.' Water is just the outer sign; the real transformation is something else entirely.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "among you stands one",
+          "original": "μέσος ὑμῶν ἕστηκεν",
+          "transliteration": "mesos hymōn hestēken",
+          "pronunciation": "MEH-sohs hoo-MOHN HES-tay-ken",
+          "strongs": "G3319, G4771, G2476",
+          "partOfSpeech": "adjective (nominative masculine singular) + pronoun (genitive, 2nd person plural) + verb (perfect active indicative, 3rd person singular)",
+          "literalMeaning": "in the middle of you has stood (and stands now)",
+          "definition": "Μέσος (mesos, 'middle' — root of 'mesosphere,' 'Mesopotamia') combined with the perfect tense ἕστηκεν creates a powerful image: someone has taken his stand among them and remains there right now. The perfect tense indicates a completed action with present results — he's not passing through; he's planted himself in their midst. And they can't see him. The irony is devastating: the religious experts sent to investigate are standing next to the answer and have no idea.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "whom you do not know",
+          "original": "ὃν ὑμεῖς οὐκ οἴδατε",
+          "transliteration": "hon hymeis ouk oidate",
+          "pronunciation": "hohn hoo-MAYS ook OY-dah-teh",
+          "strongs": "G3739, G4771, G3756, G1492",
+          "partOfSpeech": "relative pronoun + pronoun (nominative, 2nd person plural) + negation + verb (perfect active indicative, 2nd person plural)",
+          "literalMeaning": "whom you yourselves do not perceive/recognize",
+          "definition": "The verb οἶδα (oida) is unique — it's technically a perfect tense form that functions as a present. It comes from εἴδω (eidō, 'to see') and means 'to know by perception or intuition.' It's knowledge gained through seeing or experience. The emphatic ὑμεῖς (hymeis, 'YOU yourselves') is a sharp jab: the very people who should recognize God's messenger are blind to him standing right there. This is the central tragedy of John's Gospel — revelation standing unrecognized among the religiously educated.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 27,
+      "verseText": "He it is, who coming after me is preferred before me, whose shoe's latchet I am not worthy to unloose.",
+      "freshTranslation": "He is the one coming after me — and I'm not even worthy to untie his sandal strap.",
+      "historicalContext": "Untying sandals was the lowest task a slave could perform — so degrading that Jewish law said a Hebrew slave could not be required to do it. Only a Gentile slave could be made to untie a master's sandals. John is saying he's not even fit to do the lowest slave task for the one who's coming. This is extreme humility from a man who had massive public influence.",
+      "crossRefs": [
+        {
+          "ref": "Mark 1:7",
+          "explanation": "Parallel account with the same sandal imagery."
+        },
+        {
+          "ref": "Acts 13:25",
+          "explanation": "Paul quotes this statement of John's in his sermon at Pisidian Antioch."
+        }
+      ],
+      "words": [
+        {
+          "english": "coming after me",
+          "original": "ὀπίσω μου ἐρχόμενος",
+          "transliteration": "opisō mou erchomenos",
+          "pronunciation": "oh-PEE-so moo er-KHO-meh-nohs",
+          "strongs": "G3694, G1473, G2064",
+          "partOfSpeech": "adverb + pronoun (genitive, 1st person singular) + verb participle (present middle, nominative masculine singular)",
+          "literalMeaning": "the one coming behind/after me",
+          "definition": "Ὀπίσω (opisō) means 'behind' or 'after' in both spatial and temporal senses. Ἔρχομαι (erchomai, 'to come') is one of the most theologically loaded verbs in John — 'the coming one' (ὁ ἐρχόμενος) was practically a messianic title. John came first chronologically, but the one coming after him ranks infinitely higher. The reversal of chronological and hierarchical order is the point — in God's economy, sequence doesn't determine significance.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "the strap of whose sandal",
+          "original": "τὸν ἱμάντα τοῦ ὑποδήματος αὐτοῦ",
+          "transliteration": "ton himanta tou hypodēmatos autou",
+          "pronunciation": "tohn hee-MAHN-tah too hoo-po-DAY-mah-tohs ow-TOO",
+          "strongs": "G2438, G5266",
+          "partOfSpeech": "noun (accusative masculine singular) + noun (genitive neuter singular) + pronoun (genitive masculine singular)",
+          "literalMeaning": "the leather strap of the under-binding (sandal) of him",
+          "definition": "Ἱμάς (himas) is a leather strap or thong. Ὑπόδημα (hypodēma, from ὑπό 'under' + δέω 'to bind') is literally 'that which is bound under' — a sandal. Ancient sandals were simple soles bound to the foot with leather straps that wound around the ankle. Untying the dirty, sweaty sandal straps of a traveler who had walked dusty roads was the most menial household task. The specificity of the image — not 'serve him' in general, but this one degrading task — makes John's humility viscerally concrete.",
+          "translationNote": "KJV's 'shoe's latchet' is archaic but accurate. Modern translations use 'sandal strap.'",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "I am not worthy",
+          "original": "οὐκ εἰμὶ ἄξιος",
+          "transliteration": "ouk eimi axios",
+          "pronunciation": "ook ay-MEE AHK-see-ohs",
+          "strongs": "G3756, G1510, G514",
+          "partOfSpeech": "negation + verb + adjective (nominative masculine singular)",
+          "literalMeaning": "I am not of equal weight/value",
+          "definition": "Ἄξιος (axios) comes from ἄγω (agō, 'to weigh, to draw'). Something ἄξιος has equal weight on the scale — it's 'worth' the measure. Our word 'axiom' comes from this root (a self-evidently worthy truth). John is saying he doesn't even weigh enough on the scale to perform the lowest slave's task. This is not false modesty — John genuinely understood the infinite gap between himself and the one he was announcing.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "to untie",
+          "original": "ἵνα λύσω",
+          "transliteration": "hina lysō",
+          "pronunciation": "HEE-nah LOO-so",
+          "strongs": "G2443, G3089",
+          "partOfSpeech": "conjunction (purpose) + verb (aorist active subjunctive, 1st person singular)",
+          "literalMeaning": "in order that I might loose/untie",
+          "definition": "Λύω (lyō) means to loose, untie, release, or destroy. It's a fundamental Greek verb used for untying knots, releasing prisoners, dissolving assemblies, and breaking laws. In theology, it later became important in the 'binding and loosing' language of Matthew 16:19. Here it's the simple, physical act of untying a leather strap — but the word carries overtones of release and freedom that resonate with the larger Gospel narrative.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 28,
+      "verseText": "These things were done in Bethabara beyond Jordan, where John was baptizing.",
+      "freshTranslation": "This took place in Bethany across the Jordan, where John was baptizing.",
+      "historicalContext": "This geographic marker is important — there were two Bethanys. This is NOT the Bethany near Jerusalem where Lazarus lived, but a location on the eastern side of the Jordan River. The exact site is debated. Being 'beyond Jordan' placed John outside the direct jurisdiction of the Jerusalem authorities. The Jordan River held deep symbolism — it was where Israel crossed into the Promised Land under Joshua. John is performing a new crossing, a new entry into God's promises.",
+      "crossRefs": [
+        {
+          "ref": "Joshua 3:14-17",
+          "explanation": "Israel crossed the Jordan to enter the Promised Land — John's baptism at the Jordan evokes this new-exodus imagery."
+        },
+        {
+          "ref": "John 10:40",
+          "explanation": "Jesus later retreats to this same location, completing a literary frame."
+        }
+      ],
+      "words": [
+        {
+          "english": "Bethany",
+          "original": "Βηθανίᾳ",
+          "transliteration": "Bēthania",
+          "pronunciation": "bay-thah-NEE-ah",
+          "strongs": "G963",
+          "partOfSpeech": "proper noun (dative feminine singular)",
+          "literalMeaning": "House of the poor/afflicted (or possibly House of the ferry)",
+          "definition": "From Hebrew בֵּית עֲנָיָה (beit anayah). Some manuscripts read 'Bethabara' (House of the Ford/Crossing) instead of 'Bethany,' which Origen preferred because he couldn't find a Bethany beyond the Jordan in his time (3rd century). Modern scholarship favors 'Bethany' as the original reading. This is a different location from the Bethany of Mary, Martha, and Lazarus, which was near Jerusalem. The trans-Jordan location places John in wilderness territory with deep exodus symbolism.",
+          "translationNote": "The KJV uses 'Bethabara' following Origen's suggestion. Most modern translations use 'Bethany beyond the Jordan' based on older manuscripts.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "beyond the Jordan",
+          "original": "πέραν τοῦ Ἰορδάνου",
+          "transliteration": "peran tou Iordanou",
+          "pronunciation": "PEH-rahn too ee-or-DAH-noo",
+          "strongs": "G4008, G2446",
+          "partOfSpeech": "adverb/preposition + article + proper noun (genitive masculine singular)",
+          "literalMeaning": "on the far side of the Jordan",
+          "definition": "Πέραν (peran) means 'on the other side, across, beyond.' The Jordan (Ἰορδάνης, from Hebrew יַרְדֵּן, 'the descender') was ancient Israel's defining boundary — the river they crossed to enter God's land. Being 'beyond' it meant being in the wilderness, outside the land of promise. There's rich symbolism: John calls people OUT of the settled land, back to the wilderness, back to the Jordan crossing point, to start the journey of entry all over again. Israel needs a new beginning.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 29,
+      "verseText": "The next day John seeth Jesus coming unto him, and saith, Behold the Lamb of God, which taketh away the sin of the world.",
+      "freshTranslation": "The next day, John saw Jesus approaching and declared, 'Look — the Lamb of God, the one who takes away the sin of the world!'",
+      "historicalContext": "This is one of the most theologically dense declarations in the Bible. A Jewish audience would hear multiple echoes: the Passover lamb whose blood saved Israel from death in Egypt, the daily Temple sacrifices, the lamb led to slaughter in Isaiah 53, and possibly the 'binding of Isaac' where God provided a ram as substitute. John compresses all of Israel's sacrificial theology into one title. And shockingly, it's applied to a person — a living man walking toward them.",
+      "crossRefs": [
+        {
+          "ref": "Exodus 12:3-7",
+          "explanation": "The Passover lamb — its blood on the doorposts saved Israel from death."
+        },
+        {
+          "ref": "Isaiah 53:7",
+          "explanation": "'He was led like a lamb to the slaughter' — the Suffering Servant prophecy."
+        },
+        {
+          "ref": "1 Peter 1:19",
+          "explanation": "Peter later identifies Jesus as 'a lamb without blemish or defect.'"
+        },
+        {
+          "ref": "Revelation 5:6",
+          "explanation": "The risen Jesus appears in heaven as 'a Lamb, looking as if it had been slain.'"
+        }
+      ],
+      "words": [
+        {
+          "english": "The next day",
+          "original": "Τῇ ἐπαύριον",
+          "transliteration": "Tē epaurion",
+          "pronunciation": "tay ep-OW-ree-on",
+          "strongs": "G1887",
+          "partOfSpeech": "adverb with article (dative feminine singular)",
+          "literalMeaning": "on the morrow",
+          "definition": "John's Gospel carefully marks time in this opening section — a sequence of days that many scholars see as a 'new creation week' paralleling Genesis 1. Day by day, the new creation unfolds as Jesus is revealed. This temporal marker isn't just chronology; it's theological architecture.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "Behold",
+          "original": "Ἴδε",
+          "transliteration": "Ide",
+          "pronunciation": "EE-deh",
+          "strongs": "G2396",
+          "partOfSpeech": "interjection/particle (imperative form of εἶδον)",
+          "literalMeaning": "Look! See!",
+          "definition": "An imperative interjection from εἴδω (eidō, 'to see'). It's a command to pay attention — 'Open your eyes and LOOK at this!' In ancient rhetoric, this word was used to introduce something momentous. John isn't making casual conversation; he's making a prophetic announcement. Every eye should turn to where he's pointing. This is the culmination of everything John's ministry has been building toward.",
+          "translationNote": "'Behold' is archaic but actually captures the gravitas. 'Look!' works for modern readers.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "the Lamb",
+          "original": "ὁ ἀμνός",
+          "transliteration": "ho amnos",
+          "pronunciation": "ho ahm-NOHS",
+          "strongs": "G286",
+          "partOfSpeech": "noun with article (nominative masculine singular)",
+          "literalMeaning": "the lamb (young sheep)",
+          "definition": "Ἀμνός (amnos) specifically denotes a young lamb, typically one used for sacrifice. This is distinct from other Greek words for sheep (πρόβατον, the general term; ἀρνίον, the diminutive used in Revelation). The definite article ὁ makes this THE lamb — not a lamb, but the specific one that Jewish theology had been anticipating. In the Passover ritual, the lamb had to be without blemish, selected on the 10th of Nisan, and slaughtered on the 14th. The lamb didn't just die — it died so that others wouldn't. John is calling Jesus a sacrifice while Jesus is still very much alive.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "of God",
+          "original": "τοῦ Θεοῦ",
+          "transliteration": "tou Theou",
+          "pronunciation": "too theh-OO",
+          "strongs": "G2316",
+          "partOfSpeech": "noun with article (genitive masculine singular)",
+          "literalMeaning": "of God",
+          "definition": "The genitive 'of God' is ambiguous in a powerful way. It could mean 'the lamb that belongs to God,' 'the lamb provided by God,' or 'the lamb that God himself is.' All three meanings may be intended simultaneously. In Genesis 22:8, Abraham told Isaac, 'God himself will provide the lamb' — and now, centuries later, John announces that provision has arrived. The lamb doesn't come from the flock; it comes from God.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "who takes away",
+          "original": "ὁ αἴρων",
+          "transliteration": "ho airōn",
+          "pronunciation": "ho AY-rone",
+          "strongs": "G142",
+          "partOfSpeech": "verb participle with article (present active, nominative masculine singular)",
+          "literalMeaning": "the one lifting up, carrying away, removing",
+          "definition": "Αἴρω (airō) has a rich range of meaning: to lift up, to carry, to take away, to remove. All three senses may be in play. The lamb lifts up sin (bears it), carries sin (like the scapegoat of Leviticus 16), and takes it away (removes it permanently). The present tense participle suggests ongoing action — this isn't a one-time event but a continuous reality. Some scholars also note that αἴρω can mean 'to destroy,' adding yet another layer.",
+          "translationNote": "Accurate, though 'taketh away' captures only one dimension of the verb. The Greek simultaneously means bearing, carrying, and removing.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "the sin",
+          "original": "τὴν ἁμαρτίαν",
+          "transliteration": "tēn hamartian",
+          "pronunciation": "tayn hah-mar-TEE-ahn",
+          "strongs": "G266",
+          "partOfSpeech": "noun with article (accusative feminine singular)",
+          "literalMeaning": "the missing of the mark, the failure, the sin",
+          "definition": "Ἁμαρτία (hamartia) originally meant 'missing the mark' — an archery term for an arrow that fails to hit its target. In Greek tragedy, it referred to a fatal flaw that leads to a character's downfall. In New Testament usage, it means the fundamental human condition of failing to live as God intended. Critically, John uses the SINGULAR — not 'sins' (plural, individual acts) but 'sin' (singular, the condition). Jesus doesn't just clean up individual messes; he addresses the root problem of human brokenness.",
+          "translationNote": "The singular 'sin' vs plural 'sins' is crucial and correctly preserved in KJV. This is about the human condition, not a checklist of offenses.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "of the world",
+          "original": "τοῦ κόσμου",
+          "transliteration": "tou kosmou",
+          "pronunciation": "too KOHS-moo",
+          "strongs": "G2889",
+          "partOfSpeech": "noun with article (genitive masculine singular)",
+          "literalMeaning": "of the ordered world, of the cosmos",
+          "definition": "Κόσμος (kosmos) originally meant 'order, arrangement, beauty' (hence 'cosmetics'). It came to mean the ordered world, the universe, and in John's special usage, the human world system that stands opposed to God. The scope here is staggering — not the sin of Israel, not the sin of the righteous, but the sin of the entire world. This universalism would have shocked a Jewish audience accustomed to thinking in terms of Israel's covenant relationship with God. The lamb is for everyone.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 30,
+      "verseText": "This is he of whom I said, After me cometh a man which is preferred before me: for he was before me.",
+      "freshTranslation": "This is the one I was talking about when I said, 'A man is coming after me who has surpassed me, because he existed before me.'",
+      "historicalContext": "John the Baptist was born about six months before Jesus (Luke 1:36), so 'he was before me' cannot mean chronologically in human terms. John is making a claim about pre-existence — this man who appears to come after him in time actually existed before him eternally. This echoes the prologue's 'In the beginning was the Word.' John the Baptist, the older cousin, recognizes that Jesus' existence predates his own — predates everything.",
+      "crossRefs": [
+        {
+          "ref": "John 1:1-2",
+          "explanation": "The Word was 'in the beginning' — Jesus' pre-existence, which John the Baptist recognizes here."
+        },
+        {
+          "ref": "Micah 5:2",
+          "explanation": "'Whose origins are from of old, from ancient times' — the Messiah's pre-existence prophesied."
+        },
+        {
+          "ref": "John 8:58",
+          "explanation": "Jesus himself later claims pre-existence: 'Before Abraham was, I AM.'"
+        }
+      ],
+      "words": [
+        {
+          "english": "is preferred before me",
+          "original": "ἔμπροσθέν μου γέγονεν",
+          "transliteration": "emprosthen mou gegonen",
+          "pronunciation": "EM-prohs-then moo GEH-go-nen",
+          "strongs": "G1715, G1473, G1096",
+          "partOfSpeech": "preposition + pronoun (genitive, 1st person singular) + verb (perfect active indicative, 3rd person singular)",
+          "literalMeaning": "before/in front of me he has become/come into being",
+          "definition": "Ἔμπροσθεν (emprosthen) means 'before' in rank or position — in front of, ahead of. Γέγονεν (gegonen) is the perfect tense of γίνομαι (ginomai, 'to become, to come into being'). The perfect tense means 'he has come to be and continues to be' in a position ahead of John. This is a statement about rank and pre-existence simultaneously. The one who arrived on the scene later actually holds the higher position because he existed first. Time and rank are being scrambled by eternity breaking into history.",
+          "translationNote": "KJV's 'preferred before me' is slightly misleading — it sounds like someone chose him as a preference. The Greek is about rank and prior existence, not preference.",
+          "twisted": true,
+          "twistedExplanation": "'Preferred' in modern English suggests someone's personal choice. The Greek says this person has surpassed John in rank because he existed before John — a claim about pre-existence and inherent superiority, not about preference."
+        },
+        {
+          "english": "he was before me",
+          "original": "πρῶτός μου ἦν",
+          "transliteration": "prōtos mou ēn",
+          "pronunciation": "PRO-tohs moo ayn",
+          "strongs": "G4413, G1473, G1510",
+          "partOfSpeech": "adjective (nominative masculine singular) + pronoun (genitive) + verb (imperfect active indicative, 3rd person singular)",
+          "literalMeaning": "first of me he was (continuously)",
+          "definition": "Πρῶτος (prōtos, 'first' — root of 'prototype,' 'proton') combined with the imperfect ἦν (ēn, 'he was') makes a remarkable statement. The imperfect tense indicates continuous past existence — 'he was being' or 'he kept on being.' This is the same verb form used in John 1:1 ('In the beginning was the Word'). John the Baptist is saying: before I existed, he already WAS — continuously, without beginning. It's a direct echo of the prologue's claim about the Word's eternal existence.",
+          "translationNote": "Accurate, though the depth of the pre-existence claim is easy to miss in English.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 31,
+      "verseText": "And I knew him not: but that he should be made manifest to Israel, therefore am I come baptizing with water.",
+      "freshTranslation": "I myself didn't recognize who he was — but the whole reason I came baptizing with water was so that he would be revealed to Israel.",
+      "historicalContext": "Even though John and Jesus were relatives (Luke 1:36), John didn't recognize Jesus as the Messiah until the divine sign came. This is important — John's testimony isn't based on family connections or prior knowledge. It's based on divine revelation. John's entire ministry of baptism — the crowds, the controversy, the confrontation with the authorities — existed for one purpose: to create the stage on which Jesus would be revealed.",
+      "crossRefs": [
+        {
+          "ref": "Luke 1:36",
+          "explanation": "Mary and Elizabeth were relatives, making Jesus and John cousins — yet John still didn't recognize him as Messiah."
+        },
+        {
+          "ref": "1 John 3:5",
+          "explanation": "'He appeared so that he might take away our sins' — manifestation as the purpose of incarnation."
+        }
+      ],
+      "words": [
+        {
+          "english": "I knew him not",
+          "original": "κἀγὼ οὐκ ᾔδειν αὐτόν",
+          "transliteration": "kagō ouk ēdein auton",
+          "pronunciation": "kah-GO ook AY-dane ow-TOHN",
+          "strongs": "G2504, G3756, G1492, G846",
+          "partOfSpeech": "conjunction+pronoun (1st person) + negation + verb (pluperfect active indicative, 1st person singular) + pronoun (accusative)",
+          "literalMeaning": "and I myself did not know/perceive him",
+          "definition": "Κἀγώ (kagō) is a contraction of καί + ἐγώ ('and I myself'), emphatic. The verb ᾔδειν (ēdein) is the pluperfect of οἶδα (oida, 'to know by seeing'). The pluperfect indicates a state of not-knowing that existed before the moment of revelation. John is saying: up until that point, I had no idea. This is theologically crucial because it means John's testimony is based on divine revelation, not human observation. He didn't figure it out — it was shown to him.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "made manifest",
+          "original": "φανερωθῇ",
+          "transliteration": "phanerōthē",
+          "pronunciation": "fah-neh-ro-THAY",
+          "strongs": "G5319",
+          "partOfSpeech": "verb (aorist passive subjunctive, 3rd person singular)",
+          "literalMeaning": "he might be made visible, revealed, brought to light",
+          "definition": "From φανερός (phaneros, 'visible, manifest, evident'). The passive voice is important — Jesus is made manifest by God, not by John. John's baptism ministry created the occasion, but God did the revealing. The word implies something that was hidden becoming visible — Jesus was always who he was, but now the veil is being pulled back for Israel to see. This is the language of apocalypse (ἀποκάλυψις, 'unveiling') applied to a person walking along the Jordan.",
+          "translationNote": "'Made manifest' is somewhat archaic. 'Revealed' captures it well for modern readers.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "to Israel",
+          "original": "τῷ Ἰσραήλ",
+          "transliteration": "tō Israēl",
+          "pronunciation": "toh is-rah-AYL",
+          "strongs": "G2474",
+          "partOfSpeech": "proper noun with article (dative masculine singular)",
+          "literalMeaning": "to Israel (from Hebrew 'he struggles with God')",
+          "definition": "Ἰσραήλ is the covenant name for God's people, from the Hebrew יִשְׂרָאֵל, the name God gave to Jacob after wrestling with him (Genesis 32:28). Note that John says 'Israel,' not 'the Jews' (Ἰουδαῖοι). This is significant — 'Israel' is the theological, covenant term, encompassing God's people in their ideal identity. John's mission was to reveal the Messiah to the entire covenant people, not just to the Jerusalem establishment.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 32,
+      "verseText": "And John bare record, saying, I saw the Spirit descending from heaven like a dove, and it abode upon him.",
+      "freshTranslation": "Then John gave his testimony: 'I watched the Spirit come down from heaven like a dove, and it remained on him.'",
+      "historicalContext": "This is John's eyewitness account of Jesus' baptism, though the Gospel of John never directly narrates the baptism itself — only the witness to what happened. The Spirit descending as a dove was the divine sign John was waiting for (as verse 33 explains). In the Old Testament, the Spirit would come upon prophets and kings temporarily. The key detail here is 'remained' — the Spirit didn't visit Jesus momentarily but took up permanent residence. This signals something categorically different from any previous prophet.",
+      "crossRefs": [
+        {
+          "ref": "Matthew 3:16-17",
+          "explanation": "The Synoptic account of the baptism, including the voice from heaven."
+        },
+        {
+          "ref": "Isaiah 11:2",
+          "explanation": "'The Spirit of the LORD will rest on him' — the messianic prophecy of the Spirit's permanent anointing."
+        },
+        {
+          "ref": "Isaiah 42:1",
+          "explanation": "'I will put my Spirit on him' — the Servant Song connecting Spirit-anointing to the Messiah."
+        }
+      ],
+      "words": [
+        {
+          "english": "bore witness",
+          "original": "ἐμαρτύρησεν",
+          "transliteration": "emartyēsen",
+          "pronunciation": "eh-mar-TOO-ray-sen",
+          "strongs": "G3140",
+          "partOfSpeech": "verb (aorist active indicative, 3rd person singular)",
+          "literalMeaning": "he testified, he bore witness",
+          "definition": "The verb form of μαρτυρία (martyria) from verse 19. John's entire role in this Gospel is as a witness. The aorist tense treats the testimony as a complete, definitive act — he gave his witness, it's on the record, it stands. This is courtroom language applied to spiritual revelation. John is under oath, as it were, testifying to what he saw with his own eyes.",
+          "translationNote": "KJV's 'bare record' is again weaker than 'testified' or 'bore witness.' This is sworn testimony, not record-keeping.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "I watched",
+          "original": "Τεθέαμαι",
+          "transliteration": "Tetheamai",
+          "pronunciation": "teh-THEH-ah-mai",
+          "strongs": "G2300",
+          "partOfSpeech": "verb (perfect middle/passive indicative, 1st person singular)",
+          "literalMeaning": "I have gazed upon, I have beheld",
+          "definition": "Θεάομαι (theaomai) means to gaze at, to behold with attention, to contemplate. It's the root of 'theater' — a place for watching. This isn't a casual glance; it's intentional, careful observation. The perfect tense means 'I saw it and the vision remains with me.' John isn't just reporting a past event — the image is still vivid in his mind. He watched the Spirit descend and he can't unsee it.",
+          "translationNote": "KJV's 'I saw' is adequate but misses the intensity — this is deliberate, contemplative seeing, not just noticing.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "the Spirit",
+          "original": "τὸ Πνεῦμα",
+          "transliteration": "to Pneuma",
+          "pronunciation": "toh PNYOO-mah",
+          "strongs": "G4151",
+          "partOfSpeech": "noun with article (accusative neuter singular)",
+          "literalMeaning": "the wind, breath, spirit",
+          "definition": "Πνεῦμα (pneuma) means wind, breath, or spirit. It's the root of 'pneumonia' and 'pneumatic.' In Greek thought, πνεῦμα was the vital breath that animates life. In Jewish theology, the רוּחַ (ruach) of God was God's active, creative presence — the wind that hovered over the waters in Genesis 1:2. Here it refers to God's Holy Spirit, the divine presence that empowered prophets, kings, and now descends permanently on Jesus. The visible descent means this is not metaphorical — John is claiming to have seen something.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "like a dove",
+          "original": "ὡσεὶ περιστεράν",
+          "transliteration": "hōsei peristeran",
+          "pronunciation": "ho-SAY peh-ris-teh-RAHN",
+          "strongs": "G5616, G4058",
+          "partOfSpeech": "adverb (comparative) + noun (accusative feminine singular)",
+          "literalMeaning": "as if/like a dove",
+          "definition": "Περιστερά (peristera) is a dove or pigeon. The dove carried rich symbolism in Judaism: it was the bird Noah sent from the ark that returned with an olive branch signaling new creation (Genesis 8:11), it was the sacrifice of the poor (Leviticus 12:8), and in the Song of Solomon it symbolized beauty and gentleness. The Spirit doesn't come as an eagle (power) or a hawk (judgment) but as a dove — gentle, peaceful, signaling a new creation. The word ὡσεί ('as if, like') indicates this is a comparison, not that the Spirit literally transformed into a bird.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "remained",
+          "original": "ἔμεινεν",
+          "transliteration": "emeinen",
+          "pronunciation": "EH-my-nen",
+          "strongs": "G3306",
+          "partOfSpeech": "verb (aorist active indicative, 3rd person singular)",
+          "literalMeaning": "it stayed, remained, abode",
+          "definition": "Μένω (menō) is one of the most important theological words in John's Gospel — it means to remain, abide, stay, dwell. Jesus will later use this word repeatedly: 'Abide in me and I in you' (John 15:4). The Spirit doesn't just touch Jesus and withdraw — it takes up permanent residence. In the Old Testament, the Spirit came and went from people (it departed from Saul, for instance). With Jesus, the Spirit comes and stays. This permanence marks Jesus as qualitatively different from every previous Spirit-anointed figure in Israel's history.",
+          "translationNote": "KJV's 'abode' captures the meaning but sounds archaic. 'Remained' or 'stayed' works better today.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 33,
+      "verseText": "And I knew him not: but he that sent me to baptize with water, the same said unto me, Upon whom thou shalt see the Spirit descending, and remaining on him, the same is he which baptizeth with the Holy Ghost.",
+      "freshTranslation": "I wouldn't have recognized him, but the one who sent me to baptize with water told me, 'The man on whom you see the Spirit descend and remain — he is the one who baptizes with the Holy Spirit.'",
+      "historicalContext": "John reveals the behind-the-scenes instruction he received from God. His entire baptism ministry was a setup — a way to process people through the water until the right person showed up and the Spirit gave the sign. John was performing hundreds of baptisms essentially as a screening process, waiting for the one on whom the Spirit would remain. This explains why John's baptism existed: not as an end in itself but as the mechanism for identifying the Messiah.",
+      "crossRefs": [
+        {
+          "ref": "Acts 1:5",
+          "explanation": "Jesus echoes this distinction: 'John baptized with water, but you will be baptized with the Holy Spirit.'"
+        },
+        {
+          "ref": "Acts 2:1-4",
+          "explanation": "The fulfillment: Jesus baptizes the disciples with the Holy Spirit at Pentecost."
+        }
+      ],
+      "words": [
+        {
+          "english": "he that sent me",
+          "original": "ὁ πέμψας με",
+          "transliteration": "ho pempsas me",
+          "pronunciation": "ho PEMP-sahs meh",
+          "strongs": "G3588, G3992, G1473",
+          "partOfSpeech": "article + verb participle (aorist active, nominative masculine singular) + pronoun (accusative, 1st person singular)",
+          "literalMeaning": "the one having sent me",
+          "definition": "John doesn't name God directly but refers to him as 'the one who sent me.' This indirect reference to God was common in Jewish speech, reflecting reverence for the divine name. It also establishes John's prophetic credentials — he didn't start baptizing on his own initiative. He was sent, commissioned, given instructions. His authority is derivative, not self-generated.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "baptizes with the Holy Spirit",
+          "original": "βαπτίζων ἐν Πνεύματι Ἁγίῳ",
+          "transliteration": "baptizōn en Pneumati Hagiō",
+          "pronunciation": "bap-TEE-zone en PNYOO-mah-tee hah-YEE-oh",
+          "strongs": "G907, G1722, G4151, G40",
+          "partOfSpeech": "verb participle (present active, nominative masculine singular) + preposition + noun (dative neuter singular) + adjective (dative neuter singular)",
+          "literalMeaning": "the one immersing in Holy Spirit",
+          "definition": "This is the contrast to verse 26: John immerses in water; Jesus immerses in the Holy Spirit. Ἅγιος (hagios, 'holy, set apart, sacred') combined with Πνεῦμα creates the title 'Holy Spirit' — God's own presence and power. The present tense participle βαπτίζων describes this as Jesus' characteristic ongoing activity — it's not a one-time event but what he continually does. If John's water baptism symbolized repentance, Jesus' Spirit baptism actually accomplishes transformation.",
+          "translationNote": "KJV uses 'Holy Ghost,' which in 1611 simply meant 'Holy Spirit.' Modern readers should understand 'Ghost' here has nothing to do with ghosts or apparitions.",
+          "twisted": true,
+          "twistedExplanation": "'Holy Ghost' in modern English evokes spooky, supernatural imagery that has nothing to do with the Greek. Πνεῦμα Ἅγιον means the sacred breath/spirit of God — a living, intimate divine presence, not a ghost."
+        }
+      ]
+    },
+    {
+      "verseNumber": 34,
+      "verseText": "And I saw, and bare record that this is the Son of God.",
+      "freshTranslation": "I have seen it with my own eyes, and I testify: this is the Son of God.",
+      "historicalContext": "This is the climax of John the Baptist's testimony. 'Son of God' in first-century Judaism could mean several things: Israel as a nation was called God's 'son' (Exodus 4:22), kings were called God's 'son' (Psalm 2:7), and angels were called 'sons of God' (Job 1:6). But in John's Gospel, 'Son of God' carries its fullest weight — a unique, divine relationship between Jesus and the Father. Some early manuscripts read 'the Chosen One of God' (ὁ ἐκλεκτός) instead of 'Son,' echoing Isaiah 42:1.",
+      "crossRefs": [
+        {
+          "ref": "Psalm 2:7",
+          "explanation": "'You are my Son; today I have become your Father' — royal messianic language."
+        },
+        {
+          "ref": "John 20:31",
+          "explanation": "The stated purpose of John's Gospel: that readers may believe Jesus is the Son of God."
+        }
+      ],
+      "words": [
+        {
+          "english": "I have seen",
+          "original": "ἑώρακα",
+          "transliteration": "heōraka",
+          "pronunciation": "heh-OH-rah-kah",
+          "strongs": "G3708",
+          "partOfSpeech": "verb (perfect active indicative, 1st person singular)",
+          "literalMeaning": "I have seen (and still see)",
+          "definition": "The perfect tense of ὁράω (horaō, 'to see'). Again the perfect tense — what John saw remains a present reality for him. The vision of the Spirit descending didn't fade; it's permanently imprinted. This is eyewitness testimony with lasting impact. In legal terms, John is not recounting a distant memory but testifying to something that continues to shape his understanding.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "the Son of God",
+          "original": "ὁ υἱὸς τοῦ Θεοῦ",
+          "transliteration": "ho huios tou Theou",
+          "pronunciation": "ho hwee-YOHS too theh-OO",
+          "strongs": "G5207, G2316",
+          "partOfSpeech": "noun with article (nominative masculine singular) + noun with article (genitive masculine singular)",
+          "literalMeaning": "the Son of the God",
+          "definition": "Υἱός (huios) means 'son' and is distinct from τέκνον (teknon, 'child'). Υἱός emphasizes relationship, status, and character — a son who shares the nature and authority of the father. In Greco-Roman culture, calling someone 'son of God' (θεοῦ υἱός) was a title applied to emperors (Augustus was called divi filius, 'son of the divine'). In Jewish context, it's a royal messianic title from Psalm 2. John's Gospel pushes it further than either tradition — Jesus is THE Son of THE God, sharing God's very nature (John 1:1, 1:18, 5:18). This is the title the entire Gospel was written to establish (John 20:31).",
+          "translationNote": "Accurate, though the definite articles are important — this isn't 'a son of a god' but THE Son of THE God. The specificity and exclusivity are in the Greek.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 35,
+      "verseText": "Again the next day after John stood, and two of his disciples;",
+      "freshTranslation": "The next day John was standing there again with two of his disciples.",
+      "historicalContext": "Another day marker in John's 'creation week' structure. The scene shifts from John's public testimony to a more intimate moment. John is with just two students — one will be identified as Andrew (v.40), and the unnamed one is traditionally believed to be the author of this Gospel himself. This is the moment where John the Baptist begins to lose his followers to Jesus — and he does so willingly.",
+      "crossRefs": [
+        {
+          "ref": "John 1:29",
+          "explanation": "Mirrors the previous day's scene but with a smaller, more personal audience."
+        }
+      ],
+      "words": [
+        {
+          "english": "stood",
+          "original": "εἱστήκει",
+          "transliteration": "heistēkei",
+          "pronunciation": "hay-STAY-kay",
+          "strongs": "G2476",
+          "partOfSpeech": "verb (pluperfect active indicative, 3rd person singular)",
+          "literalMeaning": "he had been standing (and was still standing)",
+          "definition": "Pluperfect of ἵστημι (histēmi, 'to stand, to cause to stand'). The pluperfect indicates John had taken his position and was still there. It creates a picture of patient waiting — John planted at his post, faithfully standing where he was supposed to be. This is the posture of a sentinel or a herald, stationed and alert.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "disciples",
+          "original": "μαθητῶν",
+          "transliteration": "mathētōn",
+          "pronunciation": "mah-thay-TONE",
+          "strongs": "G3101",
+          "partOfSpeech": "noun (genitive masculine plural)",
+          "literalMeaning": "learners, students, apprentices",
+          "definition": "From μανθάνω (manthanō, 'to learn'). A μαθητής was not just a casual student but someone who attached themselves to a teacher, followed their way of life, and adopted their teaching. In the Greco-Roman world, philosophers had μαθηταί who lived with them. In Judaism, rabbis had talmidim (the Hebrew equivalent) who followed them literally — walking behind them, serving them, learning by observation. John had his own circle of committed followers, which shows he was recognized as a legitimate teacher.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 36,
+      "verseText": "And looking upon Jesus as he walked, he saith, Behold the Lamb of God!",
+      "freshTranslation": "He fixed his gaze on Jesus as he walked by and said, 'Look — the Lamb of God!'",
+      "historicalContext": "John repeats his declaration from the previous day but this time to just his two disciples. The setting is intimate — no crowd, no delegation, just a teacher pointing his students to someone else. The verb 'looking upon' (ἐμβλέψας) implies a penetrating, focused gaze — John locks eyes on Jesus and makes his announcement. This is the moment John begins to hand off his followers. It's one of the most selfless acts in the Gospel.",
+      "crossRefs": [
+        {
+          "ref": "John 1:29",
+          "explanation": "The identical title repeated from the previous day — now directed specifically at his own disciples."
+        },
+        {
+          "ref": "John 3:30",
+          "explanation": "'He must increase, but I must decrease' — the principle John lives out in this very moment."
+        }
+      ],
+      "words": [
+        {
+          "english": "looking upon",
+          "original": "ἐμβλέψας",
+          "transliteration": "emblepsas",
+          "pronunciation": "em-BLEP-sahs",
+          "strongs": "G1689",
+          "partOfSpeech": "verb participle (aorist active, nominative masculine singular)",
+          "literalMeaning": "having looked intently at, having gazed into",
+          "definition": "From ἐν (en, 'in') + βλέπω (blepō, 'to see'). This compound verb means to look INTO something or someone — a penetrating, focused gaze. It's not a glance but a stare with purpose. The same word is used when Jesus 'looks at' Peter in John 1:42 and sees who he will become. John doesn't just notice Jesus walking by; he fixes his entire attention on him and sees the Lamb of God.",
+          "translationNote": "KJV's 'looking upon' is slightly flat. The Greek conveys intense, focused, almost prophetic seeing.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "as he walked",
+          "original": "περιπατοῦντι",
+          "transliteration": "peripatounti",
+          "pronunciation": "peh-ree-pah-TOON-tee",
+          "strongs": "G4043",
+          "partOfSpeech": "verb participle (present active, dative masculine singular)",
+          "literalMeaning": "walking about",
+          "definition": "From περί (peri, 'around') + πατέω (pateō, 'to walk'). Literally 'to walk around.' In Greek philosophy, this word became famous because Aristotle taught while walking — his students were called 'Peripatetics' (the walkers). In the New Testament, it often means 'to conduct one's life, to live.' There's a beautiful simplicity here: Jesus is just walking. No fanfare, no announcement. He's simply moving through the scene, and only John's prophetic vision recognizes what's passing by.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 37,
+      "verseText": "And the two disciples heard him speak, and they followed Jesus.",
+      "freshTranslation": "The two disciples heard what he said and began following Jesus.",
+      "historicalContext": "This is the birth of the first discipleship transfer — followers of John becoming followers of Jesus. No argument, no persuasion, just a teacher's pointed declaration and his students' response. The verb 'followed' (ἠκολούθησαν) is loaded — it's the technical term for becoming a disciple. They didn't just walk behind him out of curiosity; they began attaching themselves to him as their new teacher. John the Baptist loses two students and isn't bothered at all.",
+      "crossRefs": [
+        {
+          "ref": "Mark 1:16-20",
+          "explanation": "The Synoptic calling of disciples — different scene, same verb (ἀκολουθέω) for following."
+        },
+        {
+          "ref": "John 3:26-30",
+          "explanation": "When his disciples worry about losing followers to Jesus, John says 'This is my joy, and it is complete.'"
+        }
+      ],
+      "words": [
+        {
+          "english": "heard him speak",
+          "original": "ἤκουσαν αὐτοῦ λαλοῦντος",
+          "transliteration": "ēkousan autou lalountos",
+          "pronunciation": "AY-koo-sahn ow-TOO lah-LOON-tohs",
+          "strongs": "G191, G846, G2980",
+          "partOfSpeech": "verb (aorist active indicative, 3rd person plural) + pronoun (genitive) + verb participle (present active, genitive masculine singular)",
+          "literalMeaning": "they heard him speaking",
+          "definition": "Ἀκούω (akouō, 'to hear' — root of 'acoustic') combined with λαλέω (laleō, 'to speak, to talk'). The construction with the genitive (αὐτοῦ λαλοῦντος) emphasizes hearing the person speaking, not just the content. They heard John — his voice, his conviction, his authority — and that personal testimony moved them to act. Faith comes through hearing (Romans 10:17), and these first disciples demonstrate it.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "they followed",
+          "original": "ἠκολούθησαν",
+          "transliteration": "ēkolouthēsan",
+          "pronunciation": "ay-ko-LOO-thay-sahn",
+          "strongs": "G190",
+          "partOfSpeech": "verb (aorist active indicative, 3rd person plural)",
+          "literalMeaning": "they followed, they walked the same road",
+          "definition": "Ἀκολουθέω (akoloutheō) comes from ἀ- (together) + κέλευθος (keleuthos, 'road, path'). To follow is literally 'to share the same road.' This was the technical term for becoming a disciple — not just physical following but life-direction following. The aorist tense marks this as a decisive action: they made a choice, changed direction, and followed. In a single verb, two men's lives pivot from one teacher to another.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 38,
+      "verseText": "Then Jesus turned, and saw them following, and saith unto them, What seek ye? They said unto him, Rabbi, (which is to say, being interpreted, Master,) where dwellest thou?",
+      "freshTranslation": "Jesus turned around and saw them following. He asked, 'What are you looking for?' They replied, 'Rabbi' (which means Teacher), 'where are you staying?'",
+      "historicalContext": "Jesus' first words in John's Gospel are a question: 'What are you looking for?' This is profoundly Johannine — Jesus doesn't lecture; he asks. The question operates on multiple levels: literally 'what do you want?' but also 'what are you searching for in life?' The disciples' response — asking where he's staying — is actually a request for extended time with him. In rabbinic culture, you learned by being with your teacher, not by attending a class.",
+      "crossRefs": [
+        {
+          "ref": "John 18:4",
+          "explanation": "Jesus' first question to those who come to arrest him is the same: 'What are you looking for?' — bookending his ministry."
+        },
+        {
+          "ref": "John 20:15",
+          "explanation": "To Mary at the tomb: 'Who are you looking for?' — the question echoes throughout the Gospel."
+        }
+      ],
+      "words": [
+        {
+          "english": "What are you seeking?",
+          "original": "Τί ζητεῖτε;",
+          "transliteration": "Ti zēteite?",
+          "pronunciation": "TEE zay-TAY-teh",
+          "strongs": "G5101, G2212",
+          "partOfSpeech": "interrogative pronoun + verb (present active indicative, 2nd person plural)",
+          "literalMeaning": "What do you seek/search for?",
+          "definition": "Ζητέω (zēteō) means to seek, search for, look for, or desire. It implies active, intentional pursuit — not passive waiting but actively hunting for something. Jesus' first words in this Gospel are a question about desire and searching. It's the fundamental human question: what are you looking for? What drives you? The present tense suggests ongoing seeking — 'What is it that you are searching for?' This question will echo throughout the Gospel as various people seek Jesus for various reasons — some for bread, some for miracles, some for truth.",
+          "translationNote": "KJV's 'What seek ye?' is accurate. The question is deliberately open-ended — Jesus doesn't ask 'who' but 'what.'",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "Rabbi",
+          "original": "Ῥαββί",
+          "transliteration": "Rhabbi",
+          "pronunciation": "hrab-BEE",
+          "strongs": "G4461",
+          "partOfSpeech": "Hebrew/Aramaic title (indeclinable)",
+          "literalMeaning": "my great one, my master",
+          "definition": "From the Hebrew רַבִּי (rabbi, 'my great one'), from רַב (rav, 'great, master'). By the first century, this had become the standard title of respect for a Jewish teacher. The fact that John's Gospel translates it for readers (ῥαββί, ὃ λέγεται μεθερμηνευόμενον Διδάσκαλε) suggests the audience included Greek-speaking readers unfamiliar with Jewish customs. The disciples immediately use this title of deep respect, recognizing Jesus as a teacher worth following.",
+          "translationNote": "John helpfully translates the Aramaic for his readers. The KJV translates it as 'Master,' but 'Teacher' is more accurate — 'master' has connotations of ownership in English.",
+          "twisted": true,
+          "twistedExplanation": "KJV's 'Master' implies authority and lordship. Rabbi specifically means 'my teacher' — a title of respect for learning and wisdom, not dominion."
+        },
+        {
+          "english": "where are you staying?",
+          "original": "ποῦ μένεις;",
+          "transliteration": "pou meneis?",
+          "pronunciation": "POO MEH-nays",
+          "strongs": "G4226, G3306",
+          "partOfSpeech": "interrogative adverb + verb (present active indicative, 2nd person singular)",
+          "literalMeaning": "Where do you remain/abide?",
+          "definition": "There's μένω (menō) again — the crucial Johannine verb meaning 'to remain, abide, dwell.' On the surface, they're asking for his address. But in John's theological vocabulary, 'where do you μένεις?' is a question about permanent dwelling, about where one's life is rooted. Jesus will later say 'Abide (μένω) in me' (John 15:4). The disciples' first question unknowingly touches the deepest theme of the Gospel — where does one find a permanent home? The answer will turn out to be: in Jesus himself.",
+          "translationNote": "KJV's 'where dwellest thou?' captures the deeper resonance better than modern 'where are you staying?' which sounds like a hotel question.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 39,
+      "verseText": "He saith unto them, Come and see. They came and saw where he dwelt, and abode with him that day: for it was about the tenth hour.",
+      "freshTranslation": "He said, 'Come and you'll see.' So they went and saw where he was staying, and they spent the rest of the day with him. It was about four in the afternoon.",
+      "historicalContext": "Jesus' invitation 'Come and see' becomes a recurring phrase in this chapter (Nathanael will hear it too in v.46). It's an invitation to personal experience — not 'let me explain' but 'come discover for yourself.' The 'tenth hour' is about 4 PM by Roman reckoning (or Jewish reckoning from sunrise). Either way, it's late afternoon — they had only a few hours of daylight left, yet this brief encounter changed the course of their lives. The narrator remembers the exact time decades later, suggesting this is autobiographical.",
+      "crossRefs": [
+        {
+          "ref": "John 1:46",
+          "explanation": "Philip echoes this same invitation to Nathanael: 'Come and see.'"
+        },
+        {
+          "ref": "Revelation 3:20",
+          "explanation": "'If anyone hears my voice and opens the door, I will come in and eat with him' — the same pattern of invitation and fellowship."
+        }
+      ],
+      "words": [
+        {
+          "english": "Come and see",
+          "original": "Ἔρχεσθε καὶ ὄψεσθε",
+          "transliteration": "Erchesthe kai opsesthe",
+          "pronunciation": "ER-khes-theh kai OP-ses-theh",
+          "strongs": "G2064, G2532, G3700",
+          "partOfSpeech": "verb (present middle imperative, 2nd person plural) + conjunction + verb (future middle indicative, 2nd person plural)",
+          "literalMeaning": "Come and you will see",
+          "definition": "Two verbs that define discipleship. Ἔρχομαι (erchomai, 'to come') is an imperative — a command to move. Ὄψομαι (opsomai, future of ὁράω, 'to see') is a promise — you WILL see. The structure is invitation + guarantee. Jesus doesn't argue, explain, or prove himself. He invites experience. This is radically different from the Pharisees who debated scripture endlessly. Jesus says: stop debating, start coming, and seeing will follow. This two-word invitation is arguably the most concise summary of the Gospel's evangelism strategy.",
+          "translationNote": "Accurate. Some manuscripts read 'Come and see' (imperative + imperative) instead of 'Come and you will see' (imperative + future). The meaning is essentially the same.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "they stayed with him",
+          "original": "ἔμειναν παρ᾽ αὐτῷ",
+          "transliteration": "emeinan par' autō",
+          "pronunciation": "EH-my-nahn par ow-TOH",
+          "strongs": "G3306, G3844, G846",
+          "partOfSpeech": "verb (aorist active indicative, 3rd person plural) + preposition + pronoun (dative masculine singular)",
+          "literalMeaning": "they remained beside/with him",
+          "definition": "Μένω (menō) appears yet again — they 'remained' with Jesus. The preposition παρά (para, 'beside, with') adds intimacy — they didn't just visit; they stayed alongside him. Whatever happened in those hours transformed them. The Gospel doesn't tell us what was said or taught. The silence is powerful — some encounters are too sacred to narrate. What matters is the result: they came, they stayed, and everything changed.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "the tenth hour",
+          "original": "ὥρα δεκάτη",
+          "transliteration": "hōra dekatē",
+          "pronunciation": "HO-rah deh-KAH-tay",
+          "strongs": "G5610, G1182",
+          "partOfSpeech": "noun (nominative feminine singular) + adjective (nominative feminine singular)",
+          "literalMeaning": "hour tenth",
+          "definition": "Ὥρα (hōra, 'hour' — root of 'horoscope') is used both for clock time and for significant moments ('the hour has come' in John 12:23). The specific time reference — 'about the tenth hour' — suggests eyewitness memory. If counting from sunrise (6 AM), this is 4 PM. If using Roman reckoning (midnight), it's 10 AM. Most scholars favor the Jewish method, placing this in late afternoon. The narrator remembers the exact hour decades later — this moment was burned into memory. You remember the time when your life changed.",
+          "translationNote": "Accurate, though modern readers need help converting the time system.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 40,
+      "verseText": "One of the two which heard John speak, and followed him, was Andrew, Simon Peter's brother.",
+      "freshTranslation": "One of the two who heard John's testimony and followed Jesus was Andrew, Simon Peter's brother.",
+      "historicalContext": "Andrew is identified not by his own accomplishments but in relation to his brother — 'Simon Peter's brother.' This tells us Peter was already well-known when this Gospel was written. The unnamed second disciple is traditionally identified as the author of the Gospel (the 'beloved disciple'), which would explain why he omits his own name — a characteristic humility running through the text. Andrew becomes the first named follower of Jesus in this Gospel.",
+      "crossRefs": [
+        {
+          "ref": "Matthew 4:18-20",
+          "explanation": "The Synoptic calling of Andrew and Peter by the Sea of Galilee — a different scene but same relationship."
+        },
+        {
+          "ref": "John 6:8-9",
+          "explanation": "Andrew appears again bringing the boy with five loaves and two fish — he's a connector, always bringing people to Jesus."
+        }
+      ],
+      "words": [
+        {
+          "english": "Andrew",
+          "original": "Ἀνδρέας",
+          "transliteration": "Andreas",
+          "pronunciation": "ahn-DREH-ahs",
+          "strongs": "G406",
+          "partOfSpeech": "proper noun (nominative masculine singular)",
+          "literalMeaning": "manly, courageous",
+          "definition": "From ἀνήρ (anēr, 'man'). Andreas is a purely Greek name, suggesting Andrew's family had some degree of Hellenistic influence — they were Galilean Jews comfortable enough with Greek culture to give their son a Greek name. Galilee was more cosmopolitan than Judea, with greater Greek and Roman cultural penetration. Andrew's role in John's Gospel is consistently that of a bridge — he brings people to Jesus (his brother here, the boy with loaves in chapter 6, the Greeks in chapter 12).",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "Simon Peter's",
+          "original": "Σίμωνος Πέτρου",
+          "transliteration": "Simōnos Petrou",
+          "pronunciation": "SEE-mo-nohs PEH-troo",
+          "strongs": "G4613, G4074",
+          "partOfSpeech": "proper noun (genitive masculine singular) + proper noun (genitive masculine singular)",
+          "literalMeaning": "of Simon the Rock",
+          "definition": "Simon (Σίμων, from Hebrew שִׁמְעוֹן Shimon, 'he has heard') was his birth name. Peter (Πέτρος, 'rock, stone') was the name Jesus gave him (see v.42). The double name 'Simon Peter' appears frequently in John's Gospel and indicates the author knew him well enough to use both names fluidly. Identifying Andrew through his brother shows Peter's towering reputation in the early church — he's the reference point by which others are identified.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 41,
+      "verseText": "He first findeth his own brother Simon, and saith unto him, We have found the Messias, which is, being interpreted, the Christ.",
+      "freshTranslation": "The first thing Andrew did was find his own brother Simon and tell him, 'We've found the Messiah!' (which is translated 'the Anointed One').",
+      "historicalContext": "Andrew's immediate response to encountering Jesus is to tell his brother. This is the first act of evangelism in John's Gospel — and it happens not through preaching but through personal relationship. Andrew doesn't organize a rally or write a treatise; he finds his brother. The word 'first' (πρῶτον) suggests urgency — this was the FIRST thing he did, before anything else. He uses the Aramaic 'Messias' rather than the Greek 'Christos,' suggesting this is a direct quotation preserving Andrew's exact excited words.",
+      "crossRefs": [
+        {
+          "ref": "John 4:29",
+          "explanation": "The Samaritan woman does the same thing — encounters Jesus and immediately tells others."
+        },
+        {
+          "ref": "Daniel 9:25-26",
+          "explanation": "Daniel's prophecy of 'Messiah the Prince' — the term Andrew uses with all its loaded expectation."
+        }
+      ],
+      "words": [
+        {
+          "english": "first",
+          "original": "πρῶτον",
+          "transliteration": "prōton",
+          "pronunciation": "PRO-tohn",
+          "strongs": "G4413",
+          "partOfSpeech": "adverb (superlative of πρό)",
+          "literalMeaning": "first, before anything else",
+          "definition": "The adverbial use of πρῶτος (prōtos, 'first'). Some manuscripts read πρῶτος (nominative, 'he first [of the two]' — meaning Andrew found his brother before the other disciple found anyone), while others read πρῶτον (adverb, 'first of all' — the first thing Andrew did). Either way, the emphasis is on immediacy and priority. Finding Simon was Andrew's first instinct after encountering Jesus. The impulse to share discovery is presented as natural and immediate, not strategic.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "Messiah",
+          "original": "Μεσσίαν",
+          "transliteration": "Messian",
+          "pronunciation": "mes-SEE-ahn",
+          "strongs": "G3323",
+          "partOfSpeech": "proper noun/title (accusative masculine singular, Aramaic loanword)",
+          "literalMeaning": "the Anointed One",
+          "definition": "This is the Greek transliteration of the Aramaic מְשִׁיחָא (meshicha), itself from the Hebrew מָשִׁיחַ (mashiach). This word appears only twice in the entire New Testament — here and in John 4:25 (the Samaritan woman). Both times, John translates it for his readers. The preservation of the Aramaic form suggests we're hearing Andrew's exact word — the excitement of his original language bursting through. After centuries of waiting, after reading the prophecies, after watching John the Baptist prepare the way, Andrew can barely contain himself: 'We found him. The one everyone's been waiting for.'",
+          "translationNote": "John provides the translation (ὅ ἐστιν μεθερμηνευόμενον Χριστός), showing his audience needed the Greek equivalent. This dual-language presentation preserves the raw Aramaic excitement while ensuring comprehension.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "we have found",
+          "original": "Εὑρήκαμεν",
+          "transliteration": "Heurēkamen",
+          "pronunciation": "hyoo-RAY-kah-men",
+          "strongs": "G2147",
+          "partOfSpeech": "verb (perfect active indicative, 1st person plural)",
+          "literalMeaning": "we have found (and still have him)",
+          "definition": "Εὑρίσκω (heuriskō, 'to find, to discover'). This is the root of 'eureka!' — Archimedes' famous shout in the bath. The perfect tense means 'we have found and the finding stands' — it's not temporary. Andrew isn't saying 'we ran into someone interesting.' He's saying 'the search is over — we found what Israel has been looking for.' The plural 'we' includes both disciples, suggesting they discussed it together and reached the same conclusion. This is discovery language — the thrill of finding what you've been searching for.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 42,
+      "verseText": "And he brought him to Jesus. And when Jesus beheld him, he said, Thou art Simon the son of Jona: thou shalt be called Cephas, which is by interpretation, A stone.",
+      "freshTranslation": "He brought him to Jesus. Jesus looked straight at him and said, 'You are Simon, son of John. You will be called Cephas' (which means Peter — 'Rock').",
+      "historicalContext": "Jesus demonstrates supernatural knowledge by knowing Simon's name and parentage without introduction. Then he renames him — an act with deep biblical precedent. God renamed Abram to Abraham, Jacob to Israel, and now Jesus renames Simon to Cephas/Peter. In the ancient world, naming someone was an act of authority over them, and renaming indicated a new identity and destiny. Jesus sees not just who Simon IS but who he will BECOME.",
+      "crossRefs": [
+        {
+          "ref": "Genesis 17:5",
+          "explanation": "God renames Abram to Abraham — same pattern of divine renaming signaling a new calling."
+        },
+        {
+          "ref": "Genesis 32:28",
+          "explanation": "God renames Jacob to Israel — another identity transformation through naming."
+        },
+        {
+          "ref": "Matthew 16:18",
+          "explanation": "'You are Peter, and on this rock I will build my church' — the later significance of the name."
+        }
+      ],
+      "words": [
+        {
+          "english": "he brought him",
+          "original": "ἤγαγεν αὐτόν",
+          "transliteration": "ēgagen auton",
+          "pronunciation": "AY-gah-gen ow-TOHN",
+          "strongs": "G71, G846",
+          "partOfSpeech": "verb (aorist active indicative, 3rd person singular) + pronoun (accusative)",
+          "literalMeaning": "he led him",
+          "definition": "Ἄγω (agō, 'to lead, to bring, to carry'). Andrew doesn't just tell Simon about Jesus and leave it there — he physically brings him. This verb implies taking someone by the hand and leading them. Andrew's faith is active and relational — he connects people. This is the first of three times in John's Gospel where Andrew brings someone to Jesus (see also 6:8-9 and 12:22). He's the quintessential connector.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "looked at him",
+          "original": "ἐμβλέψας αὐτῷ",
+          "transliteration": "emblepsas autō",
+          "pronunciation": "em-BLEP-sahs ow-TOH",
+          "strongs": "G1689, G846",
+          "partOfSpeech": "verb participle (aorist active, nominative masculine singular) + pronoun (dative)",
+          "literalMeaning": "having gazed intently at him",
+          "definition": "The same penetrating gaze (ἐμβλέπω) that John the Baptist directed at Jesus in verse 36. Jesus locks eyes with Simon and sees through to his core. This isn't casual eye contact — it's the kind of look that makes you feel completely known. Jesus doesn't need Simon to introduce himself; one look and he knows everything. The verb implies both seeing and understanding — a gaze that reads the soul.",
+          "translationNote": "KJV's 'beheld' is good but archaic. 'Looked straight at' or 'fixed his gaze on' conveys the intensity.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "Cephas",
+          "original": "Κηφᾶς",
+          "transliteration": "Kēphas",
+          "pronunciation": "kay-FAHS",
+          "strongs": "G2786",
+          "partOfSpeech": "proper noun (nominative masculine singular, Aramaic loanword)",
+          "literalMeaning": "rock, stone",
+          "definition": "The Greek transliteration of the Aramaic כֵּיפָא (kepha, 'rock'). John again preserves the original Aramaic and translates it — Κηφᾶς, which is Πέτρος (Petros) in Greek. Both words mean 'rock' or 'stone.' This wasn't a common personal name before Jesus gave it — it would have sounded strange, like naming someone 'Boulder.' The name is prophetic, describing not who Simon is now (impulsive, inconsistent) but who he will become (the rock-solid leader of the early church). Jesus sees potential, not just present reality.",
+          "translationNote": "KJV translates Πέτρος as 'a stone,' but the intended meaning is 'rock' — a name, not a description of size. Jesus is giving him a name, not comparing him to a pebble.",
+          "twisted": true,
+          "twistedExplanation": "Translating Πέτρος as 'a stone' rather than 'Rock' diminishes the force of the renaming. Jesus isn't saying 'you're a little stone' — he's giving a powerful new name: Rock."
+        },
+        {
+          "english": "son of John",
+          "original": "υἱὸς Ἰωάννου",
+          "transliteration": "huios Iōannou",
+          "pronunciation": "hwee-YOHS ee-oh-AHN-noo",
+          "strongs": "G5207, G2491",
+          "partOfSpeech": "noun + proper noun (genitive masculine singular)",
+          "literalMeaning": "son of John",
+          "definition": "The patronymic identifies Simon by his father's name — standard practice in a culture without surnames. Some manuscripts read 'son of Jona' (Ἰωνᾶ), possibly a shortened form of Ἰωάννης. The point is that Jesus knows Simon's family line without being told — this is supernatural knowledge. By stating who Simon currently IS (son of John) before declaring who he WILL BE (Cephas/Rock), Jesus demonstrates authority over both present identity and future destiny.",
+          "translationNote": "KJV reads 'Jona,' some manuscripts have 'John.' The father's name varies across manuscripts but the point is the same — Jesus knows him.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
     }
   ]
 }

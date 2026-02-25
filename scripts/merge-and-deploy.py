@@ -1,63 +1,94 @@
 #!/usr/bin/env python3
 """
 Merge chapter data and copy to public/data/john/ for the Next.js app.
-Run from the bible-app root directory.
 """
-import json
-import os
-import shutil
+import json, os, re, glob
 
-DATA_DIR = os.path.join(os.path.dirname(__file__), '..', 'data', 'john')
-PUBLIC_DIR = os.path.join(os.path.dirname(__file__), '..', 'app', 'public', 'data', 'john')
-
+DATA_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'data', 'john')
+PUBLIC_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'app', 'public', 'data', 'john')
 os.makedirs(PUBLIC_DIR, exist_ok=True)
 
-# Check if we need to merge john 1 (existing 1-18 + new 19-51)
-ch1_path = os.path.join(DATA_DIR, '1.json')
-ch1_rest_path = os.path.join(DATA_DIR, '1-verses-19-51.json')
+def load_json_safe(path):
+    """Load JSON, attempting to repair truncated files."""
+    with open(path) as f:
+        text = f.read()
+    try:
+        return json.loads(text)
+    except json.JSONDecodeError:
+        # Try to repair by finding last complete verse
+        verse_starts = [m.start() for m in re.finditer(r'\{\s*"verseNumber"', text)]
+        for i in range(len(verse_starts)-1, 0, -1):
+            candidate = text[:verse_starts[i]].rstrip().rstrip(',')
+            for suffix in ['\n]}', '\n]']:
+                try:
+                    return json.loads(candidate + suffix)
+                except:
+                    continue
+        return None
 
-if os.path.exists(ch1_path) and os.path.exists(ch1_rest_path):
-    print("Merging John 1...")
-    with open(ch1_path) as f:
-        ch1 = json.load(f)
-    with open(ch1_rest_path) as f:
-        rest = json.load(f)
-    
-    # rest could be just an array of verses or a full chapter object
-    if isinstance(rest, list):
-        new_verses = rest
-    elif isinstance(rest, dict) and 'verses' in rest:
-        new_verses = rest['verses']
-    else:
-        print(f"  WARNING: unexpected format in {ch1_rest_path}")
-        new_verses = []
-    
-    existing_nums = {v['verseNumber'] for v in ch1['verses']}
+def merge_verses_into(chapter_data, extra_verses):
+    """Merge extra verses into a chapter's verse list."""
+    if isinstance(extra_verses, dict) and 'verses' in extra_verses:
+        extra_verses = extra_verses['verses']
+    if not isinstance(extra_verses, list):
+        return 0
+    existing = {v['verseNumber'] for v in chapter_data['verses']}
     added = 0
-    for v in new_verses:
-        if v['verseNumber'] not in existing_nums:
-            ch1['verses'].append(v)
+    for v in extra_verses:
+        if v.get('verseNumber') and v['verseNumber'] not in existing:
+            chapter_data['verses'].append(v)
             added += 1
-    
-    ch1['verses'].sort(key=lambda v: v['verseNumber'])
-    
-    with open(ch1_path, 'w') as f:
-        json.dump(ch1, f, ensure_ascii=False, indent=2)
-    print(f"  John 1 now has {len(ch1['verses'])} verses (added {added})")
+    chapter_data['verses'].sort(key=lambda v: v['verseNumber'])
+    return added
 
-# Copy all chapter files to public
-for fname in sorted(os.listdir(DATA_DIR)):
-    if fname.endswith('.json') and not fname.startswith('1-'):
-        src = os.path.join(DATA_DIR, fname)
-        dst = os.path.join(PUBLIC_DIR, fname)
-        shutil.copy2(src, dst)
-        
-        with open(src) as f:
-            d = json.load(f)
-        
-        if isinstance(d, dict) and 'verses' in d:
-            print(f"  {fname}: {len(d['verses'])} verses ✓")
-        else:
-            print(f"  {fname}: copied (format unclear)")
+# Process chapter 1 — merge all fragments
+ch1_path = os.path.join(DATA_DIR, '1.json')
+if os.path.exists(ch1_path):
+    ch1 = load_json_safe(ch1_path)
+    if ch1:
+        for frag in sorted(glob.glob(os.path.join(DATA_DIR, '1-verses-*.json'))):
+            extra = load_json_safe(frag)
+            if extra:
+                added = merge_verses_into(ch1, extra)
+                if added: print(f"  Merged {added} verses from {os.path.basename(frag)}")
+        with open(ch1_path, 'w') as f:
+            json.dump(ch1, f, ensure_ascii=False, indent=2)
+        print(f"John 1: {len(ch1['verses'])} verses (1-{ch1['verses'][-1]['verseNumber']})")
 
-print("\nDone! Run 'cd app && npm run build' to rebuild.")
+# Process other chapters — merge any *-remaining.json files
+for ch_num in range(2, 22):
+    ch_path = os.path.join(DATA_DIR, f'{ch_num}.json')
+    remaining_path = os.path.join(DATA_DIR, f'{ch_num}-remaining.json')
+    
+    if not os.path.exists(ch_path):
+        continue
+    
+    ch_data = load_json_safe(ch_path)
+    if not ch_data:
+        print(f"John {ch_num}: CORRUPTED, skipping")
+        continue
+    
+    if os.path.exists(remaining_path):
+        extra = load_json_safe(remaining_path)
+        if extra:
+            added = merge_verses_into(ch_data, extra)
+            if added:
+                print(f"  Merged {added} remaining verses into chapter {ch_num}")
+                with open(ch_path, 'w') as f:
+                    json.dump(ch_data, f, ensure_ascii=False, indent=2)
+    
+    print(f"John {ch_num}: {len(ch_data['verses'])} verses")
+
+# Copy all clean chapter files to public
+print("\nCopying to public/data/john/...")
+for ch_num in range(1, 22):
+    src = os.path.join(DATA_DIR, f'{ch_num}.json')
+    if os.path.exists(src):
+        data = load_json_safe(src)
+        if data and isinstance(data, dict) and 'verses' in data and len(data['verses']) > 0:
+            dst = os.path.join(PUBLIC_DIR, f'{ch_num}.json')
+            with open(dst, 'w') as f:
+                json.dump(data, f, ensure_ascii=False)
+            print(f"  {ch_num}.json → {len(data['verses'])} verses ✓")
+
+print("\nDone!")
