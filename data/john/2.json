@@ -12,9 +12,18 @@
       "freshTranslation": "On the third day, a wedding took place in Cana of Galilee, and the mother of Jesus was there.",
       "historicalContext": "Jewish weddings were week-long community celebrations, often involving the entire village. Cana was a small town in the Galilean hills, likely modern Khirbet Qana, about 9 miles north of Nazareth. 'The third day' connects to the sequence beginning in John 1:19, but may also carry theological overtones — foreshadowing the resurrection 'on the third day.' Mary's presence without Joseph being mentioned suggests Joseph may have already died.",
       "crossRefs": [
-        {"ref": "John 1:43", "explanation": "The previous day's events in the sequence leading to 'the third day'"},
-        {"ref": "Genesis 1:9-13", "explanation": "The third day in creation when dry land appears and vegetation springs forth — a day of life and fruitfulness"},
-        {"ref": "1 Corinthians 15:4", "explanation": "Christ's resurrection 'on the third day' — John may be layering this foreshadowing"}
+        {
+          "ref": "John 1:43",
+          "explanation": "The previous day's events in the sequence leading to 'the third day'"
+        },
+        {
+          "ref": "Genesis 1:9-13",
+          "explanation": "The third day in creation when dry land appears and vegetation springs forth — a day of life and fruitfulness"
+        },
+        {
+          "ref": "1 Corinthians 15:4",
+          "explanation": "Christ's resurrection 'on the third day' — John may be layering this foreshadowing"
+        }
       ],
       "words": [
         {
@@ -142,8 +151,14 @@
       "freshTranslation": "Jesus and his disciples had also been invited to the wedding.",
       "historicalContext": "Jesus' newly called disciples (from chapter 1) accompany him. That Jesus was 'called' (invited) to a wedding — and accepted — shows his engagement with ordinary social life. Unlike the ascetic John the Baptist, Jesus participated in celebrations. The inclusion of his disciples, who numbered perhaps five at this point (Andrew, Simon Peter, Philip, Nathanael, and the unnamed disciple), would have increased the strain on the host's provisions.",
       "crossRefs": [
-        {"ref": "Matthew 11:19", "explanation": "Jesus was known as 'a friend of tax collectors and sinners' who came 'eating and drinking'"},
-        {"ref": "John 1:35-51", "explanation": "The calling of Jesus' first disciples, who now accompany him"}
+        {
+          "ref": "Matthew 11:19",
+          "explanation": "Jesus was known as 'a friend of tax collectors and sinners' who came 'eating and drinking'"
+        },
+        {
+          "ref": "John 1:35-51",
+          "explanation": "The calling of Jesus' first disciples, who now accompany him"
+        }
       ],
       "words": [
         {
@@ -193,8 +208,14 @@
       "freshTranslation": "When the wine ran out, the mother of Jesus said to him, 'They have no wine.'",
       "historicalContext": "Running out of wine at a wedding was a devastating social failure for the host family — it could bring lasting shame in an honor-shame culture and even lead to legal claims from the bride's family. Wine was not a luxury but a staple of celebration; the Talmud states that 'there is no joy without wine.' Mary's statement to Jesus is not merely informational — she clearly expects him to do something about it, though his public ministry has not yet begun. Her confidence suggests she has witnessed something of his power or character that gave her this expectation.",
       "crossRefs": [
-        {"ref": "Psalm 104:15", "explanation": "Wine that 'gladdens the heart of man' — wine as God's gift of joy"},
-        {"ref": "Isaiah 25:6", "explanation": "The messianic banquet described with 'aged wine' — abundance of wine signals God's kingdom"}
+        {
+          "ref": "Psalm 104:15",
+          "explanation": "Wine that 'gladdens the heart of man' — wine as God's gift of joy"
+        },
+        {
+          "ref": "Isaiah 25:6",
+          "explanation": "The messianic banquet described with 'aged wine' — abundance of wine signals God's kingdom"
+        }
       ],
       "words": [
         {
@@ -257,9 +278,18 @@
       "freshTranslation": "Jesus said to her, 'Woman, what concern is that to you and me? My hour has not yet come.'",
       "historicalContext": "Jesus' response sounds harsh in English but is not disrespectful in Greek. 'Woman' (gynai) was a formal address — the same word Jesus uses from the cross when tenderly committing Mary to John's care (19:26). The phrase 'what to me and to you' is a Semitic idiom found throughout the Old Testament (Judges 11:12, 2 Samuel 16:10, 1 Kings 17:18) that establishes distance between two parties' concerns. Jesus introduces the critical Johannine concept of 'the hour' — his appointed time of glorification through the cross, which structures the entire Gospel's timeline.",
       "crossRefs": [
-        {"ref": "John 19:26", "explanation": "Jesus addresses Mary as 'Woman' from the cross — same respectful term"},
-        {"ref": "John 7:30", "explanation": "'His hour had not yet come' — recurring theme of divine timing throughout John"},
-        {"ref": "2 Samuel 16:10", "explanation": "Same Semitic idiom 'what have I to do with you' used by David — expressing differing concerns"}
+        {
+          "ref": "John 19:26",
+          "explanation": "Jesus addresses Mary as 'Woman' from the cross — same respectful term"
+        },
+        {
+          "ref": "John 7:30",
+          "explanation": "'His hour had not yet come' — recurring theme of divine timing throughout John"
+        },
+        {
+          "ref": "2 Samuel 16:10",
+          "explanation": "Same Semitic idiom 'what have I to do with you' used by David — expressing differing concerns"
+        }
       ],
       "words": [
         {
@@ -322,8 +352,14 @@
       "freshTranslation": "His mother said to the servants, 'Whatever he tells you, do it.'",
       "historicalContext": "Despite Jesus' seemingly discouraging reply, Mary shows remarkable faith by instructing the servants to obey him. Her words echo Pharaoh's command about Joseph in Genesis 41:55 ('whatever he says to you, do it') and Israel's covenant response at Sinai ('all that the LORD has spoken, we will do' — Exodus 19:8). Mary's confidence suggests an intimate knowledge of Jesus' character — she knows he will act. Her instruction to the servants shows she had some authority at this event, supporting the theory of a family connection to the hosts.",
       "crossRefs": [
-        {"ref": "Genesis 41:55", "explanation": "Pharaoh's identical command about Joseph — 'whatever he says to you, do it'"},
-        {"ref": "Exodus 19:8", "explanation": "Israel's covenant pledge: 'all that the LORD has spoken we will do'"}
+        {
+          "ref": "Genesis 41:55",
+          "explanation": "Pharaoh's identical command about Joseph — 'whatever he says to you, do it'"
+        },
+        {
+          "ref": "Exodus 19:8",
+          "explanation": "Israel's covenant pledge: 'all that the LORD has spoken we will do'"
+        }
       ],
       "words": [
         {
@@ -373,8 +409,14 @@
       "freshTranslation": "Now six stone water jars were standing there for the Jewish ceremonial washing, each holding twenty to thirty gallons.",
       "historicalContext": "These stone jars were used for Jewish ritual purification (hand-washing before meals, washing of utensils, etc.) as prescribed by the oral traditions of the elders. Stone vessels were preferred because, unlike pottery, they were considered incapable of contracting ritual impurity under Jewish law. Six is one short of seven (the number of completeness/perfection) — perhaps symbolizing the inadequacy of the old purification system. The total capacity was 120-180 gallons, an enormous quantity — Jesus' provision is extravagant.",
       "crossRefs": [
-        {"ref": "Mark 7:3-4", "explanation": "Describes the Jewish practice of ceremonial washing that these jars facilitated"},
-        {"ref": "Leviticus 11:33", "explanation": "Clay vessels that become impure must be broken — explaining the preference for stone"}
+        {
+          "ref": "Mark 7:3-4",
+          "explanation": "Describes the Jewish practice of ceremonial washing that these jars facilitated"
+        },
+        {
+          "ref": "Leviticus 11:33",
+          "explanation": "Clay vessels that become impure must be broken — explaining the preference for stone"
+        }
       ],
       "words": [
         {
@@ -450,8 +492,14 @@
       "freshTranslation": "Jesus said to them, 'Fill the jars with water.' And they filled them to the brim.",
       "historicalContext": "Jesus involves the servants in the miracle by giving them a concrete, obeyable command. The detail 'to the brim' (heōs anō — 'up to the top') serves as evidence that no wine was mixed in — there was no room for anything but water. This establishes the miracle's authenticity through eyewitness detail. The servants' immediate obedience, following Mary's instruction, makes them active participants in the sign. Filling six large stone jars to the brim would have required significant physical effort, hauling water from a well or cistern.",
       "crossRefs": [
-        {"ref": "2 Kings 4:1-7", "explanation": "Elisha's miracle of multiplying oil — also involved filling vessels to the brim"},
-        {"ref": "John 2:5", "explanation": "The servants obey Jesus exactly as Mary instructed them to"}
+        {
+          "ref": "2 Kings 4:1-7",
+          "explanation": "Elisha's miracle of multiplying oil — also involved filling vessels to the brim"
+        },
+        {
+          "ref": "John 2:5",
+          "explanation": "The servants obey Jesus exactly as Mary instructed them to"
+        }
       ],
       "words": [
         {
@@ -514,8 +562,14 @@
       "freshTranslation": "Then he told them, 'Now draw some out and take it to the master of the feast.' So they took it.",
       "historicalContext": "The 'governor of the feast' (architriklinos) was a trusted friend or hired professional who managed the banquet — tasting food and wine, directing servants, and ensuring the celebration ran smoothly. Jesus' instruction requires enormous faith from the servants: they know the jars contain water, yet they are told to present it to the expert who will taste it. If it's still water, they will look foolish or be punished. Their obedience demonstrates the faith Mary called for in verse 5.",
       "crossRefs": [
-        {"ref": "Sirach 32:1-2", "explanation": "Description of the master of a feast and his responsibilities in Jewish culture"},
-        {"ref": "John 2:5", "explanation": "'Whatever he tells you, do it' — the servants now embody Mary's instruction"}
+        {
+          "ref": "Sirach 32:1-2",
+          "explanation": "Description of the master of a feast and his responsibilities in Jewish culture"
+        },
+        {
+          "ref": "John 2:5",
+          "explanation": "'Whatever he tells you, do it' — the servants now embody Mary's instruction"
+        }
       ],
       "words": [
         {
@@ -578,8 +632,14 @@
       "freshTranslation": "When the master of the feast tasted the water that had become wine — not knowing where it came from, though the servants who had drawn the water knew — he called the bridegroom",
       "historicalContext": "John creates a dramatic irony: the expert tastes and evaluates the wine without knowing its miraculous origin, while the lowly servants who did the manual labor possess the knowledge. This pattern recurs throughout John's Gospel — those with status and authority are often blind to what the humble and marginal perceive. The architriklinos's ignorance authenticates the miracle objectively: his judgment is unbiased because he has no idea what happened.",
       "crossRefs": [
-        {"ref": "1 Corinthians 1:26-29", "explanation": "God chooses the lowly — the servants know what the master does not"},
-        {"ref": "John 9:39-41", "explanation": "Those who think they see are blind; those who know they're blind receive sight — same irony pattern"}
+        {
+          "ref": "1 Corinthians 1:26-29",
+          "explanation": "God chooses the lowly — the servants know what the master does not"
+        },
+        {
+          "ref": "John 9:39-41",
+          "explanation": "Those who think they see are blind; those who know they're blind receive sight — same irony pattern"
+        }
       ],
       "words": [
         {
@@ -655,8 +715,14 @@
       "freshTranslation": "and said to him, 'Everyone serves the fine wine first, and then the cheaper wine after the guests have drunk freely. But you have saved the best wine until now.'",
       "historicalContext": "The architriklinos states a universal practice: serve the best wine first while palates are sharp, then switch to inferior wine once guests have drunk enough not to notice the difference. This was common sense and accepted social strategy. His astonishment that the groom apparently reversed this practice is the punchline of the miracle. Theologically, it declares that what God does in Jesus surpasses everything that came before — the new covenant wine is better than the old covenant water of purification.",
       "crossRefs": [
-        {"ref": "Hebrews 8:6", "explanation": "Jesus mediates a 'better covenant' — the best saved for last"},
-        {"ref": "Song of Solomon 1:2", "explanation": "'Your love is better than wine' — the bridegroom's excellence"}
+        {
+          "ref": "Hebrews 8:6",
+          "explanation": "Jesus mediates a 'better covenant' — the best saved for last"
+        },
+        {
+          "ref": "Song of Solomon 1:2",
+          "explanation": "'Your love is better than wine' — the bridegroom's excellence"
+        }
       ],
       "words": [
         {
@@ -745,9 +811,18 @@
       "freshTranslation": "This, the first of his signs, Jesus performed in Cana of Galilee. He revealed his glory, and his disciples put their trust in him.",
       "historicalContext": "John explicitly labels this as the 'beginning of signs' — the first in a carefully selected series of seven signs that structure John's Gospel. John never uses the word 'miracle' (teras/dynamis); he consistently calls them 'signs' (sēmeia) because their purpose is not raw power but revelation — they point beyond themselves to Jesus' identity. The result is that Jesus' glory was 'manifested' (made visible) and the disciples believed. This is John's theology of signs in miniature: signs reveal glory, glory produces faith.",
       "crossRefs": [
-        {"ref": "John 20:30-31", "explanation": "John's purpose statement — signs were written so that readers might believe"},
-        {"ref": "Exodus 7:3", "explanation": "Moses' signs in Egypt — Jesus' signs parallel and surpass Moses'"},
-        {"ref": "John 1:14", "explanation": "'We beheld his glory' — the Cana sign fulfills this promise"}
+        {
+          "ref": "John 20:30-31",
+          "explanation": "John's purpose statement — signs were written so that readers might believe"
+        },
+        {
+          "ref": "Exodus 7:3",
+          "explanation": "Moses' signs in Egypt — Jesus' signs parallel and surpass Moses'"
+        },
+        {
+          "ref": "John 1:14",
+          "explanation": "'We beheld his glory' — the Cana sign fulfills this promise"
+        }
       ],
       "words": [
         {
@@ -810,8 +885,14 @@
       "freshTranslation": "After this, he went down to Capernaum — he, his mother, his brothers, and his disciples — and they stayed there only a few days.",
       "historicalContext": "Capernaum sat on the northwest shore of the Sea of Galilee, about 700 feet below sea level — hence 'went down' from the Galilean hills where Cana sat. It became Jesus' home base for his Galilean ministry (Matthew 4:13 calls it 'his own city'). The mention of Jesus' 'brothers' (adelphoi) has sparked centuries of debate: were they biological siblings (the Protestant view), half-brothers through Joseph (the Eastern Orthodox view), or cousins (the Roman Catholic view)? The brief stay anticipates the move to Jerusalem for Passover in the next verse.",
       "crossRefs": [
-        {"ref": "Matthew 4:13", "explanation": "Jesus settles in Capernaum — it becomes his base of operations"},
-        {"ref": "Mark 6:3", "explanation": "Names Jesus' brothers: James, Joses, Judas, and Simon"}
+        {
+          "ref": "Matthew 4:13",
+          "explanation": "Jesus settles in Capernaum — it becomes his base of operations"
+        },
+        {
+          "ref": "Mark 6:3",
+          "explanation": "Names Jesus' brothers: James, Joses, Judas, and Simon"
+        }
       ],
       "words": [
         {
@@ -874,8 +955,14 @@
       "freshTranslation": "The Jewish Passover was near, and Jesus went up to Jerusalem.",
       "historicalContext": "This is the first of three Passovers mentioned in John's Gospel (2:13, 6:4, 11:55), which is why scholars date Jesus' ministry at approximately three years. 'Went up' is both geographical (Jerusalem sits at 2,500 feet elevation) and theological — one always 'goes up' to Jerusalem in Jewish parlance because the Temple, God's dwelling place, is the highest spiritual point on earth. Passover commemorated the Exodus from Egypt and required pilgrimage to Jerusalem for all able-bodied Jewish males within a reasonable distance.",
       "crossRefs": [
-        {"ref": "Exodus 12:1-14", "explanation": "The institution of Passover — the foundational event Jesus' actions will reinterpret"},
-        {"ref": "Deuteronomy 16:16", "explanation": "Three annual pilgrimage festivals requiring Jerusalem attendance"}
+        {
+          "ref": "Exodus 12:1-14",
+          "explanation": "The institution of Passover — the foundational event Jesus' actions will reinterpret"
+        },
+        {
+          "ref": "Deuteronomy 16:16",
+          "explanation": "Three annual pilgrimage festivals requiring Jerusalem attendance"
+        }
       ],
       "words": [
         {
@@ -938,9 +1025,18 @@
       "freshTranslation": "In the temple courts he found people selling cattle, sheep, and doves, and money changers seated at their tables.",
       "historicalContext": "The selling took place in the Court of the Gentiles — the outermost court of the Temple complex, the only area where non-Jews could come to pray. The animal sellers provided sacrificial animals for pilgrims who had traveled too far to bring their own. Money changers converted foreign currency into the Tyrian shekel (the only currency accepted for the Temple tax) since Roman coins bore the emperor's image, considered idolatrous. While these services were legitimate in principle, they had become exploitative — the high priestly family of Annas controlled the market, charging inflated prices and trapping pilgrims into a system of commercial religion.",
       "crossRefs": [
-        {"ref": "Malachi 3:1-3", "explanation": "'The Lord whom you seek will suddenly come to his temple... he will purify the sons of Levi'"},
-        {"ref": "Matthew 21:12-13", "explanation": "Synoptic account of the Temple cleansing, placed during Passion Week"},
-        {"ref": "Zechariah 14:21", "explanation": "'There shall no longer be a trader in the house of the LORD' — messianic promise"}
+        {
+          "ref": "Malachi 3:1-3",
+          "explanation": "'The Lord whom you seek will suddenly come to his temple... he will purify the sons of Levi'"
+        },
+        {
+          "ref": "Matthew 21:12-13",
+          "explanation": "Synoptic account of the Temple cleansing, placed during Passion Week"
+        },
+        {
+          "ref": "Zechariah 14:21",
+          "explanation": "'There shall no longer be a trader in the house of the LORD' — messianic promise"
+        }
       ],
       "words": [
         {
@@ -1042,9 +1138,18 @@
       "freshTranslation": "So he made a whip out of cords and drove them all out of the temple courts, both the sheep and the cattle. He scattered the coins of the money changers and overturned their tables.",
       "historicalContext": "Jesus takes deliberate, physical action — he doesn't act impulsively but takes time to braid a whip from cords (likely the rushes used to tether animals). This is controlled prophetic action, not a rage-driven tantrum. The whip was primarily for driving out the animals, but the action disrupted the entire commercial operation. Overturning the money changers' tables would have sent coins rolling across the stone pavement. This act echoes the prophets who performed dramatic symbolic actions to deliver God's message (Ezekiel lying on his side, Jeremiah breaking a pot). Jesus acts with the authority of the Temple's true owner.",
       "crossRefs": [
-        {"ref": "Malachi 3:1-3", "explanation": "The Lord suddenly comes to his temple to purify — Jesus fulfills this prophecy"},
-        {"ref": "Jeremiah 7:11", "explanation": "'Has this house become a den of robbers?' — prophetic anger at Temple corruption"},
-        {"ref": "Isaiah 56:7", "explanation": "'My house shall be called a house of prayer for all peoples' — the Court of the Gentiles was being denied its purpose"}
+        {
+          "ref": "Malachi 3:1-3",
+          "explanation": "The Lord suddenly comes to his temple to purify — Jesus fulfills this prophecy"
+        },
+        {
+          "ref": "Jeremiah 7:11",
+          "explanation": "'Has this house become a den of robbers?' — prophetic anger at Temple corruption"
+        },
+        {
+          "ref": "Isaiah 56:7",
+          "explanation": "'My house shall be called a house of prayer for all peoples' — the Court of the Gentiles was being denied its purpose"
+        }
       ],
       "words": [
         {
@@ -1133,9 +1238,18 @@
       "freshTranslation": "To the dove sellers he said, 'Take these things out of here! Stop making my Father's house a marketplace!'",
       "historicalContext": "Jesus singles out the dove sellers for a verbal command rather than physical action — perhaps because doves in cages couldn't be driven out with a whip; they had to be carried. The dove sellers represented the most vulnerable end of the economic spectrum, selling to the poorest worshippers. Jesus' words 'my Father's house' are an extraordinary claim to divine sonship — he doesn't say 'God's house' but 'my Father's house,' asserting a unique filial relationship. The accusation of making it an 'emporion' (marketplace/emporium) echoes Zechariah 14:21's promise that 'there shall no longer be a trader in the house of the LORD of hosts.'",
       "crossRefs": [
-        {"ref": "Zechariah 14:21", "explanation": "'There shall no longer be a trader in the house of the LORD' — messianic promise fulfilled"},
-        {"ref": "Luke 2:49", "explanation": "The twelve-year-old Jesus: 'Did you not know I must be in my Father's house?' — same claim"},
-        {"ref": "Malachi 3:1", "explanation": "The Lord comes suddenly to his temple — Jesus acts as the Temple's owner"}
+        {
+          "ref": "Zechariah 14:21",
+          "explanation": "'There shall no longer be a trader in the house of the LORD' — messianic promise fulfilled"
+        },
+        {
+          "ref": "Luke 2:49",
+          "explanation": "The twelve-year-old Jesus: 'Did you not know I must be in my Father's house?' — same claim"
+        },
+        {
+          "ref": "Malachi 3:1",
+          "explanation": "The Lord comes suddenly to his temple — Jesus acts as the Temple's owner"
+        }
       ],
       "words": [
         {
@@ -1198,8 +1312,14 @@
       "freshTranslation": "His disciples recalled that it is written: 'Zeal for your house will consume me.'",
       "historicalContext": "The disciples connect Jesus' action to Psalm 69:9, a messianic psalm of David. The original psalmist suffered because of his passionate devotion to God's house — his zeal 'ate him up' (consumed/destroyed him). The disciples see Jesus embodying this same consuming passion. Importantly, the future tense 'will consume me' (kataphagetai) — different from the Septuagint's aorist 'consumed me' — points forward to the cost Jesus will pay: his zeal for God's house will ultimately lead to his death. The Temple cleansing is the act that provokes the authorities' murderous opposition.",
       "crossRefs": [
-        {"ref": "Psalm 69:9", "explanation": "The source quotation — a psalm of righteous suffering that the NT frequently applies to Jesus"},
-        {"ref": "Romans 15:3", "explanation": "Paul quotes the second half of Psalm 69:9 as applying to Christ"}
+        {
+          "ref": "Psalm 69:9",
+          "explanation": "The source quotation — a psalm of righteous suffering that the NT frequently applies to Jesus"
+        },
+        {
+          "ref": "Romans 15:3",
+          "explanation": "Paul quotes the second half of Psalm 69:9 as applying to Christ"
+        }
       ],
       "words": [
         {
@@ -1262,8 +1382,14 @@
       "freshTranslation": "So the Jewish leaders responded, 'What sign can you show us to justify doing these things?'",
       "historicalContext": "The 'Jews' here likely refers to the Temple authorities — priests, Levites, and possibly members of the Sanhedrin who managed Temple operations. Their question is not unreasonable by biblical standards: Moses and the prophets authenticated their authority through signs (Exodus 4:1-9, 1 Kings 18:36-38). They're asking: 'By what authority do you disrupt Temple commerce, and what miraculous proof can you offer?' The request for a sign becomes a recurring motif in John — the authorities consistently demand signs while missing the signs already given (6:30).",
       "crossRefs": [
-        {"ref": "Matthew 12:38", "explanation": "The scribes and Pharisees also demand a sign — and receive the sign of Jonah (death and resurrection)"},
-        {"ref": "Exodus 4:1-9", "explanation": "Moses authenticated his divine commission through signs — the precedent the authorities invoke"}
+        {
+          "ref": "Matthew 12:38",
+          "explanation": "The scribes and Pharisees also demand a sign — and receive the sign of Jonah (death and resurrection)"
+        },
+        {
+          "ref": "Exodus 4:1-9",
+          "explanation": "Moses authenticated his divine commission through signs — the precedent the authorities invoke"
+        }
       ],
       "words": [
         {
@@ -1319,5 +1445,313 @@
           "twistedExplanation": null
         }
       ]
+    },
+    {
+      "verseNumber": 19,
+      "verseText": "Jesus answered and said unto them, Destroy this temple, and in three days I will raise it up.",
+      "freshTranslation": "Jesus answered them, 'Tear down this temple, and in three days I will raise it up.'",
+      "historicalContext": "This is one of Jesus' most provocative statements. Standing in the Temple courts — the center of Jewish worship, identity, and national pride — He challenges them to destroy it and claims He'll rebuild it in three days. They naturally assume He means Herod's Temple, which had been under construction for 46 years. But John will explain He meant His body. This statement was later used as evidence against Him at His trial (Mark 14:58).",
+      "crossRefs": [
+        {
+          "ref": "Mark 14:58",
+          "explanation": "At Jesus' trial, witnesses testified: 'We heard him say, I will destroy this temple made with hands, and in three days I will build another not made with hands.' They misquoted Him — He said 'destroy' (you do it), not 'I will destroy.'"
+        },
+        {
+          "ref": "Mark 15:29",
+          "explanation": "Even on the cross, passersby mocked Him: 'You who would destroy the temple and rebuild it in three days, save yourself!' They never understood."
+        },
+        {
+          "ref": "1 Corinthians 6:19",
+          "explanation": "Paul extends the metaphor: 'Your body is a temple of the Holy Spirit.' Jesus' body was the original temple — where God fully dwelt."
+        }
+      ],
+      "words": [
+        {
+          "english": "Destroy",
+          "original": "Λύσατε",
+          "transliteration": "Lysate",
+          "pronunciation": "LOO-sah-teh",
+          "strongs": "G3089",
+          "partOfSpeech": "verb, aorist active imperative, 2nd person plural",
+          "literalMeaning": "loose, dissolve, tear down, destroy",
+          "definition": "Lyō means to loosen, untie, demolish. The imperative mood is crucial — Jesus says 'YOU destroy,' not 'I will destroy.' He's not threatening to destroy the Temple; He's prophesying what THEY will do to His body. It's a conditional challenge: if you destroy this, I will raise it. The distinction between 'you destroy' and 'I will raise' was ignored at His trial when witnesses twisted His words.",
+          "translationNote": "Accurate. The imperative 'destroy' correctly shows Jesus telling them to do it, not volunteering to do it Himself.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "this temple",
+          "original": "τὸν ναὸν τοῦτον",
+          "transliteration": "ton naon touton",
+          "pronunciation": "ton nah-ON TOO-ton",
+          "strongs": "G3485",
+          "partOfSpeech": "noun, accusative masculine singular",
+          "literalMeaning": "this inner sanctuary, this dwelling place of God",
+          "definition": "There are two Greek words for temple: hieron (the entire temple complex, courts and all) and naos (the inner sanctuary where God's presence dwelt — the Holy of Holies). Jesus uses NAOS, not hieron. He's not talking about the building complex; He's talking about the dwelling place of God. His body is the true naos — the place where the fullness of God physically resides (Colossians 2:9). The listeners heard 'building.' John's readers hear 'God's dwelling place.'",
+          "translationNote": "English 'temple' loses the distinction between hieron (complex) and naos (inner sanctuary/God's dwelling). This distinction is the whole point of the statement.",
+          "twisted": true,
+          "twistedExplanation": "By translating both hieron and naos as 'temple,' English Bibles obscure Jesus' deliberate word choice. He specifically said naos (where God dwells), pointing to His body as the true dwelling place of God — not the stone building. Most readers miss this entirely."
+        },
+        {
+          "english": "in three days I will raise it up",
+          "original": "ἐν τρισὶν ἡμέραις ἐγερῶ αὐτόν",
+          "transliteration": "en trisin hēmerais egerō auton",
+          "pronunciation": "en tree-SEEN hay-MER-ais eh-ger-OH ow-TON",
+          "strongs": "G1722, G5140, G2250, G1453",
+          "partOfSpeech": "preposition + numeral + noun + verb, future active indicative",
+          "literalMeaning": "in three days I will raise/awaken it",
+          "definition": "Egeirō means to raise up, to awaken from sleep — the standard word for resurrection throughout the New Testament. Jesus claims HE will raise it — not 'God will raise me' but 'I will raise it.' This is a claim to self-resurrection, an authority that belongs only to God. John 10:18 confirms: 'No one takes my life from me. I lay it down of my own accord, and I have authority to take it up again.' The three days became the defining sign of Jesus' ministry (Matthew 12:40).",
+          "translationNote": "Accurate. The 'I' is emphatic — egō (I myself) will raise it.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 20,
+      "verseText": "Then said the Jews, Forty and six years was this temple in building, and wilt thou rear it up in three days?",
+      "freshTranslation": "The Jewish leaders replied, 'This temple has been under construction for forty-six years, and you're going to raise it in three days?'",
+      "historicalContext": "Herod the Great began his massive renovation of the Second Temple around 20-19 BC. Forty-six years of construction places this conversation around 27-28 AD, which aligns with the early period of Jesus' ministry. The project wouldn't be fully completed until 63 AD — only seven years before Rome destroyed it entirely in 70 AD. The irony is devastating: they spent 46 years building a stone temple that would be destroyed; Jesus would build an eternal temple in three days.",
+      "crossRefs": [
+        {
+          "ref": "Ezra 6:15",
+          "explanation": "The Second Temple (Zerubbabel's) was completed in about 4 years. Herod's renovation was far more ambitious — a project spanning generations."
+        },
+        {
+          "ref": "Matthew 24:2",
+          "explanation": "Jesus later prophesied directly: 'Not one stone here will be left on another; every one will be thrown down.' Fulfilled in 70 AD by the Romans."
+        }
+      ],
+      "words": [
+        {
+          "english": "Forty and six years",
+          "original": "Τεσσεράκοντα καὶ ἓξ ἔτεσιν",
+          "transliteration": "Tesserakonta kai hex etesin",
+          "pronunciation": "tes-sar-AH-kon-tah kai hex ET-eh-sin",
+          "strongs": "G5062, G1803, G2094",
+          "partOfSpeech": "numeral + noun, dative plural",
+          "literalMeaning": "forty and six years",
+          "definition": "This number is one of the few chronological markers in John's gospel that helps date Jesus' ministry. Josephus records that Herod began the Temple renovation in the 18th year of his reign (~20/19 BC). Forty-six years later brings us to approximately 27/28 AD. This accidental detail from hostile questioners becomes valuable historical evidence.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "wilt thou rear it up",
+          "original": "σὺ ἐγερεῖς αὐτόν",
+          "transliteration": "sy egereis auton",
+          "pronunciation": "soo eh-ger-AYS ow-TON",
+          "strongs": "G4771, G1453",
+          "partOfSpeech": "pronoun, emphatic + verb, future active indicative",
+          "literalMeaning": "YOU will raise it?",
+          "definition": "The emphatic 'sy' (YOU) drips with contempt and disbelief. 'You — a wandering teacher from Galilee with no construction crews, no resources, no authority — YOU are going to rebuild what has taken our nation's greatest king nearly half a century?' They meant it as mockery. They couldn't imagine that the answer was yes, but in a way that would redefine everything they understood about where God dwells.",
+          "translationNote": "The emphatic 'you' in Greek is stronger than English conveys. It's incredulous — 'YOU?!'",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 21,
+      "verseText": "But he spake of the temple of his body.",
+      "freshTranslation": "But He was speaking about the temple of His body.",
+      "historicalContext": "This is John's editorial explanation, written decades after the event. He now understands what nobody understood at the time — Jesus meant His physical body was the true naos, the dwelling place of God. This verse is the interpretive key to the whole passage and represents the kind of post-resurrection insight that characterizes John's gospel. He writes with the benefit of hindsight, explaining what was incomprehensible in the moment.",
+      "crossRefs": [
+        {
+          "ref": "Colossians 2:9",
+          "explanation": "'For in Christ all the fullness of the Deity dwells in bodily form.' Paul's theological statement of exactly what John means — Jesus' body was where God fully, physically resided."
+        },
+        {
+          "ref": "Hebrews 10:20",
+          "explanation": "The author of Hebrews calls Jesus' body 'the curtain' — the veil of the Temple through which we now have access to God."
+        }
+      ],
+      "words": [
+        {
+          "english": "the temple of his body",
+          "original": "τοῦ ναοῦ τοῦ σώματος αὐτοῦ",
+          "transliteration": "tou naou tou sōmatos autou",
+          "pronunciation": "too nah-OO too SO-mah-tos ow-TOO",
+          "strongs": "G3485, G4983",
+          "partOfSpeech": "noun, genitive + noun, genitive",
+          "literalMeaning": "the inner sanctuary of His body",
+          "definition": "Again naos — the inner sanctuary where God dwells — not hieron. Jesus' physical body (sōma) is the new Holy of Holies. This is a revolutionary theological claim: God no longer dwells in a building made of stone but in a human body. And after the resurrection, this extends to all believers (1 Corinthians 6:19 — 'your body is a temple of the Holy Spirit'). The stone Temple was always a shadow; Jesus was always the substance.",
+          "translationNote": "Accurate, though the naos/hieron distinction is again hidden in English.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 22,
+      "verseText": "When therefore he was risen from the dead, his disciples remembered that he had said this unto them; and they believed the scripture, and the word which Jesus had said.",
+      "freshTranslation": "After He was raised from the dead, His disciples remembered He had said this, and they believed both the Scripture and the word Jesus had spoken.",
+      "historicalContext": "John honestly acknowledges that the disciples didn't understand this saying at the time. It was only after the resurrection — when they saw the 'temple' of His body destroyed and raised in three days — that the pieces clicked. This is a recurring pattern in John: events happen, they're misunderstood, and only later (often after the resurrection) does their meaning become clear. John writes for readers who have the benefit of knowing the end of the story.",
+      "crossRefs": [
+        {
+          "ref": "John 12:16",
+          "explanation": "Same pattern: 'At first his disciples did not understand all this. Only after Jesus was glorified did they realize...' Post-resurrection understanding is a major theme in John."
+        },
+        {
+          "ref": "Luke 24:8",
+          "explanation": "After the resurrection, the women 'remembered his words' — the same awakening of memory that John describes here."
+        },
+        {
+          "ref": "Psalm 16:10",
+          "explanation": "'You will not abandon me to the grave, nor will you let your faithful one see decay.' One of the 'scriptures' they would have connected to the resurrection."
+        }
+      ],
+      "words": [
+        {
+          "english": "he was risen from the dead",
+          "original": "ἠγέρθη ἐκ νεκρῶν",
+          "transliteration": "ēgerthē ek nekrōn",
+          "pronunciation": "ay-GER-thay ek nek-ROHN",
+          "strongs": "G1453, G3498",
+          "partOfSpeech": "verb, aorist passive indicative + adjective, genitive plural",
+          "literalMeaning": "he was raised out of dead ones",
+          "definition": "Egeirō in the passive — 'was raised.' While Jesus claimed He would raise Himself (v.19), the passive voice here credits God the Father as the agent of resurrection. Both are true: Jesus had authority to lay down His life and take it up again (John 10:18), and the Father raised Him (Acts 2:24, Romans 8:11). This is Trinitarian theology in action — the resurrection was a cooperative act.",
+          "translationNote": "KJV 'was risen' is slightly misleading as it sounds active/intransitive. The Greek is passive — 'was raised' (by God).",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "they believed the scripture",
+          "original": "ἐπίστευσαν τῇ γραφῇ",
+          "transliteration": "episteusan tē graphē",
+          "pronunciation": "ep-IS-tyoo-san tay grah-FAY",
+          "strongs": "G4100, G1124",
+          "partOfSpeech": "verb, aorist active indicative + noun, dative",
+          "literalMeaning": "they believed/trusted the writing",
+          "definition": "Graphē (writing, scripture) refers to the Old Testament texts that predicted the Messiah's death and resurrection. The aorist tense marks a decisive moment — their faith crystallized. They didn't just believe intellectually; pisteuō with the dative means they put their trust IN the scripture. The resurrection was the key that unlocked the entire Old Testament for them, making sense of prophecies they had read their whole lives without fully comprehending.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 23,
+      "verseText": "Now when he was in Jerusalem at the passover, in the feast day, many believed in his name, when they saw the miracles which he did.",
+      "freshTranslation": "While Jesus was in Jerusalem during the Passover feast, many people put their trust in His name because they saw the signs He was performing.",
+      "historicalContext": "John mentions signs (sēmeia) that he doesn't describe in detail — a reminder that John's gospel is selective, not exhaustive (see 21:25). These unnamed miracles during Passover drew crowd-level faith, but Jesus will show in the next verse that He distinguishes between genuine faith and sign-seeking enthusiasm. The Passover setting is significant — Jesus is in Jerusalem for the feast that commemorates God's deliverance from Egypt, and He is performing signs of a new deliverance.",
+      "crossRefs": [
+        {
+          "ref": "John 20:30-31",
+          "explanation": "John explicitly states: 'Jesus performed many other signs in the presence of His disciples, which are not recorded in this book.' This verse is an example of those unrecorded signs."
+        },
+        {
+          "ref": "John 6:26",
+          "explanation": "Jesus later rebukes this kind of faith: 'You are looking for me, not because you saw the signs, but because you ate the loaves and had your fill.'"
+        }
+      ],
+      "words": [
+        {
+          "english": "believed in his name",
+          "original": "ἐπίστευσαν εἰς τὸ ὄνομα αὐτοῦ",
+          "transliteration": "episteusan eis to onoma autou",
+          "pronunciation": "ep-IS-tyoo-san ays to ON-oh-mah ow-TOO",
+          "strongs": "G4100, G3686",
+          "partOfSpeech": "verb + preposition + noun",
+          "literalMeaning": "they believed into his name",
+          "definition": "Pisteuō eis (believe into) is John's characteristic phrase for saving faith — it implies movement, entering into, committing to. Onoma (name) in Hebrew thought represents the total person — their character, authority, and identity. So 'believed into his name' means they entrusted themselves to who Jesus is. However, Jesus' response in the next verse suggests this faith was superficial — based on spectacle rather than understanding.",
+          "translationNote": "Most translations say 'believed in his name' which is adequate, but 'into' (eis) conveys deeper commitment than 'in' (en).",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "the miracles which he did",
+          "original": "τὰ σημεῖα ἃ ἐποίει",
+          "transliteration": "ta sēmeia ha epoiei",
+          "pronunciation": "tah say-MAY-ah hah ep-OY-ay",
+          "strongs": "G4592",
+          "partOfSpeech": "noun, accusative neuter plural",
+          "literalMeaning": "the signs which he was doing",
+          "definition": "Sēmeion means sign — not just 'miracle' or 'wonder.' John never uses the word 'miracle' (dynamis/teras); he always says 'sign.' The difference matters: a miracle impresses; a sign POINTS to something beyond itself. Every sign in John's gospel reveals something about who Jesus is. The imperfect tense (epoiei — 'was doing') suggests ongoing, repeated sign-working during the feast.",
+          "translationNote": "KJV 'miracles' is misleading. The Greek is sēmeia — 'signs.' John deliberately chose this word because the point isn't the spectacle but what it reveals about Jesus. Modern translations correctly use 'signs.'",
+          "twisted": true,
+          "twistedExplanation": "Translating sēmeia as 'miracles' shifts focus from revelation to spectacle. John's theology of signs is central to his gospel — each sign points to Jesus' identity and glory. 'Miracles' makes them about power; 'signs' makes them about meaning."
+        }
+      ]
+    },
+    {
+      "verseNumber": 24,
+      "verseText": "But Jesus did not commit himself unto them, because he knew all men,",
+      "freshTranslation": "But Jesus did not entrust Himself to them, because He knew all people —",
+      "historicalContext": "A stunning reversal: many 'believed into' Jesus (v.23), but Jesus did not 'believe into' them. The same verb (pisteuō) is used for both — they entrusted themselves to Him, but He did not entrust Himself to them. He saw through their enthusiasm to its shallow roots. This is the first clear statement of Jesus' supernatural knowledge of human hearts, a theme that will recur throughout John (4:29, 6:64, 13:11).",
+      "crossRefs": [
+        {
+          "ref": "Jeremiah 17:9-10",
+          "explanation": "'The heart is deceitful above all things... I the LORD search the heart.' Jesus exercises the divine prerogative of knowing hearts."
+        },
+        {
+          "ref": "1 Samuel 16:7",
+          "explanation": "'The LORD does not look at the things people look at. People look at the outward appearance, but the LORD looks at the heart.' Jesus sees as God sees."
+        }
+      ],
+      "words": [
+        {
+          "english": "did not commit himself",
+          "original": "οὐκ ἐπίστευεν αὐτὸν",
+          "transliteration": "ouk episteuen auton",
+          "pronunciation": "ook ep-IS-tyoo-en ow-TON",
+          "strongs": "G4100",
+          "partOfSpeech": "verb, imperfect active indicative",
+          "literalMeaning": "was not entrusting himself",
+          "definition": "Same verb as v.23 — pisteuō. They pisteuō'd into Him; He did not pisteuō Himself to them. The imperfect tense means this was His ongoing posture — He consistently, repeatedly withheld Himself from crowd-level faith that was based only on signs. Jesus distinguished between genuine disciples and spectacle-seekers. He accepted their interest but didn't hand them His mission, His inner circle, or His full self-revelation.",
+          "translationNote": "KJV 'commit' is adequate but obscures the wordplay. The same Greek word is used in v.23 and v.24 — they 'believed' in Him, but He didn't 'believe' in them. Modern translations using 'entrust' capture this better.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "he knew all men",
+          "original": "αὐτὸν γινώσκειν πάντας",
+          "transliteration": "auton ginōskein pantas",
+          "pronunciation": "ow-TON ghee-NO-skane PAN-tas",
+          "strongs": "G1097, G3956",
+          "partOfSpeech": "verb, present active infinitive + adjective",
+          "literalMeaning": "him to know all (people)",
+          "definition": "Ginōskō — personal, experiential knowledge. Jesus didn't just observe people; He KNEW them at the deepest level. Pantas (all) is universal — not some people, all people. This is a divine attribute: only God searches hearts and knows all humanity (1 Chronicles 28:9, Psalm 139:1-4). John is making a quiet but enormous theological claim: Jesus possesses the omniscience that belongs to God alone.",
+          "translationNote": "Accurate. The claim is as radical as anything in John 1:1 — Jesus knows every human heart.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 25,
+      "verseText": "And needed not that any should testify of man: for he knew what was in man.",
+      "freshTranslation": "He didn't need anyone to tell Him about human nature, because He Himself knew what was inside a person.",
+      "historicalContext": "This verse closes chapter 2 and sets up chapter 3 perfectly. Jesus knows what's in humanity — the next verse introduces Nicodemus, a specific man, and Jesus will demonstrate this knowledge by cutting straight to what Nicodemus needs: rebirth. The chapter ends with a universal claim (He knows ALL people) and the next chapter opens with a particular case study. John is a masterful storyteller.",
+      "crossRefs": [
+        {
+          "ref": "John 3:1-2",
+          "explanation": "The very next verse introduces Nicodemus — and Jesus will demonstrate His knowledge of what's 'in man' by telling Nicodemus exactly what he needs before Nicodemus even asks."
+        },
+        {
+          "ref": "Hebrews 4:13",
+          "explanation": "'Nothing in all creation is hidden from God's sight. Everything is uncovered and laid bare before the eyes of him to whom we must give account.'"
+        },
+        {
+          "ref": "Revelation 2:23",
+          "explanation": "Jesus says: 'I am he who searches hearts and minds.' The same claim made narratively in John 2:25 is stated explicitly in Revelation."
+        }
+      ],
+      "words": [
+        {
+          "english": "he knew what was in man",
+          "original": "αὐτὸς γὰρ ἐγίνωσκεν τί ἦν ἐν τῷ ἀνθρώπῳ",
+          "transliteration": "autos gar eginōsken ti ēn en tō anthrōpō",
+          "pronunciation": "ow-TOS gar eh-GHEE-no-sken tee ayn en to an-THRO-po",
+          "strongs": "G846, G1097, G444",
+          "partOfSpeech": "pronoun + verb, imperfect active indicative + noun",
+          "literalMeaning": "he himself for/because was knowing what was in the human",
+          "definition": "Autos (He Himself — emphatic) eginōsken (was continually knowing — imperfect, ongoing) what was en tō anthrōpō (in the human being). This isn't occasional insight; it's continuous, comprehensive knowledge of human nature. Anthrōpos (human) is generic — not 'a man' but 'humanity.' Jesus understood human nature at its depths: its capacity for shallow faith (v.23), its tendency toward deception, its need for rebirth (chapter 3). This is both comforting and terrifying — comforting because He knows our real struggles, terrifying because nothing is hidden.",
+          "translationNote": "KJV 'what was in man' sounds like it refers to one person. The Greek anthrōpos is generic — 'what was in humanity.' Better: 'what was inside a person' or 'the human condition.'",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
     }
-]}
+  ]
+}

@@ -12,8 +12,14 @@
       "freshTranslation": "So when Jesus learned that the Pharisees had heard He was making and baptizing more disciples than John,",
       "historicalContext": "The Pharisees were monitoring the growing movements of both John the Baptist and Jesus. Their attention likely signaled potential opposition, prompting Jesus to withdraw northward rather than provoke an early confrontation.",
       "crossRefs": [
-        {"ref": "John 3:22-26", "explanation": "The preceding context of Jesus and John both baptizing in Judea."},
-        {"ref": "Matthew 4:12", "explanation": "Matthew notes Jesus withdrew to Galilee after John's arrest, a parallel movement northward."}
+        {
+          "ref": "John 3:22-26",
+          "explanation": "The preceding context of Jesus and John both baptizing in Judea."
+        },
+        {
+          "ref": "Matthew 4:12",
+          "explanation": "Matthew notes Jesus withdrew to Galilee after John's arrest, a parallel movement northward."
+        }
       ],
       "words": [
         {
@@ -141,8 +147,14 @@
       "freshTranslation": "(although Jesus Himself was not doing the baptizing — His disciples were)",
       "historicalContext": "This parenthetical clarification, likely added by John or a later editor, distinguishes Jesus' role as the authorizer of baptism from the physical act performed by His disciples. Jesus directed the ministry; others carried out the ritual washing.",
       "crossRefs": [
-        {"ref": "John 3:22", "explanation": "States Jesus was baptizing, which this verse now clarifies as baptism done under His authority by disciples."},
-        {"ref": "1 Corinthians 1:14-17", "explanation": "Paul similarly distinguishes his preaching mission from the act of baptizing."}
+        {
+          "ref": "John 3:22",
+          "explanation": "States Jesus was baptizing, which this verse now clarifies as baptism done under His authority by disciples."
+        },
+        {
+          "ref": "1 Corinthians 1:14-17",
+          "explanation": "Paul similarly distinguishes his preaching mission from the act of baptizing."
+        }
       ],
       "words": [
         {
@@ -205,8 +217,14 @@
       "freshTranslation": "He left Judea and headed back toward Galilee.",
       "historicalContext": "Jesus strategically withdrew from Judea to avoid premature confrontation with the Pharisees. His hour had not yet come. The journey from Judea to Galilee typically took about three days on foot.",
       "crossRefs": [
-        {"ref": "John 2:1-11", "explanation": "Jesus' earlier time in Galilee at Cana, where He performed His first sign."},
-        {"ref": "Matthew 4:12", "explanation": "Matthew connects the withdrawal to Galilee with John the Baptist's imprisonment."}
+        {
+          "ref": "John 2:1-11",
+          "explanation": "Jesus' earlier time in Galilee at Cana, where He performed His first sign."
+        },
+        {
+          "ref": "Matthew 4:12",
+          "explanation": "Matthew connects the withdrawal to Galilee with John the Baptist's imprisonment."
+        }
       ],
       "words": [
         {
@@ -269,8 +287,14 @@
       "freshTranslation": "And it was necessary for Him to pass through Samaria.",
       "historicalContext": "While the most direct route from Judea to Galilee passed through Samaria, many Jews took a longer route through Perea to avoid Samaritan territory. John's use of 'must' (edei) suggests divine necessity, not merely geographical convenience — Jesus had a God-appointed meeting at the well.",
       "crossRefs": [
-        {"ref": "Luke 9:51-53", "explanation": "Another passage about Jesus passing through Samaria, where He was rejected by a Samaritan village."},
-        {"ref": "Acts 1:8", "explanation": "Jesus later commands His disciples to be witnesses in Samaria — this chapter previews that mission."}
+        {
+          "ref": "Luke 9:51-53",
+          "explanation": "Another passage about Jesus passing through Samaria, where He was rejected by a Samaritan village."
+        },
+        {
+          "ref": "Acts 1:8",
+          "explanation": "Jesus later commands His disciples to be witnesses in Samaria — this chapter previews that mission."
+        }
       ],
       "words": [
         {
@@ -333,9 +357,18 @@
       "freshTranslation": "So He came to a Samaritan town called Sychar, near the plot of land Jacob had given to his son Joseph.",
       "historicalContext": "Sychar is likely modern Askar, near ancient Shechem, at the foot of Mount Ebal. This area was rich with patriarchal history — Jacob purchased land here (Gen 33:19), and Joseph's bones were buried here (Josh 24:32). For the Samaritan woman, this was sacred ancestral ground.",
       "crossRefs": [
-        {"ref": "Genesis 33:18-19", "explanation": "Jacob purchased this field from the sons of Hamor near Shechem."},
-        {"ref": "Genesis 48:22", "explanation": "Jacob gave Joseph a portion (Shechem) above his brothers."},
-        {"ref": "Joshua 24:32", "explanation": "Joseph's bones were buried in this plot at Shechem."}
+        {
+          "ref": "Genesis 33:18-19",
+          "explanation": "Jacob purchased this field from the sons of Hamor near Shechem."
+        },
+        {
+          "ref": "Genesis 48:22",
+          "explanation": "Jacob gave Joseph a portion (Shechem) above his brothers."
+        },
+        {
+          "ref": "Joshua 24:32",
+          "explanation": "Joseph's bones were buried in this plot at Shechem."
+        }
       ],
       "words": [
         {
@@ -424,8 +457,14 @@
       "freshTranslation": "Jacob's well was there, and Jesus, exhausted from the journey, sat down right by the well. It was about noon.",
       "historicalContext": "Jacob's well still exists today, about 135 feet deep, in the crypt of an Orthodox church near Nablus. The 'sixth hour' by Jewish reckoning was noon — the hottest part of the day and an unusual time for women to draw water. Jesus' physical exhaustion underscores His full humanity.",
       "crossRefs": [
-        {"ref": "Hebrews 4:15", "explanation": "Jesus was tempted and tested in every way as we are — including physical weariness."},
-        {"ref": "Isaiah 40:28-31", "explanation": "The Creator who does not faint or grow weary took on flesh that does grow weary."}
+        {
+          "ref": "Hebrews 4:15",
+          "explanation": "Jesus was tempted and tested in every way as we are — including physical weariness."
+        },
+        {
+          "ref": "Isaiah 40:28-31",
+          "explanation": "The Creator who does not faint or grow weary took on flesh that does grow weary."
+        }
       ],
       "words": [
         {
@@ -514,9 +553,18 @@
       "freshTranslation": "A Samaritan woman came to draw water. Jesus said to her, 'Give me a drink.'",
       "historicalContext": "A Jewish rabbi speaking to an unknown woman in public was extraordinary — rabbis were warned against public conversation with women, even their own wives. That this woman was also a Samaritan made the request doubly shocking. Jesus broke social, religious, and gender barriers with four simple words.",
       "crossRefs": [
-        {"ref": "Genesis 24:17", "explanation": "Abraham's servant met Rebekah at a well and asked for water — a betrothal type-scene in Hebrew narrative."},
-        {"ref": "Genesis 29:1-12", "explanation": "Jacob met Rachel at a well — another betrothal type-scene."},
-        {"ref": "Exodus 2:15-21", "explanation": "Moses met Zipporah at a well — continuing the pattern of significant meetings at wells."}
+        {
+          "ref": "Genesis 24:17",
+          "explanation": "Abraham's servant met Rebekah at a well and asked for water — a betrothal type-scene in Hebrew narrative."
+        },
+        {
+          "ref": "Genesis 29:1-12",
+          "explanation": "Jacob met Rachel at a well — another betrothal type-scene."
+        },
+        {
+          "ref": "Exodus 2:15-21",
+          "explanation": "Moses met Zipporah at a well — continuing the pattern of significant meetings at wells."
+        }
       ],
       "words": [
         {
@@ -579,7 +627,10 @@
       "freshTranslation": "(His disciples had gone into the town to buy food.)",
       "historicalContext": "The disciples' absence was necessary for this intimate conversation. That they would buy food in a Samaritan town shows they were not as strict as some Jews about avoiding Samaritan goods, though the practice was debated among rabbis.",
       "crossRefs": [
-        {"ref": "John 4:31", "explanation": "The disciples return later and urge Jesus to eat, picking up this parenthetical thread."}
+        {
+          "ref": "John 4:31",
+          "explanation": "The disciples return later and urge Jesus to eat, picking up this parenthetical thread."
+        }
       ],
       "words": [
         {
@@ -642,8 +693,14 @@
       "freshTranslation": "The Samaritan woman said to Him, 'How can you, a Jew, ask me, a Samaritan woman, for a drink?' (For Jews do not share vessels with Samaritans.)",
       "historicalContext": "The woman's surprise had multiple layers: gender (rabbi speaking to a woman), ethnicity (Jew speaking to a Samaritan), and ritual purity (sharing a drinking vessel would render a Jew ceremonially unclean by Pharisaic standards). The phrase 'have no dealings with' may more precisely mean 'do not use vessels in common with.'",
       "crossRefs": [
-        {"ref": "Ezra 4:1-5", "explanation": "Historical roots of the Jewish-Samaritan hostility, when Samaritans were excluded from rebuilding the temple."},
-        {"ref": "Luke 10:33", "explanation": "Jesus' parable of the Good Samaritan also challenges Jewish-Samaritan prejudice."}
+        {
+          "ref": "Ezra 4:1-5",
+          "explanation": "Historical roots of the Jewish-Samaritan hostility, when Samaritans were excluded from rebuilding the temple."
+        },
+        {
+          "ref": "Luke 10:33",
+          "explanation": "Jesus' parable of the Good Samaritan also challenges Jewish-Samaritan prejudice."
+        }
       ],
       "words": [
         {
@@ -719,9 +776,18 @@
       "freshTranslation": "Jesus answered her, 'If you knew the gift of God, and who it is asking you for a drink, you would have asked Him, and He would have given you living water.'",
       "historicalContext": "Jesus masterfully turns the conversation from physical water to spiritual reality. 'Living water' (hydōr zōn) had a double meaning: in everyday Greek it meant fresh, flowing spring water (as opposed to stagnant cistern water); in theological language it pointed to the life-giving Spirit of God. The Old Testament frequently used water imagery for God's provision and the coming messianic age.",
       "crossRefs": [
-        {"ref": "Jeremiah 2:13", "explanation": "God calls Himself 'the fountain of living waters' and laments that His people dug broken cisterns."},
-        {"ref": "Isaiah 55:1", "explanation": "'Come, everyone who thirsts, come to the waters' — a messianic invitation."},
-        {"ref": "John 7:37-39", "explanation": "Jesus later cries out 'If anyone thirsts, let him come to me and drink,' explicitly linking living water to the Spirit."}
+        {
+          "ref": "Jeremiah 2:13",
+          "explanation": "God calls Himself 'the fountain of living waters' and laments that His people dug broken cisterns."
+        },
+        {
+          "ref": "Isaiah 55:1",
+          "explanation": "'Come, everyone who thirsts, come to the waters' — a messianic invitation."
+        },
+        {
+          "ref": "John 7:37-39",
+          "explanation": "Jesus later cries out 'If anyone thirsts, let him come to me and drink,' explicitly linking living water to the Spirit."
+        }
       ],
       "words": [
         {
@@ -784,8 +850,14 @@
       "freshTranslation": "She said to Him, 'Sir, you don't even have a bucket, and this well is deep. Where would you get this living water?'",
       "historicalContext": "The woman responds on a purely practical level — she sees a traveler without a bucket at a well over 100 feet deep. Her use of 'Sir' (Kyrie) shows respect but not yet recognition. She shifts from πηγή (spring) to φρέαρ (dug well), using the more common, practical term.",
       "crossRefs": [
-        {"ref": "John 3:4", "explanation": "Nicodemus similarly misunderstood Jesus' spiritual meaning, asking how one can be born a second time."},
-        {"ref": "John 6:34", "explanation": "The crowd later says 'Lord, give us this bread always' — another literal misunderstanding of spiritual truth."}
+        {
+          "ref": "John 3:4",
+          "explanation": "Nicodemus similarly misunderstood Jesus' spiritual meaning, asking how one can be born a second time."
+        },
+        {
+          "ref": "John 6:34",
+          "explanation": "The crowd later says 'Lord, give us this bread always' — another literal misunderstanding of spiritual truth."
+        }
       ],
       "words": [
         {
@@ -848,8 +920,14 @@
       "freshTranslation": "You're not greater than our ancestor Jacob, are you? He gave us this well and drank from it himself, along with his sons and his livestock.",
       "historicalContext": "The woman invokes Jacob's patriarchal authority — the well was a sign of his provision and blessing. Her claim to Jacob as 'our father' reflects the Samaritans' insistence that they too were descendants of the patriarchs, specifically through Joseph's sons Ephraim and Manasseh. The question expects a negative answer but ironically, the answer is yes.",
       "crossRefs": [
-        {"ref": "John 8:53", "explanation": "'Are you greater than our father Abraham?' — the Jews ask the same type of question later."},
-        {"ref": "Matthew 12:6", "explanation": "Jesus declares 'something greater than the temple is here' — He consistently surpasses Israel's greatest figures and institutions."}
+        {
+          "ref": "John 8:53",
+          "explanation": "'Are you greater than our father Abraham?' — the Jews ask the same type of question later."
+        },
+        {
+          "ref": "Matthew 12:6",
+          "explanation": "Jesus declares 'something greater than the temple is here' — He consistently surpasses Israel's greatest figures and institutions."
+        }
       ],
       "words": [
         {
@@ -912,8 +990,14 @@
       "freshTranslation": "Jesus answered, 'Everyone who drinks this water will get thirsty again.'",
       "historicalContext": "Jesus now draws a sharp contrast between the temporary nature of physical satisfaction and the permanent provision He offers. Every earthly source of fulfillment — whether water, wealth, relationships, or achievements — leaves the drinker thirsty again.",
       "crossRefs": [
-        {"ref": "Ecclesiastes 1:8", "explanation": "'The eye is not satisfied with seeing, nor the ear filled with hearing' — the endless cycle of unsatisfied desire."},
-        {"ref": "Isaiah 55:1-2", "explanation": "'Why do you spend money for what is not bread?' — seeking satisfaction from sources that cannot truly satisfy."}
+        {
+          "ref": "Ecclesiastes 1:8",
+          "explanation": "'The eye is not satisfied with seeing, nor the ear filled with hearing' — the endless cycle of unsatisfied desire."
+        },
+        {
+          "ref": "Isaiah 55:1-2",
+          "explanation": "'Why do you spend money for what is not bread?' — seeking satisfaction from sources that cannot truly satisfy."
+        }
       ],
       "words": [
         {
@@ -963,9 +1047,18 @@
       "freshTranslation": "But whoever drinks the water I give will never be thirsty again. The water I give will become an inner spring, bubbling up into eternal life.",
       "historicalContext": "This is one of Jesus' most profound self-revelatory statements. He claims to provide what no patriarch, prophet, or earthly source can — permanent satisfaction of the soul's deepest thirst. The imagery of an inner spring transforms the person from a consumer who must keep returning to a well into a source who carries living water within.",
       "crossRefs": [
-        {"ref": "John 7:38", "explanation": "'Rivers of living water will flow from within him' — Jesus later expands this promise."},
-        {"ref": "Revelation 21:6", "explanation": "'I will give to the thirsty from the spring of the water of life without payment.'"},
-        {"ref": "Isaiah 12:3", "explanation": "'With joy you will draw water from the wells of salvation.'"}
+        {
+          "ref": "John 7:38",
+          "explanation": "'Rivers of living water will flow from within him' — Jesus later expands this promise."
+        },
+        {
+          "ref": "Revelation 21:6",
+          "explanation": "'I will give to the thirsty from the spring of the water of life without payment.'"
+        },
+        {
+          "ref": "Isaiah 12:3",
+          "explanation": "'With joy you will draw water from the wells of salvation.'"
+        }
       ],
       "words": [
         {
@@ -1028,8 +1121,14 @@
       "freshTranslation": "The woman said to Him, 'Sir, give me this water so I won't get thirsty and have to keep coming here to draw.'",
       "historicalContext": "Like Nicodemus in chapter 3, the woman still operates on the literal level — she wants water that eliminates her daily chore. Yet there may be a deeper longing beneath her practical request. Her daily trek to the well at noon, alone, to avoid other women, hints at the social thirst Jesus is about to address.",
       "crossRefs": [
-        {"ref": "John 6:34", "explanation": "The crowd similarly says 'Lord, give us this bread always' — grasping at the literal rather than the spiritual."},
-        {"ref": "John 3:4", "explanation": "Nicodemus asked 'How can a man be born when he is old?' — the same pattern of literal misunderstanding."}
+        {
+          "ref": "John 6:34",
+          "explanation": "The crowd similarly says 'Lord, give us this bread always' — grasping at the literal rather than the spiritual."
+        },
+        {
+          "ref": "John 3:4",
+          "explanation": "Nicodemus asked 'How can a man be born when he is old?' — the same pattern of literal misunderstanding."
+        }
       ],
       "words": [
         {
@@ -1079,8 +1178,14 @@
       "freshTranslation": "Jesus said to her, 'Go, call your husband, and come back here.'",
       "historicalContext": "Jesus abruptly shifts the conversation from theology to the woman's personal life. This is not a non sequitur — it's the pastoral application of 'living water.' Before she can receive what He offers, she must confront the truth about herself. Jesus' supernatural knowledge of her situation will become the catalyst for her faith.",
       "crossRefs": [
-        {"ref": "Hebrews 4:12-13", "explanation": "The word of God exposes the thoughts and intentions of the heart — nothing is hidden from Him."},
-        {"ref": "John 1:47-48", "explanation": "Jesus demonstrated similar supernatural knowledge with Nathanael, which also led to faith."}
+        {
+          "ref": "Hebrews 4:12-13",
+          "explanation": "The word of God exposes the thoughts and intentions of the heart — nothing is hidden from Him."
+        },
+        {
+          "ref": "John 1:47-48",
+          "explanation": "Jesus demonstrated similar supernatural knowledge with Nathanael, which also led to faith."
+        }
       ],
       "words": [
         {
@@ -1130,7 +1235,10 @@
       "freshTranslation": "The woman answered, 'I don't have a husband.' Jesus said to her, 'You're right to say you don't have a husband.'",
       "historicalContext": "The woman's answer is technically true but evasive — she doesn't lie, but she doesn't volunteer the full truth either. Jesus' response validates her honesty ('you spoke well') while preparing to reveal that He knows far more than she disclosed.",
       "crossRefs": [
-        {"ref": "Psalm 139:1-4", "explanation": "'O LORD, you have searched me and known me... even before a word is on my tongue, you know it altogether.'"}
+        {
+          "ref": "Psalm 139:1-4",
+          "explanation": "'O LORD, you have searched me and known me... even before a word is on my tongue, you know it altogether.'"
+        }
       ],
       "words": [
         {
@@ -1167,8 +1275,14 @@
       "freshTranslation": "because you've had five husbands, and the man you're living with now is not your husband. What you said was true.",
       "historicalContext": "Five marriages was extremely unusual in the ancient world. Whether these ended through death, divorce, or abandonment is unknown. Some scholars see an allegorical reference to the five foreign gods brought to Samaria (2 Kings 17:24-33), but the straightforward personal reading is more compelling. Jesus demonstrates prophetic knowledge that will convince her He is more than an ordinary Jew.",
       "crossRefs": [
-        {"ref": "2 Kings 17:24-33", "explanation": "Five nations brought five gods to Samaria — some see a symbolic parallel, though the literal reading is primary."},
-        {"ref": "John 2:24-25", "explanation": "Jesus 'knew what was in man' — His supernatural insight into human hearts is a consistent theme."}
+        {
+          "ref": "2 Kings 17:24-33",
+          "explanation": "Five nations brought five gods to Samaria — some see a symbolic parallel, though the literal reading is primary."
+        },
+        {
+          "ref": "John 2:24-25",
+          "explanation": "Jesus 'knew what was in man' — His supernatural insight into human hearts is a consistent theme."
+        }
       ],
       "words": [
         {
@@ -1218,8 +1332,14 @@
       "freshTranslation": "The woman said to Him, 'Sir, I can see that you are a prophet.'",
       "historicalContext": "Her recognition escalates — from 'a Jew' (v.9) to 'Sir' (v.11) to now 'a prophet.' In Samaritan theology, the expected prophet was the Taheb (the 'Restorer'), based on Deuteronomy 18:15-18 — a Moses-like figure. Her identification of Jesus as a prophet was a significant theological step for a Samaritan.",
       "crossRefs": [
-        {"ref": "Deuteronomy 18:15", "explanation": "'The LORD your God will raise up for you a prophet like me' — the foundational Samaritan messianic expectation."},
-        {"ref": "John 1:21", "explanation": "John the Baptist was asked 'Are you the Prophet?' — referencing the same Deuteronomy promise."}
+        {
+          "ref": "Deuteronomy 18:15",
+          "explanation": "'The LORD your God will raise up for you a prophet like me' — the foundational Samaritan messianic expectation."
+        },
+        {
+          "ref": "John 1:21",
+          "explanation": "John the Baptist was asked 'Are you the Prophet?' — referencing the same Deuteronomy promise."
+        }
       ],
       "words": [
         {
@@ -1256,8 +1376,14 @@
       "freshTranslation": "Our ancestors worshiped on this mountain, but you Jews say Jerusalem is the place where people must worship.",
       "historicalContext": "Mount Gerizim, visible from Jacob's well, was the Samaritans' holy mountain. They built a temple there around 400 BC, which the Jewish leader John Hyrcanus destroyed in 128 BC — a wound that still festered. The 'where to worship' debate was the central point of division between Jews and Samaritans. She may be deflecting from her personal life, but Jesus takes the question seriously.",
       "crossRefs": [
-        {"ref": "Deuteronomy 11:29", "explanation": "Moses commanded blessings be pronounced from Mount Gerizim — the Samaritans' textual basis for their worship site."},
-        {"ref": "2 Chronicles 6:6", "explanation": "'I have chosen Jerusalem that my name might be there' — the Jewish basis for Jerusalem worship."}
+        {
+          "ref": "Deuteronomy 11:29",
+          "explanation": "Moses commanded blessings be pronounced from Mount Gerizim — the Samaritans' textual basis for their worship site."
+        },
+        {
+          "ref": "2 Chronicles 6:6",
+          "explanation": "'I have chosen Jerusalem that my name might be there' — the Jewish basis for Jerusalem worship."
+        }
       ],
       "words": [
         {
@@ -1333,9 +1459,18 @@
       "freshTranslation": "Jesus said to her, 'Believe me, woman, the hour is coming when you will worship the Father neither on this mountain nor in Jerusalem.'",
       "historicalContext": "Jesus transcends the entire debate. Neither Gerizim nor Jerusalem will be the defining location for worship. This was a radical statement — the Jerusalem temple was considered the dwelling place of God's presence. Jesus announces its obsolescence, foreshadowing both the temple's destruction in 70 AD and the new covenant reality where God's Spirit dwells in believers.",
       "crossRefs": [
-        {"ref": "Malachi 1:11", "explanation": "'From the rising of the sun to its setting, my name will be great among the nations' — worship beyond any single location."},
-        {"ref": "Acts 7:48-49", "explanation": "Stephen declares 'the Most High does not dwell in houses made by hands.'"},
-        {"ref": "1 Corinthians 3:16", "explanation": "'You are God's temple' — the new location of divine presence is the believer."}
+        {
+          "ref": "Malachi 1:11",
+          "explanation": "'From the rising of the sun to its setting, my name will be great among the nations' — worship beyond any single location."
+        },
+        {
+          "ref": "Acts 7:48-49",
+          "explanation": "Stephen declares 'the Most High does not dwell in houses made by hands.'"
+        },
+        {
+          "ref": "1 Corinthians 3:16",
+          "explanation": "'You are God's temple' — the new location of divine presence is the believer."
+        }
       ],
       "words": [
         {
@@ -1398,9 +1533,18 @@
       "freshTranslation": "You Samaritans worship what you don't fully know; we Jews worship what we do know, because salvation comes through the Jewish people.",
       "historicalContext": "Jesus does not pretend both sides are equally right. The Samaritans, by accepting only the Pentateuch, rejected the Prophets and Writings that progressively revealed God's character and plan. While affirming a new era beyond Jerusalem, Jesus validates the Jewish revelation as the legitimate channel through which God's salvation enters the world.",
       "crossRefs": [
-        {"ref": "Romans 3:1-2", "explanation": "Paul affirms that the Jews were 'entrusted with the oracles of God' — a real advantage."},
-        {"ref": "Romans 9:4-5", "explanation": "'To them belong the covenants, the law, the worship, the promises... and from them, according to the flesh, the Christ.'"},
-        {"ref": "Isaiah 2:3", "explanation": "'Out of Zion shall go forth the law, and the word of the LORD from Jerusalem.'"}
+        {
+          "ref": "Romans 3:1-2",
+          "explanation": "Paul affirms that the Jews were 'entrusted with the oracles of God' — a real advantage."
+        },
+        {
+          "ref": "Romans 9:4-5",
+          "explanation": "'To them belong the covenants, the law, the worship, the promises... and from them, according to the flesh, the Christ.'"
+        },
+        {
+          "ref": "Isaiah 2:3",
+          "explanation": "'Out of Zion shall go forth the law, and the word of the LORD from Jerusalem.'"
+        }
       ],
       "words": [
         {
@@ -1450,9 +1594,18 @@
       "freshTranslation": "But the hour is coming — and is already here — when true worshipers will worship the Father in spirit and truth. The Father is actively seeking such people to worship Him.",
       "historicalContext": "Jesus adds 'and now is' to His earlier 'the hour is coming' (v.21). The new era is not just future — it is breaking in now, in this very conversation, with this very woman. God the Father is actively searching for genuine worshipers regardless of ethnicity, location, or religious pedigree.",
       "crossRefs": [
-        {"ref": "Philippians 3:3", "explanation": "'We are the circumcision, who worship by the Spirit of God' — Paul echoes Jesus' teaching on Spirit-led worship."},
-        {"ref": "Romans 12:1", "explanation": "'Present your bodies as a living sacrifice' — true worship engages the whole person, not just rituals."},
-        {"ref": "Psalm 51:16-17", "explanation": "'The sacrifices of God are a broken spirit; a broken and contrite heart, O God, you will not despise.'"}
+        {
+          "ref": "Philippians 3:3",
+          "explanation": "'We are the circumcision, who worship by the Spirit of God' — Paul echoes Jesus' teaching on Spirit-led worship."
+        },
+        {
+          "ref": "Romans 12:1",
+          "explanation": "'Present your bodies as a living sacrifice' — true worship engages the whole person, not just rituals."
+        },
+        {
+          "ref": "Psalm 51:16-17",
+          "explanation": "'The sacrifices of God are a broken spirit; a broken and contrite heart, O God, you will not despise.'"
+        }
       ],
       "words": [
         {
@@ -1508,5 +1661,1549 @@
           "twistedExplanation": null
         }
       ]
+    },
+    {
+      "verseNumber": 24,
+      "verseText": "God is a Spirit: and they that worship him must worship him in spirit and in truth.",
+      "freshTranslation": "God is spirit, and those who worship Him must worship in spirit and truth.",
+      "historicalContext": "This is one of the most direct theological declarations in the Gospels. Jesus reveals God's essential nature — not localized in a temple, not a tribal deity bound to a mountain, but spirit. For a Samaritan woman debating worship geography, this shatters every category. If God is spirit, then Gerizim vs. Jerusalem is the wrong question entirely.",
+      "crossRefs": [
+        {
+          "ref": "2 Corinthians 3:17",
+          "explanation": "'The Lord is the Spirit' — Paul identifies the risen Christ with the Spirit, continuing Jesus' teaching on God's spiritual nature."
+        },
+        {
+          "ref": "1 John 4:12",
+          "explanation": "'No one has ever seen God' — God's spiritual nature means He is invisible, known through love and the Spirit."
+        },
+        {
+          "ref": "Isaiah 31:3",
+          "explanation": "'The Egyptians are man, and not God; and their horses flesh, and not spirit' — the OT distinction between spirit and flesh."
+        }
+      ],
+      "words": [
+        {
+          "english": "God",
+          "original": "Θεός",
+          "transliteration": "Theos",
+          "pronunciation": "theh-OSS",
+          "strongs": "G2316",
+          "partOfSpeech": "noun, nominative singular masculine",
+          "literalMeaning": "God, deity, the supreme being",
+          "definition": "Θεός is the standard Greek word for God, used in the NT to translate the Hebrew Elohim and often standing in for YHWH. Here it appears without the article (anarthrous), which in Greek grammar emphasizes the qualitative nature — the sentence is about what God is like, His essential character, not merely identifying who He is.",
+          "translationNote": "The absence of the article before Theos is significant. Greek uses this construction to stress quality/nature. 'God is spirit' describes His essential being.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "is a Spirit",
+          "original": "πνεῦμα ὁ Θεός",
+          "transliteration": "pneuma ho Theos",
+          "pronunciation": "PNYOO-mah ho theh-OSS",
+          "strongs": "G4151/G2316",
+          "partOfSpeech": "noun nominative singular neuter + article + noun nominative singular masculine",
+          "literalMeaning": "spirit/breath/wind + the + God",
+          "definition": "Πνεῦμα here is anarthrous (no article) and placed first for emphasis — a predicate nominative construction. The word order in Greek is literally 'Spirit — God is.' This is not saying God is 'a' spirit (one among many), but that God's essential nature is spirit. He is non-material, non-localized, not confined to temples or mountains. The KJV's 'a Spirit' with the indefinite article is misleading — Greek has no indefinite article, and the meaning is qualitative: 'God is spirit in His very nature.'",
+          "translationNote": "The KJV's 'a Spirit' wrongly suggests God is one spirit among many. The Greek has no indefinite article. Better: 'God is spirit' — a statement about His essential nature, not His classification.",
+          "twisted": true,
+          "twistedExplanation": "Some groups use this verse to deny any physical manifestation of God, including the Incarnation. But John who wrote this also wrote 'the Word became flesh' (1:14). 'God is spirit' describes His essential nature, not a limitation on what He can do. Others twist it to support pantheism ('God is in everything as spirit') — but Jesus is describing God's transcendent nature, not material diffusion."
+        },
+        {
+          "english": "they that worship",
+          "original": "τοὺς προσκυνοῦντας",
+          "transliteration": "tous proskynountas",
+          "pronunciation": "toos pros-koo-NOON-tas",
+          "strongs": "G4352",
+          "partOfSpeech": "article + verb present active participle, accusative plural masculine (substantival)",
+          "literalMeaning": "the ones worshiping/bowing before",
+          "definition": "Προσκυνέω literally means to kiss toward, to prostrate oneself, to bow in reverence. The present participle indicates ongoing, habitual worship — 'those who are worshipers,' not a one-time act. As a substantival participle, it describes a class of people defined by their worship.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "must",
+          "original": "δεῖ",
+          "transliteration": "dei",
+          "pronunciation": "day",
+          "strongs": "G1163",
+          "partOfSpeech": "verb, present active indicative, 3rd person singular (impersonal)",
+          "literalMeaning": "it is necessary, it is binding, one must",
+          "definition": "Δεῖ expresses divine necessity — not mere obligation but something that flows inevitably from the nature of reality. Because God IS spirit, worship MUST be spiritual. This isn't an arbitrary rule; it's a logical necessity grounded in God's nature. You can't worship a spiritual being through purely material means any more than you can quench thirst with a photograph of water.",
+          "translationNote": "Accurate. The word carries stronger force than English 'must' — it implies divine or logical necessity, not just a command.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "in spirit and in truth",
+          "original": "ἐν πνεύματι καὶ ἀληθείᾳ",
+          "transliteration": "en pneumati kai alētheia",
+          "pronunciation": "en PNYOO-mah-tee kai ah-lay-THAY-ah",
+          "strongs": "G1722/G4151/G2532/G225",
+          "partOfSpeech": "preposition + noun dative neuter singular + conjunction + noun dative feminine singular",
+          "literalMeaning": "in + spirit/breath + and + truth/unhiddenness",
+          "definition": "Repeated from v.23 for emphasis. The double requirement — spirit AND truth — guards against two errors: spiritless formalism (going through motions without heart) and truthless enthusiasm (emotional worship disconnected from reality). Genuine worship engages the whole person through the Holy Spirit and is grounded in the truth of who God actually is.",
+          "translationNote": "See note on v.23. The repetition drives home that this is not optional but flows necessarily from God's nature as spirit.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 25,
+      "verseText": "The woman saith unto him, I know that Messias cometh, which is called Christ: when he is come, he will tell us all things.",
+      "freshTranslation": "The woman said to Him, 'I know that Messiah is coming' — the one called Christ — 'when He comes, He will explain everything to us.'",
+      "historicalContext": "The Samaritans expected a figure called the Taheb ('the restorer' or 'the returning one'), based on Deuteronomy 18:15-18 — a prophet like Moses who would restore true worship and reveal all truth. Unlike the Jewish Messiah concept (which was heavily political/royal), the Samaritan Taheb was primarily a teacher-prophet. The woman's statement perfectly aligns with this expectation: 'He will tell us all things.'",
+      "crossRefs": [
+        {
+          "ref": "Deuteronomy 18:15-18",
+          "explanation": "The promise of a prophet like Moses — the primary Messianic text for Samaritans, who only accepted the Pentateuch."
+        },
+        {
+          "ref": "John 1:41",
+          "explanation": "Andrew tells Peter 'We have found the Messiah (which is translated Christ)' — same dual naming."
+        },
+        {
+          "ref": "John 6:14",
+          "explanation": "'This is truly the Prophet who is to come' — the crowd identifies Jesus with the Deuteronomy 18 prophet."
+        }
+      ],
+      "words": [
+        {
+          "english": "I know",
+          "original": "οἶδα",
+          "transliteration": "oida",
+          "pronunciation": "OY-dah",
+          "strongs": "G1492",
+          "partOfSpeech": "verb, perfect active indicative, 1st person singular",
+          "literalMeaning": "to know intuitively, to perceive, to understand",
+          "definition": "Οἶδα is perfect in form but present in meaning — it denotes settled, confident knowledge. Unlike γινώσκω (experiential knowledge), οἶδα implies certainty, something the speaker considers established fact. The woman isn't expressing a vague hope; she is stating what she knows with conviction. This is remarkable — in the midst of theological confusion about where to worship, she has firm Messianic expectation.",
+          "translationNote": "Accurate. The distinction between oida (intuitive/settled knowledge) and ginōskō (experiential knowledge) is lost in English 'know.'",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "Messias",
+          "original": "Μεσσίας",
+          "transliteration": "Messias",
+          "pronunciation": "mess-EE-as",
+          "strongs": "G3323",
+          "partOfSpeech": "noun, nominative singular masculine (proper, transliterated from Hebrew/Aramaic)",
+          "literalMeaning": "anointed one (from Hebrew mashiach, to anoint)",
+          "definition": "Μεσσίας is a Greek transliteration of the Hebrew/Aramaic mashiach, meaning 'anointed one.' It appears only twice in the entire NT — here and John 1:41 — both times with John providing the Greek translation Χριστός. The anointing ceremony set apart kings, priests, and prophets for God's service. The Messiah was the ultimate Anointed One who would fulfill all three roles.",
+          "translationNote": "John preserves the Aramaic/Hebrew form and then translates it, suggesting his audience wouldn't know the Semitic term. This reveals his Greek-speaking readership.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "which is called Christ",
+          "original": "ὁ λεγόμενος Χριστός",
+          "transliteration": "ho legomenos Christos",
+          "pronunciation": "ho leh-GOM-en-os khris-TOSS",
+          "strongs": "G3004/G5547",
+          "partOfSpeech": "article + verb present passive participle nominative masculine singular + noun nominative masculine singular",
+          "literalMeaning": "the one being called + Anointed One",
+          "definition": "This is John's editorial gloss for his Greek readers. Χριστός (Christos) means 'anointed one' — the exact Greek equivalent of the Hebrew Mashiach. By the time John wrote, 'Christ' was becoming almost a surname for Jesus, but originally it was a title loaded with royal, priestly, and prophetic expectation. The passive participle λεγόμενος ('being called') indicates this is a translation explanation.",
+          "translationNote": "This parenthetical is the author's note, not the woman's words. She likely said 'Messiah' in Aramaic; John translates for his audience.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "he will tell us all things",
+          "original": "ἀναγγελεῖ ἡμῖν ἅπαντα",
+          "transliteration": "anangelei hēmin hapanta",
+          "pronunciation": "an-ang-eh-LAY hay-MEEN HAH-pan-tah",
+          "strongs": "G312/G2254/G537",
+          "partOfSpeech": "verb future active indicative 3rd singular + pronoun dative 1st plural + adjective accusative neuter plural",
+          "literalMeaning": "he will announce/declare + to us + all things",
+          "definition": "Ἀναγγέλλω means to declare, announce, or report — to bring a message from above. It implies divine revelation, not just teaching. Ἅπαντα is an intensive form of πᾶς (all) — 'absolutely everything.' The woman expects the Messiah to be a revealer of divine truth who will settle all disputed questions. This perfectly matches the Samaritan Taheb expectation of a Moses-like prophet.",
+          "translationNote": "The verb ἀναγγέλλω carries the sense of announcing from a higher source — prophetic declaration, not just explanation. English 'tell' is too flat.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 26,
+      "verseText": "Jesus saith unto her, I that speak unto thee am he.",
+      "freshTranslation": "Jesus said to her, 'I AM — the one speaking to you.'",
+      "historicalContext": "This is the first explicit Messianic self-declaration by Jesus in John's Gospel — and He makes it not to a Jewish leader, a disciple, or a crowd, but to a Samaritan woman with a complicated past. The Greek ἐγώ εἰμι ('I AM') echoes God's self-revelation to Moses at the burning bush (Exodus 3:14). Jesus reveals His identity more openly to this outsider than He does to Israel's religious elite throughout the Synoptic Gospels.",
+      "crossRefs": [
+        {
+          "ref": "Exodus 3:14",
+          "explanation": "God reveals His name as 'I AM THAT I AM' — the same ἐγώ εἰμι formula Jesus uses here."
+        },
+        {
+          "ref": "Mark 14:61-62",
+          "explanation": "At His trial, Jesus finally tells the high priest 'I am' — but He told this Samaritan woman first."
+        },
+        {
+          "ref": "John 8:58",
+          "explanation": "'Before Abraham was, I AM' — Jesus' later use of ἐγώ εἰμι causes attempted stoning, showing its divine claim."
+        }
+      ],
+      "words": [
+        {
+          "english": "I",
+          "original": "ἐγώ",
+          "transliteration": "egō",
+          "pronunciation": "eh-GO",
+          "strongs": "G1473",
+          "partOfSpeech": "pronoun, nominative 1st person singular (emphatic)",
+          "literalMeaning": "I (emphatic)",
+          "definition": "The explicit use of ἐγώ is emphatic in Greek, since the verb form already indicates the subject. Jesus could have simply said εἰμι ('am'). Adding ἐγώ makes it emphatic: 'I myself' — drawing attention to His person. Combined with εἰμι, it forms the theologically loaded phrase ἐγώ εἰμι ('I AM'), which runs throughout John's Gospel as a divine self-designation.",
+          "translationNote": "The emphatic 'I' is partially captured in English but the divine resonance of the 'I AM' formula is not immediately obvious to English readers as it would be to readers of the Greek OT (Septuagint).",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "am he",
+          "original": "εἰμι",
+          "transliteration": "eimi",
+          "pronunciation": "ay-MEE",
+          "strongs": "G1510",
+          "partOfSpeech": "verb, present active indicative, 1st person singular",
+          "literalMeaning": "I am, I exist",
+          "definition": "Εἰμί means 'I am' or 'I exist.' In John's Gospel, ἐγώ εἰμι carries double meaning: on the surface, 'I am [the Messiah you're describing],' but at a deeper level, it echoes the divine name from Exodus 3:14 (LXX: ἐγώ εἰμι ὁ ὤν). John uses this phrase seven times with predicates ('I am the bread,' 'I am the light,' etc.) and several times absolutely (without a predicate), as here. The absolute use is the most theologically charged.",
+          "translationNote": "The KJV adds 'he' in italics — it's not in the Greek. The Greek reads simply ἐγώ εἰμι ('I AM'), which is simultaneously 'I am [the Messiah]' and an echo of the divine name. The added 'he' domesticates the statement.",
+          "twisted": true,
+          "twistedExplanation": "Some interpreters downplay the divine-name connection, reading this as merely 'I'm the one.' But John carefully deploys ἐγώ εἰμι throughout his Gospel as a divine claim (8:24, 8:28, 8:58, 13:19, 18:5-6). The pattern is intentional. Others overemphasize it to claim Jesus was making a full Trinitarian statement — He's revealing identity progressively, not delivering systematic theology."
+        },
+        {
+          "english": "that speak unto thee",
+          "original": "ὁ λαλῶν σοι",
+          "transliteration": "ho lalōn soi",
+          "pronunciation": "ho lah-LONE soy",
+          "strongs": "G2980/G4671",
+          "partOfSpeech": "article + verb present active participle nominative masculine singular + pronoun dative 2nd singular",
+          "literalMeaning": "the one speaking + to you",
+          "definition": "Λαλέω means to speak, to talk, to utter. The present participle 'the one speaking' emphasizes the immediacy — the Messiah she's waiting for is not far off but present, mid-conversation. Jesus identifies Himself through the act of speaking to her, echoing the prophetic pattern where God reveals Himself through His word. The one 'who will tell us all things' (v.25) is already telling her.",
+          "translationNote": "Accurate. The intimacy is noteworthy — σοι ('to you' singular) underscores the personal, individual nature of this revelation.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 27,
+      "verseText": "And upon this came his disciples, and marvelled that he talked with the woman: yet no man said, What seekest thou? or, Why talkest thou with her?",
+      "freshTranslation": "Just then His disciples arrived. They were astonished that He was talking with a woman, yet none of them asked, 'What are You looking for?' or 'Why are You talking with her?'",
+      "historicalContext": "Rabbinic tradition strongly discouraged extended conversation with women in public. The Mishnah records: 'Do not talk much with women' (Avot 1:5), and some rabbis taught that a man should not even greet a woman in public. That Jesus' disciples were surprised but didn't challenge Him shows both their cultural conditioning and their growing respect for His authority — they were learning He operated by different rules.",
+      "crossRefs": [
+        {
+          "ref": "Luke 8:1-3",
+          "explanation": "Women traveled with Jesus and supported His ministry financially — radical in that culture."
+        },
+        {
+          "ref": "John 16:5",
+          "explanation": "'None of you asks Me, Where are You going?' — a pattern of disciples withholding questions from Jesus."
+        },
+        {
+          "ref": "Luke 10:38-42",
+          "explanation": "Jesus affirms Mary's choice to sit and learn like a disciple — another boundary-breaking moment."
+        }
+      ],
+      "words": [
+        {
+          "english": "upon this",
+          "original": "ἐπὶ τούτῳ",
+          "transliteration": "epi toutō",
+          "pronunciation": "eh-PEE TOO-toh",
+          "strongs": "G1909/G3778",
+          "partOfSpeech": "preposition + demonstrative pronoun dative neuter singular",
+          "literalMeaning": "upon/at + this (point/moment)",
+          "definition": "Ἐπί with the dative indicates a point in time — 'at this moment,' 'just then.' The timing is dramatic: the disciples return at the exact moment of Jesus' most explicit self-revelation. Their arrival interrupts the conversation at its climax, creating a narrative pivot from private revelation to public witness.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "marvelled",
+          "original": "ἐθαύμαζον",
+          "transliteration": "ethaumazon",
+          "pronunciation": "eh-THOW-mah-zon",
+          "strongs": "G2296",
+          "partOfSpeech": "verb, imperfect active indicative, 3rd person plural",
+          "literalMeaning": "they were marveling/being astonished",
+          "definition": "Θαυμάζω means to wonder, marvel, or be astonished. The imperfect tense indicates ongoing, sustained amazement — they kept being astonished as they took in the scene. This wasn't a flash of surprise but a lingering bewilderment. The source of their wonder was not the content of the conversation but the social violation: a rabbi speaking with a woman, and a Samaritan woman at that.",
+          "translationNote": "The imperfect captures continued astonishment better than the simple past 'marvelled.' They stood there marveling, processing what they saw.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "that he talked with the woman",
+          "original": "ὅτι μετὰ γυναικὸς ἐλάλει",
+          "transliteration": "hoti meta gynaikos elalei",
+          "pronunciation": "HOH-tee meh-TAH goo-nye-KOSS eh-LAH-lay",
+          "strongs": "G3754/G3326/G1135/G2980",
+          "partOfSpeech": "conjunction + preposition + noun genitive feminine singular + verb imperfect active indicative 3rd singular",
+          "literalMeaning": "that + with + a woman + he was speaking",
+          "definition": "Γυνή means woman or wife. The Greek says literally 'with a woman' — not 'with the woman' or 'with the Samaritan woman.' The shock was first and foremost that He was talking with any woman at all in public. Her being a Samaritan made it doubly shocking, but the text focuses on gender first. The imperfect ἐλάλει ('He was speaking') suggests they arrived mid-conversation.",
+          "translationNote": "The KJV adds the article ('the woman') but the Greek is anarthrous — 'a woman.' The disciples' surprise was about the category (woman), not specifically this woman.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "What seekest thou?",
+          "original": "Τί ζητεῖς;",
+          "transliteration": "Ti zēteis?",
+          "pronunciation": "tee zay-TACE",
+          "strongs": "G5101/G2212",
+          "partOfSpeech": "interrogative pronoun accusative neuter singular + verb present active indicative 2nd singular",
+          "literalMeaning": "what + are you seeking?",
+          "definition": "Ζητέω means to seek, search for, or desire. This question, which the disciples don't dare ask, would have been directed at the woman: 'What are you after?' It implies suspicion of her motives. The fact that no one asks it shows deference to Jesus — they're uncomfortable but won't challenge Him.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "Why talkest thou with her?",
+          "original": "Τί λαλεῖς μετ' αὐτῆς;",
+          "transliteration": "Ti laleis met' autēs?",
+          "pronunciation": "tee lah-LACE met ow-TACE",
+          "strongs": "G5101/G2980/G3326/G846",
+          "partOfSpeech": "interrogative pronoun + verb present active indicative 2nd singular + preposition + pronoun genitive feminine singular",
+          "literalMeaning": "why + are you speaking + with + her?",
+          "definition": "This unasked question would have been directed at Jesus: 'Why are you talking with her?' It's the more dangerous question — challenging the rabbi's judgment. Their silence reveals a mixture of trust, confusion, and social awareness. They know enough about Jesus to know He does things for reasons, even when those reasons violate their cultural training.",
+          "translationNote": "Τί here means 'why' rather than 'what' — a common use of the interrogative pronoun in Greek.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 28,
+      "verseText": "The woman then left her waterpot, and went her way into the city, and saith to the men,",
+      "freshTranslation": "So the woman left her water jar and went back into the town. She said to the people,",
+      "historicalContext": "Leaving the waterpot is a vivid eyewitness detail. She came for water — a daily necessity — but found something that made her forget her errand entirely. The abandoned jar also served a practical purpose: it gave her a reason to return, and possibly provided the disciples with water. Her going to 'the men' (ἀνθρώποις — people, but likely the men gathered at the town square) shows remarkable boldness for a woman of her social standing.",
+      "crossRefs": [
+        {
+          "ref": "Mark 1:18",
+          "explanation": "The first disciples 'left their nets' to follow Jesus — same pattern of abandoning the immediate task for something greater."
+        },
+        {
+          "ref": "Mark 10:50",
+          "explanation": "Blind Bartimaeus threw aside his cloak and came to Jesus — another detail of leaving things behind in urgency."
+        },
+        {
+          "ref": "John 1:41-45",
+          "explanation": "Andrew and Philip immediately go find others after encountering Jesus — the same evangelistic impulse."
+        }
+      ],
+      "words": [
+        {
+          "english": "left",
+          "original": "ἀφῆκεν",
+          "transliteration": "aphēken",
+          "pronunciation": "ah-FAY-ken",
+          "strongs": "G863",
+          "partOfSpeech": "verb, aorist active indicative, 3rd person singular",
+          "literalMeaning": "she left behind, she abandoned, she let go",
+          "definition": "Ἀφίημι means to send away, leave behind, let go, or forgive. The same word used for forgiveness (letting go of sin) is used here for letting go of a waterpot. The aorist tense makes it decisive — she didn't set it down carefully; she abandoned it. Her original reason for coming to the well has been completely overtaken by what she found there.",
+          "translationNote": "Accurate. The word carries undertones of release and abandonment, not just placing something down.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "her waterpot",
+          "original": "τὴν ὑδρίαν αὐτῆς",
+          "transliteration": "tēn hydrian autēs",
+          "pronunciation": "tayn hoo-DREE-ahn ow-TACE",
+          "strongs": "G5201/G846",
+          "partOfSpeech": "article + noun accusative feminine singular + pronoun genitive feminine singular",
+          "literalMeaning": "the water-jar + of her",
+          "definition": "Ὑδρία is a water jar or water pot, from ὕδωρ (water). The same word describes the stone jars at the wedding in Cana (John 2:6-7). This is an eyewitness detail — the kind of small, incidental observation that marks authentic testimony. The abandoned jar symbolizes the shift from physical water to living water: she no longer needs what she came for.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "saith to the men",
+          "original": "λέγει τοῖς ἀνθρώποις",
+          "transliteration": "legei tois anthrōpois",
+          "pronunciation": "LEH-gay toys an-THROW-poys",
+          "strongs": "G3004/G444",
+          "partOfSpeech": "verb present active indicative 3rd singular + article + noun dative plural masculine",
+          "literalMeaning": "she says + to the + people/men",
+          "definition": "Ἄνθρωπος means human being, person, or man. The plural ἀνθρώποις could mean 'people' generally or 'men' specifically. Given the cultural context — men gathered in public spaces during daytime — she likely addressed the men of the town. The historic present tense λέγει ('says') creates vivid, immediate narration, pulling the reader into the moment.",
+          "translationNote": "Ἄνθρωπος is gender-inclusive ('people/humans') unlike ἀνήρ ('male/husband'). The KJV's 'men' may be accurate culturally but the Greek word itself is inclusive.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 29,
+      "verseText": "Come, see a man, which told me all things that ever I did: is not this the Christ?",
+      "freshTranslation": "Come, see a man who told me everything I ever did. Could this be the Messiah?",
+      "historicalContext": "Her evangelistic strategy is brilliant: she doesn't claim to have found the Messiah (which would be dismissed coming from a woman of her reputation). Instead, she issues an invitation ('come see') and asks a question ('is not this the Christ?'). The tentative phrasing μήτι ('surely this isn't...?') expects a negative answer grammatically but functions rhetorically to arouse curiosity without making a claim her audience would resist.",
+      "crossRefs": [
+        {
+          "ref": "John 1:46",
+          "explanation": "Philip says to Nathanael 'Come and see' — the same invitation to personal encounter."
+        },
+        {
+          "ref": "John 1:29",
+          "explanation": "John the Baptist says 'Behold, the Lamb of God' — pointing others to Jesus, the role of every witness."
+        },
+        {
+          "ref": "Psalm 66:16",
+          "explanation": "'Come and hear, all ye that fear God, and I will declare what He hath done for my soul.'"
+        }
+      ],
+      "words": [
+        {
+          "english": "Come, see",
+          "original": "Δεῦτε ἴδετε",
+          "transliteration": "Deute idete",
+          "pronunciation": "DYOO-teh EE-deh-teh",
+          "strongs": "G1205/G3708",
+          "partOfSpeech": "adverb (imperative force) + verb aorist active imperative 2nd plural",
+          "literalMeaning": "come here! + see/perceive!",
+          "definition": "Δεῦτε is a call to action: 'Come!' Ἴδετε (from ὁράω) means to see with understanding, not just visual sight. Together they form the classic biblical invitation to personal encounter — don't take my word for it, come and see for yourselves. This mirrors Philip's invitation to Nathanael (1:46) and becomes a pattern in John: genuine faith comes through personal encounter, not secondhand reports.",
+          "translationNote": "Accurate. The imperative mood makes this a command, not a suggestion — she's urgent.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "which told me all things that ever I did",
+          "original": "ὃς εἶπέν μοι πάντα ὅσα ἐποίησα",
+          "transliteration": "hos eipen moi panta hosa epoiēsa",
+          "pronunciation": "hoss AY-pen moy PAN-tah HO-sah eh-POY-ay-sah",
+          "strongs": "G3739/G3004/G3427/G3956/G3745/G4160",
+          "partOfSpeech": "relative pronoun + verb aorist active indicative 3rd singular + pronoun dative 1st singular + adjective accusative neuter plural + relative pronoun accusative neuter plural + verb aorist active indicative 1st singular",
+          "literalMeaning": "who + told + me + all things + as many as + I did",
+          "definition": "She summarizes Jesus' supernatural knowledge of her past (vv. 16-18). Πάντα ὅσα ('all things, as many as') is a slight exaggeration — Jesus mentioned her five husbands and current situation, not literally everything. But the emotional impact was total disclosure: she felt completely known. This is the mark of prophetic knowledge and a key reason she suspects He may be the Messiah.",
+          "translationNote": "Accurate. The slight hyperbole ('all things') reflects the emotional impact rather than literal precision — a very human way to describe feeling fully known.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "is not this the Christ?",
+          "original": "μήτι οὗτός ἐστιν ὁ Χριστός;",
+          "transliteration": "mēti houtos estin ho Christos?",
+          "pronunciation": "MAY-tee HOO-toss es-TIN ho khris-TOSS",
+          "strongs": "G3385/G3778/G2076/G5547",
+          "partOfSpeech": "interrogative particle (expecting negative) + demonstrative pronoun + verb present indicative 3rd singular + article + noun nominative masculine singular",
+          "literalMeaning": "surely not? + this one + is + the + Anointed One?",
+          "definition": "Μήτι introduces a question expecting a negative answer: 'This can't be the Christ, can it?' But this grammatical form also functions as a rhetorical device to raise a possibility without making a bold claim. It's socially shrewd — she's not declaring, she's wondering aloud, inviting them to investigate. Given her reputation, a bold claim would be dismissed. A curious question draws people in.",
+          "translationNote": "The Greek construction expects 'no' as an answer, but functionally it plants the seed of 'yes.' English 'is not this...?' partially captures it, but misses the social sophistication of the device.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 30,
+      "verseText": "Then they went out of the city, and came unto him.",
+      "freshTranslation": "They left the town and started making their way toward Him.",
+      "historicalContext": "The townspeople respond to the woman's testimony by going to see for themselves. The imperfect tense of 'came' (ἤρχοντο) suggests a continuous procession — people streaming out of Sychar toward Jacob's well, a vivid scene of Samaritans approaching the Jewish Messiah. This movement mirrors the theological point: people who were far off are now drawing near.",
+      "crossRefs": [
+        {
+          "ref": "Isaiah 55:1",
+          "explanation": "'Come, everyone who thirsts' — the prophetic invitation fulfilled as Samaritans come to the living water."
+        },
+        {
+          "ref": "Ephesians 2:13",
+          "explanation": "'You who were far off have been brought near' — the theological reality acted out physically."
+        }
+      ],
+      "words": [
+        {
+          "english": "they went out",
+          "original": "ἐξῆλθον",
+          "transliteration": "exēlthon",
+          "pronunciation": "ex-AYL-thon",
+          "strongs": "G1831",
+          "partOfSpeech": "verb, aorist active indicative, 3rd person plural",
+          "literalMeaning": "they went out/came out",
+          "definition": "Ἐξέρχομαι means to go out, come out, or depart. The aorist marks a decisive departure — they left the city. This is a response of faith-in-motion: hearing the woman's testimony, they acted on it. In John, physical movement often mirrors spiritual movement.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "came unto him",
+          "original": "ἤρχοντο πρὸς αὐτόν",
+          "transliteration": "ērchonto pros auton",
+          "pronunciation": "AYR-khon-toh pross ow-TON",
+          "strongs": "G2064/G4314/G846",
+          "partOfSpeech": "verb imperfect middle/passive indicative 3rd plural + preposition + pronoun accusative masculine singular",
+          "literalMeaning": "they were coming + toward + him",
+          "definition": "The imperfect tense ἤρχοντο is significant — 'they were coming,' a process in motion, not yet complete. While the disciples have their conversation with Jesus (vv. 31-38), the Samaritans are streaming toward Him in the background. John paints a split-screen: Jesus teaches about harvest while the actual harvest approaches across the field.",
+          "translationNote": "The KJV's 'came' (simple past) loses the imperfect's progressiveness. They were on their way — the scene unfolds in real time.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 31,
+      "verseText": "In the mean while his disciples prayed him, saying, Master, eat.",
+      "freshTranslation": "Meanwhile, the disciples were urging Him, 'Rabbi, eat something.'",
+      "historicalContext": "The disciples had gone into Sychar to buy food (v.8) and have returned. Their concern is practical — Jesus is tired and hungry (v.6). The contrast is striking: Jesus just offered living water and eternal life, and His disciples are focused on lunch. This sets up the discourse on spiritual food (vv. 32-38).",
+      "crossRefs": [
+        {
+          "ref": "Matthew 4:4",
+          "explanation": "'Man shall not live by bread alone' — Jesus' earlier teaching on prioritizing God's word over physical food."
+        },
+        {
+          "ref": "John 6:27",
+          "explanation": "'Do not work for the food that perishes, but for the food that endures to eternal life.'"
+        }
+      ],
+      "words": [
+        {
+          "english": "prayed him",
+          "original": "ἠρώτων αὐτόν",
+          "transliteration": "ērōtōn auton",
+          "pronunciation": "ay-ROH-tone ow-TON",
+          "strongs": "G2065/G846",
+          "partOfSpeech": "verb imperfect active indicative 3rd plural + pronoun accusative masculine singular",
+          "literalMeaning": "they were asking/requesting + him",
+          "definition": "Ἐρωτάω means to ask, request, or urge. The KJV's 'prayed' preserves an older English sense of 'pray' meaning 'to request earnestly' (as in 'pray tell'). The imperfect tense indicates repeated or persistent asking — they kept urging Him to eat. This wasn't a single request but an ongoing entreaty born of genuine concern.",
+          "translationNote": "The KJV 'prayed' is archaic English for 'asked/urged.' Modern readers might confuse it with prayer to God. Better: 'urged' or 'kept asking.'",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "Master",
+          "original": "Ῥαββί",
+          "transliteration": "Rhabbi",
+          "pronunciation": "hrab-BEE",
+          "strongs": "G4461",
+          "partOfSpeech": "noun, vocative (indeclinable, transliterated from Hebrew)",
+          "literalMeaning": "my great one, my teacher",
+          "definition": "Ῥαββί is a Hebrew/Aramaic title meaning 'my great one' or 'my master,' used as a respectful address for teachers. It comes from רַב (rab, 'great/chief') with the possessive suffix. By the first century, it had become the standard title for recognized Torah teachers. The disciples' use of it shows they relate to Jesus primarily as their teacher/rabbi at this point.",
+          "translationNote": "The KJV translates as 'Master' but the original is 'Rabbi.' The two have different connotations — 'Master' implies authority, 'Rabbi' implies a teaching relationship.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "eat",
+          "original": "φάγε",
+          "transliteration": "phage",
+          "pronunciation": "FAH-geh",
+          "strongs": "G5315",
+          "partOfSpeech": "verb, aorist active imperative, 2nd person singular",
+          "literalMeaning": "eat!",
+          "definition": "Φάγε is the aorist imperative of ἐσθίω (to eat). The aorist imperative suggests a specific, immediate action: 'Eat now!' rather than a general habit. The disciples' concern is simple and physical — they just bought food and their tired rabbi needs to eat. The mundane request sets up Jesus' teaching about a different kind of food.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 32,
+      "verseText": "But he said unto them, I have meat to eat that ye know not of.",
+      "freshTranslation": "But He told them, 'I have food to eat that you don't know about.'",
+      "historicalContext": "Jesus uses the disciples' concern about physical food to introduce a deeper truth — a pattern He repeats with the Samaritan woman (physical water → living water) and later with the crowds (bread → bread of life, John 6). This technique of starting with the physical and elevating to the spiritual is characteristic of John's Jesus.",
+      "crossRefs": [
+        {
+          "ref": "Deuteronomy 8:3",
+          "explanation": "'Man does not live on bread alone but on every word that comes from the mouth of the LORD.'"
+        },
+        {
+          "ref": "Job 23:12",
+          "explanation": "'I have treasured the words of His mouth more than my daily bread.'"
+        },
+        {
+          "ref": "John 6:32-35",
+          "explanation": "Jesus later identifies Himself as the bread of life — the ultimate spiritual food."
+        }
+      ],
+      "words": [
+        {
+          "english": "meat",
+          "original": "βρῶσιν",
+          "transliteration": "brōsin",
+          "pronunciation": "BROH-sin",
+          "strongs": "G1035",
+          "partOfSpeech": "noun, accusative singular feminine",
+          "literalMeaning": "food, the act of eating, nourishment",
+          "definition": "Βρῶσις means food or nourishment — not specifically meat. The KJV frequently uses 'meat' in the older English sense of 'food' generally. Βρῶσις can refer either to the act of eating or to the food itself. Here it means food/nourishment, paralleling the physical food the disciples brought back from town.",
+          "translationNote": "KJV 'meat' is archaic English for 'food.' Modern readers should read it as 'food' — no flesh is implied.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "that ye know not of",
+          "original": "ἣν ὑμεῖς οὐκ οἴδατε",
+          "transliteration": "hēn hymeis ouk oidate",
+          "pronunciation": "hayn hoo-MACE ook OY-dah-teh",
+          "strongs": "G3739/G5210/G3756/G1492",
+          "partOfSpeech": "relative pronoun accusative feminine singular + pronoun nominative 2nd plural (emphatic) + negative particle + verb perfect active indicative 2nd plural",
+          "literalMeaning": "which + you (emphatic) + not + you know/perceive",
+          "definition": "The emphatic ὑμεῖς ('you yourselves') contrasts the disciples' knowledge with what Jesus knows. They don't perceive (οἴδατε, intuitive knowledge) this food — it's outside their frame of reference. Just as the woman couldn't grasp 'living water' because she was thinking physically, the disciples can't grasp Jesus' food because they're thinking about the bread and fish they just bought.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 33,
+      "verseText": "Therefore said the disciples one to another, Hath any man brought him ought to eat?",
+      "freshTranslation": "So the disciples said to each other, 'Could someone have brought Him food?'",
+      "historicalContext": "Like the Samaritan woman who heard 'living water' and thought of well water (v.11-12), the disciples hear 'food you don't know about' and wonder if someone made a delivery. John highlights this pattern of misunderstanding throughout his Gospel — people consistently interpret Jesus' words on a physical, literal level, missing the spiritual meaning. The pattern itself is the point: natural minds cannot grasp spiritual truth without illumination.",
+      "crossRefs": [
+        {
+          "ref": "John 3:4",
+          "explanation": "Nicodemus asks 'How can a man be born when he is old?' — the same pattern of literal misunderstanding."
+        },
+        {
+          "ref": "John 6:52",
+          "explanation": "'How can this man give us His flesh to eat?' — another instance of taking Jesus' words physically."
+        },
+        {
+          "ref": "1 Corinthians 2:14",
+          "explanation": "'The natural person does not accept the things of the Spirit of God.'"
+        }
+      ],
+      "words": [
+        {
+          "english": "one to another",
+          "original": "πρὸς ἀλλήλους",
+          "transliteration": "pros allēlous",
+          "pronunciation": "pross al-LAY-loose",
+          "strongs": "G4314/G240",
+          "partOfSpeech": "preposition + reciprocal pronoun accusative masculine plural",
+          "literalMeaning": "toward + one another",
+          "definition": "Ἀλλήλων is the reciprocal pronoun meaning 'one another' or 'each other.' They discussed this among themselves rather than asking Jesus directly — similar to v.27 where they didn't dare question Him about the woman. This private conversation reveals their confusion and their hesitancy to ask Jesus what He means.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "Hath any man brought him ought to eat?",
+          "original": "Μή τις ἤνεγκεν αὐτῷ φαγεῖν;",
+          "transliteration": "Mē tis ēnenken autō phagein?",
+          "pronunciation": "may tiss AY-nen-ken ow-TOH fah-GAYN",
+          "strongs": "G3361/G5100/G5342/G846/G5315",
+          "partOfSpeech": "negative particle (expecting negative answer) + indefinite pronoun nominative singular + verb aorist active indicative 3rd singular + pronoun dative masculine singular + verb aorist active infinitive",
+          "literalMeaning": "not + someone + brought/carried + to him + to eat?",
+          "definition": "Μή introduces a question expecting 'no' — 'Nobody brought Him food, did they?' Φέρω (ἤνεγκεν) means to bring, carry, or bear. Φαγεῖν is the aorist infinitive of ἐσθίω — 'to eat.' The question reveals they're stuck in the physical realm: if Jesus has food, somebody must have brought it. The possibility that He means something non-physical hasn't occurred to them.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 34,
+      "verseText": "Jesus saith unto them, My meat is to do the will of him that sent me, and to finish his work.",
+      "freshTranslation": "Jesus told them, 'My food is to do the will of the One who sent Me and to complete His work.'",
+      "historicalContext": "Jesus now explains the 'food' they don't know about. His sustenance comes from obedience to the Father's mission. This reveals Jesus' self-understanding: He is sent by the Father with a specific work to accomplish. The language of 'sending' (πέμψαντός) is a major theme in John — Jesus uses it over 20 times to describe His relationship with the Father. 'Finishing' the work anticipates His final word from the cross: τετέλεσται, 'It is finished' (19:30).",
+      "crossRefs": [
+        {
+          "ref": "John 5:36",
+          "explanation": "'The very works that the Father has given Me to finish — these works testify about Me.'"
+        },
+        {
+          "ref": "John 17:4",
+          "explanation": "'I have glorified You on earth by finishing the work You gave Me to do.'"
+        },
+        {
+          "ref": "John 19:30",
+          "explanation": "'It is finished' (τετέλεσται) — the ultimate completion of the Father's work."
+        }
+      ],
+      "words": [
+        {
+          "english": "My meat",
+          "original": "Ἐμὸν βρῶμά",
+          "transliteration": "Emon brōma",
+          "pronunciation": "eh-MON BROH-mah",
+          "strongs": "G1699/G1033",
+          "partOfSpeech": "possessive pronoun 1st singular neuter + noun nominative neuter singular",
+          "literalMeaning": "my own + food/nourishment",
+          "definition": "Ἐμόν is the emphatic possessive — 'my own' (as opposed to the food you brought). Βρῶμα means food or that which is eaten. Jesus claims a personal, distinctive source of nourishment that is His alone. What sustains Him is not bread but purpose — doing and completing the Father's will.",
+          "translationNote": "Again, KJV 'meat' means 'food.' Βρῶμα is slightly different from βρῶσις (v.32) — βρῶμα is the food itself, βρῶσις is the act of eating or nourishment as a concept.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "to do the will",
+          "original": "ἵνα ποιήσω τὸ θέλημα",
+          "transliteration": "hina poiēsō to thelēma",
+          "pronunciation": "HEE-nah poy-AY-soh toh THEH-lay-mah",
+          "strongs": "G2443/G4160/G2307",
+          "partOfSpeech": "conjunction (purpose) + verb aorist active subjunctive 1st singular + article + noun accusative neuter singular",
+          "literalMeaning": "in order that + I might do/accomplish + the + will/desire",
+          "definition": "Θέλημα means will, desire, or purpose. It comes from θέλω (to will, to wish). God's θέλημα is not arbitrary command but purposeful intent — the divine plan for salvation. Ποιέω (to do/make) in the subjunctive expresses Jesus' active participation: He doesn't just know the Father's will, He does it. This doing is what feeds Him spiritually.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "him that sent me",
+          "original": "τοῦ πέμψαντός με",
+          "transliteration": "tou pempsantos me",
+          "pronunciation": "too PEMP-san-toss meh",
+          "strongs": "G3992/G3165",
+          "partOfSpeech": "article + verb aorist active participle genitive masculine singular + pronoun accusative 1st singular",
+          "literalMeaning": "the one having sent + me",
+          "definition": "Πέμπω means to send, dispatch, or commission. The aorist participle τοῦ πέμψαντος ('the one who sent') becomes almost a title for God the Father in John's Gospel. It encapsulates Jesus' entire self-understanding: He is the Sent One, operating under the authority and purpose of the Sender. This sending language establishes Jesus' divine commission while maintaining His distinction from the Father.",
+          "translationNote": "Accurate. The participial form functions as a circumlocution for 'the Father' — defining God by His act of sending.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "to finish his work",
+          "original": "τελειώσω αὐτοῦ τὸ ἔργον",
+          "transliteration": "teleiōsō autou to ergon",
+          "pronunciation": "tel-ay-OH-soh ow-TOO toh ER-gon",
+          "strongs": "G5048/G846/G2041",
+          "partOfSpeech": "verb aorist active subjunctive 1st singular + pronoun genitive masculine singular + article + noun accusative neuter singular",
+          "literalMeaning": "I might complete/perfect + of him + the + work/deed",
+          "definition": "Τελειόω means to complete, perfect, or bring to its intended goal. It's related to τέλος (end, purpose, goal). Ἔργον means work, deed, or task. The Father's 'work' is singular — it's one unified mission, not a to-do list. Jesus sees His entire life as completing one great divine project. This verb echoes across John's Gospel until its climactic use in 19:30: τετέλεσται — 'It is finished/completed/perfected.'",
+          "translationNote": "Τελειόω implies not just finishing but perfecting — bringing to its intended completion. English 'finish' misses the nuance of fulfillment and perfection.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 35,
+      "verseText": "Say not ye, There are yet four months, and then cometh harvest? behold, I say unto you, Lift up your eyes, and look on the fields; for they are white already to harvest.",
+      "freshTranslation": "Don't you have a saying, 'Four months more, then comes the harvest'? Look — I tell you — open your eyes and look at the fields! They are already white for harvest.",
+      "historicalContext": "If this was a common proverb ('four months to harvest'), it suggests a timing between sowing and reaping — likely December, four months before the April barley harvest. But Jesus may also be pointing literally at the Samaritans streaming out of Sychar in their white garments toward the well. The 'fields white for harvest' would then be both metaphor and visual reality — a crowd of Samaritans in white approaching across the grain fields.",
+      "crossRefs": [
+        {
+          "ref": "Matthew 9:37-38",
+          "explanation": "'The harvest is plentiful but the workers are few' — the same harvest metaphor for spiritual readiness."
+        },
+        {
+          "ref": "Luke 10:2",
+          "explanation": "Jesus sends the seventy-two, saying 'The harvest is plentiful' — extending the harvest beyond Israel."
+        },
+        {
+          "ref": "Revelation 14:15",
+          "explanation": "'The time to reap has come, for the harvest of the earth is ripe' — the eschatological harvest."
+        }
+      ],
+      "words": [
+        {
+          "english": "four months",
+          "original": "τετράμηνός",
+          "transliteration": "tetramēnos",
+          "pronunciation": "tet-RAH-may-nos",
+          "strongs": "G5072",
+          "partOfSpeech": "adjective/noun, nominative singular masculine",
+          "literalMeaning": "four-month (period)",
+          "definition": "Τετράμηνος is a compound word: τέτρα (four) + μήν (month). It appears only here in the NT. Whether this was a proverb ('from sowing to harvest is four months') or a literal statement about the calendar is debated. If literal, it dates this event to roughly December-January, since barley harvest in Palestine falls in April. The point is the contrast: natural harvest requires patient waiting, but spiritual harvest is ready NOW.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "Lift up your eyes",
+          "original": "ἐπάρατε τοὺς ὀφθαλμοὺς ὑμῶν",
+          "transliteration": "eparate tous ophthalmous hymōn",
+          "pronunciation": "eh-PAH-rah-teh toos off-thal-MOOS hoo-MONE",
+          "strongs": "G1869/G3788/G5216",
+          "partOfSpeech": "verb aorist active imperative 2nd plural + article + noun accusative plural masculine + pronoun genitive 2nd plural",
+          "literalMeaning": "lift up! + the + eyes + of you",
+          "definition": "Ἐπαίρω means to lift up, raise. Ὀφθαλμός means eye. 'Lift up your eyes' is a Semitic idiom for looking into the distance with attention and expectation (cf. Genesis 13:14). Jesus commands them to stop looking at their lunch and look at the landscape — where Samaritans are approaching. The spiritual harvest they couldn't imagine is walking toward them.",
+          "translationNote": "Accurate. The idiom is preserved from Hebrew (Genesis 13:14 LXX uses the same phrase).",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "white already to harvest",
+          "original": "λευκαί εἰσιν πρὸς θερισμόν ἤδη",
+          "transliteration": "leukai eisin pros therismon ēdē",
+          "pronunciation": "lyoo-KIE ay-SIN pross theh-ris-MON AY-day",
+          "strongs": "G3022/G1526/G4314/G2326/G2235",
+          "partOfSpeech": "adjective nominative plural feminine + verb present indicative 3rd plural + preposition + noun accusative masculine singular + adverb",
+          "literalMeaning": "white/bright + they are + toward + harvest/reaping + already",
+          "definition": "Λευκός means white, bright, shining. Grain turns golden, not white, when ripe — suggesting Jesus may be pointing at the white-clad Samaritans approaching, not just using an agricultural metaphor. Θερισμός means harvest or the act of reaping. Ἤδη ('already') shatters the four-month timeline: the spiritual harvest doesn't follow agricultural schedules. It's ready now.",
+          "translationNote": "The word 'white' is unusual for ripe grain (which is golden). This may be a deliberate double meaning — the approaching Samaritans in white garments ARE the harvest.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 36,
+      "verseText": "And he that reapeth receiveth wages, and gathereth fruit unto life eternal: that both he that soweth and he that reapeth may rejoice together.",
+      "freshTranslation": "The reaper is already receiving wages and gathering fruit for eternal life, so that the sower and the reaper may celebrate together.",
+      "historicalContext": "In agriculture, sowing and reaping are separated by months. In God's economy, they can overlap. The prophets and Moses sowed the word among the Samaritans; Jesus and His disciples are reaping. The joy is shared because the harvest belongs to God, not to any one worker. This teaching anticipates Paul's later reflection: 'I planted, Apollos watered, but God gave the growth' (1 Cor. 3:6).",
+      "crossRefs": [
+        {
+          "ref": "1 Corinthians 3:6-8",
+          "explanation": "Paul echoes this teaching: different workers, one harvest, shared joy."
+        },
+        {
+          "ref": "Psalm 126:5-6",
+          "explanation": "'Those who sow in tears shall reap with shouts of joy.'"
+        },
+        {
+          "ref": "Amos 9:13",
+          "explanation": "'The reaper shall overtake the sower' — the eschatological abundance where sowing and reaping overlap."
+        }
+      ],
+      "words": [
+        {
+          "english": "he that reapeth",
+          "original": "ὁ θερίζων",
+          "transliteration": "ho therizōn",
+          "pronunciation": "ho theh-REE-zone",
+          "strongs": "G2325",
+          "partOfSpeech": "article + verb present active participle nominative masculine singular",
+          "literalMeaning": "the one reaping/harvesting",
+          "definition": "Θερίζω means to reap, harvest, or gather a crop. The present participle describes someone currently engaged in harvesting — the reaper as an ongoing identity/activity. In this metaphor, the reapers are those who bring people to faith. The immediacy of the present tense matches Jesus' point: the reaping is happening now, not in four months.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "receiveth wages",
+          "original": "μισθὸν λαμβάνει",
+          "transliteration": "misthon lambanei",
+          "pronunciation": "mis-THON lam-BAH-nay",
+          "strongs": "G3408/G2983",
+          "partOfSpeech": "noun accusative masculine singular + verb present active indicative 3rd singular",
+          "literalMeaning": "wage/reward + receives/takes",
+          "definition": "Μισθός means wages, reward, or pay for work done. Λαμβάνω means to receive or take. The reaper's reward is not just future but present — receiving wages now. The 'fruit unto eternal life' is itself the wage: seeing people come to faith is the worker's immediate reward, not something deferred to judgment day.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "fruit unto life eternal",
+          "original": "καρπὸν εἰς ζωὴν αἰώνιον",
+          "transliteration": "karpon eis zōēn aiōnion",
+          "pronunciation": "kar-PON ace zoh-AYN eye-OH-nee-on",
+          "strongs": "G2590/G1519/G2222/G166",
+          "partOfSpeech": "noun accusative masculine singular + preposition + noun accusative feminine singular + adjective accusative feminine singular",
+          "literalMeaning": "fruit/produce + into/for + life + eternal/of the age",
+          "definition": "Καρπός means fruit or produce — the result of cultivation. Ζωή αἰώνιος ('eternal life') in John is not just endless duration but a quality of life — the life of the age to come, knowing God (John 17:3). The fruit gathered is people entering this divine life. Each person who believes is 'fruit' that endures forever.",
+          "translationNote": "Αἰώνιος means 'of the age (to come)' rather than simply 'everlasting.' It describes quality (divine life) as well as duration.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "that both he that soweth and he that reapeth may rejoice together",
+          "original": "ἵνα ὁ σπείρων ὁμοῦ χαίρῃ καὶ ὁ θερίζων",
+          "transliteration": "hina ho speirōn homou chairē kai ho therizōn",
+          "pronunciation": "HEE-nah ho SPAY-rone hom-OO KHIE-ray kai ho theh-REE-zone",
+          "strongs": "G2443/G4687/G3674/G5463/G2532/G2325",
+          "partOfSpeech": "conjunction + article + participle + adverb + verb present active subjunctive 3rd singular + conjunction + article + participle",
+          "literalMeaning": "in order that + the one sowing + together + might rejoice + and + the one reaping",
+          "definition": "Σπείρω means to sow seed. Ὁμοῦ means together, in the same place. Χαίρω means to rejoice, be glad. The purpose (ἵνα) of this divine arrangement is shared joy — no jealousy between the one who planted and the one who harvested. This overturns the proverb 'one sows, another reaps' which usually expressed frustration (Deut. 28:30, Micah 6:15). In God's economy, shared labor produces shared joy.",
+          "translationNote": "Accurate. The subversion of the sowing/reaping proverb from lament to celebration is lost without knowing the OT background.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 37,
+      "verseText": "And herein is that saying true, One soweth, and another reapeth.",
+      "freshTranslation": "For in this the saying is proven true: 'One person sows and another reaps.'",
+      "historicalContext": "Jesus quotes what appears to be a common proverb, normally expressing injustice — the idea that one person does the hard work and someone else gets the benefit (cf. Deuteronomy 28:30, Job 31:8, Micah 6:15). But Jesus reframes it: in God's kingdom, this is not injustice but design. Different workers at different stages, one harvest, shared joy. The sowers here are the OT prophets and Moses; the reapers are Jesus and His followers.",
+      "crossRefs": [
+        {
+          "ref": "Deuteronomy 28:30",
+          "explanation": "The curse: 'You will plant a vineyard but not enjoy its fruit' — the proverb's negative origin."
+        },
+        {
+          "ref": "Job 31:8",
+          "explanation": "'Let me sow and another eat' — the proverb used as an oath of integrity."
+        },
+        {
+          "ref": "Micah 6:15",
+          "explanation": "'You will sow but not reap' — prophetic judgment using the same pattern."
+        }
+      ],
+      "words": [
+        {
+          "english": "herein",
+          "original": "ἐν τούτῳ",
+          "transliteration": "en toutō",
+          "pronunciation": "en TOO-toh",
+          "strongs": "G1722/G3778",
+          "partOfSpeech": "preposition + demonstrative pronoun dative neuter singular",
+          "literalMeaning": "in + this",
+          "definition": "Ἐν τούτῳ ('in this') points to the current situation — the Samaritan harvest — as the proof of the proverb's truth. What is normally a complaint becomes, in Jesus' hands, a description of God's collaborative design.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "that saying",
+          "original": "ὁ λόγος",
+          "transliteration": "ho logos",
+          "pronunciation": "ho LO-goss",
+          "strongs": "G3056",
+          "partOfSpeech": "noun, nominative singular masculine with article",
+          "literalMeaning": "the word/saying/statement",
+          "definition": "Λόγος here means a saying, proverb, or maxim — one of its many uses. The same word that opens John's Gospel ('In the beginning was the Logos') appears here simply as 'the saying.' This versatility is characteristic of λόγος: it can mean word, statement, account, reason, or the divine Word, depending on context.",
+          "translationNote": "Accurate. 'Saying' or 'proverb' fits better than 'word' here.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "true",
+          "original": "ἀληθινός",
+          "transliteration": "alēthinos",
+          "pronunciation": "ah-lay-thee-NOSS",
+          "strongs": "G228",
+          "partOfSpeech": "adjective, nominative singular masculine",
+          "literalMeaning": "genuine, real, authentic",
+          "definition": "Ἀληθινός means genuine, real, or authentic — as opposed to counterfeit or apparent. It's stronger than ἀληθής (factually true). The proverb is not just technically correct; it's proven genuine by lived experience. The Samaritan harvest vindicates it.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "One soweth, and another reapeth",
+          "original": "ἄλλος ἐστὶν ὁ σπείρων καὶ ἄλλος ὁ θερίζων",
+          "transliteration": "allos estin ho speirōn kai allos ho therizōn",
+          "pronunciation": "AL-loss es-TIN ho SPAY-rone kai AL-loss ho theh-REE-zone",
+          "strongs": "G243/G1510/G4687/G2532/G243/G2325",
+          "partOfSpeech": "adjective/pronoun + verb + article + participle + conjunction + adjective/pronoun + article + participle",
+          "literalMeaning": "one (different) + is + the one sowing + and + another (different) + the one reaping",
+          "definition": "Ἄλλος means 'another of the same kind' — a different person but in the same category of workers. The proverb states a fact of division of labor. Jesus' innovation is not to deny it but to reframe it: in God's field, this division is cooperation, not exploitation.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 38,
+      "verseText": "I sent you to reap that whereon ye bestowed no labour: other men laboured, and ye are entered into their labours.",
+      "freshTranslation": "I sent you to harvest what you didn't work for. Others have labored, and you have stepped into the fruit of their labor.",
+      "historicalContext": "The 'others' who labored include Moses (who gave the Samaritans the Pentateuch), the prophets, John the Baptist, and ultimately Jesus Himself. The disciples are inheriting a harvest prepared by centuries of divine work. This principle applies to all subsequent Christian mission: every evangelist reaps where others have sown — through Scripture, culture, conscience, and prior witnesses.",
+      "crossRefs": [
+        {
+          "ref": "Joshua 24:13",
+          "explanation": "'I gave you a land on which you had not labored' — God gives Israel what they didn't earn."
+        },
+        {
+          "ref": "1 Corinthians 3:10",
+          "explanation": "Paul as a 'wise master builder' laying foundations for others to build on."
+        },
+        {
+          "ref": "Hebrews 11:39-40",
+          "explanation": "OT saints 'did not receive what was promised' — they sowed, we reap."
+        }
+      ],
+      "words": [
+        {
+          "english": "I sent you",
+          "original": "ἐγὼ ἀπέστειλα ὑμᾶς",
+          "transliteration": "egō apesteila hymas",
+          "pronunciation": "eh-GO ah-PES-tee-lah hoo-MOSS",
+          "strongs": "G1473/G649/G5209",
+          "partOfSpeech": "pronoun nominative 1st singular (emphatic) + verb aorist active indicative 1st singular + pronoun accusative 2nd plural",
+          "literalMeaning": "I (emphatic) + sent/commissioned + you (plural)",
+          "definition": "Ἀποστέλλω means to send with a commission, to dispatch with authority. This is the root of 'apostle' (ἀπόστολος). The emphatic ἐγώ stresses Jesus' personal authority as the sender. He positions Himself as the one who commissions, paralleling the Father who 'sent' Him (v.34). The chain of sending: Father → Son → disciples → the world.",
+          "translationNote": "Ἀποστέλλω implies sending with authority and purpose, unlike πέμπω (simple sending). Jesus uses the stronger word for the disciples' mission.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "that whereon ye bestowed no labour",
+          "original": "ὃ οὐχ ὑμεῖς κεκοπιάκατε",
+          "transliteration": "ho ouch hymeis kekopiakate",
+          "pronunciation": "ho ookh hoo-MACE keh-kop-ee-AH-kah-teh",
+          "strongs": "G3739/G3756/G5210/G2872",
+          "partOfSpeech": "relative pronoun + negative particle + pronoun nominative 2nd plural (emphatic) + verb perfect active indicative 2nd plural",
+          "literalMeaning": "that which + not + you (emphatic) + you have labored at",
+          "definition": "Κοπιάω means to labor to the point of exhaustion, to toil strenuously. The perfect tense indicates a state resulting from past action — or in this case, the absence of it: 'you have not been the ones toiling.' The emphatic ὑμεῖς ('you yourselves') stresses that others did the hard work; the disciples are entering a prepared harvest. This is humbling and freeing: ministry fruitfulness isn't about your effort alone.",
+          "translationNote": "Κοπιάω is stronger than simple 'work' — it implies exhausting, sweat-producing labor. English 'bestowed no labour' (KJV) captures the formal idea but not the physical intensity.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "other men laboured",
+          "original": "ἄλλοι κεκοπιάκασιν",
+          "transliteration": "alloi kekopiakisin",
+          "pronunciation": "AL-loy keh-kop-ee-AH-kah-sin",
+          "strongs": "G243/G2872",
+          "partOfSpeech": "adjective/pronoun nominative plural masculine + verb perfect active indicative 3rd plural",
+          "literalMeaning": "others + have labored/toiled",
+          "definition": "The perfect tense κεκοπιάκασιν ('have labored') indicates completed labor with ongoing results. The 'others' (ἄλλοι) are unnamed — deliberately ambiguous. For the Samaritan context: Moses, who gave them the Torah. For the broader mission: the prophets, John the Baptist, and Jesus Himself. The harvest the disciples will reap grows from seeds they didn't plant.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "ye are entered into their labours",
+          "original": "ὑμεῖς εἰς τὸν κόπον αὐτῶν εἰσεληλύθατε",
+          "transliteration": "hymeis eis ton kopon autōn eiselēlythate",
+          "pronunciation": "hoo-MACE ace ton KO-pon ow-TONE ace-el-AY-loo-thah-teh",
+          "strongs": "G5210/G1519/G2873/G846/G1525",
+          "partOfSpeech": "pronoun + preposition + article + noun accusative masculine singular + pronoun genitive plural + verb perfect active indicative 2nd plural",
+          "literalMeaning": "you + into + the + toil/labor + of them + you have entered",
+          "definition": "Εἰσέρχομαι means to enter, go into. Κόπος means labor, toil, or trouble — hard, exhausting work. The disciples 'enter into' labor already performed — like workers joining a construction project already underway. The perfect tense ('have entered') indicates a completed entrance with ongoing participation. They are now part of a story much bigger than themselves.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 39,
+      "verseText": "And many of the Samaritans of that city believed on him for the saying of the woman, which testified, He told me all that ever I did.",
+      "freshTranslation": "Many Samaritans from that town believed in Him because of the woman's testimony: 'He told me everything I ever did.'",
+      "historicalContext": "This is remarkable on multiple levels. Samaritans — considered heretics by Jews — believe in the Jewish Messiah. They believe because of a woman's testimony — which had no legal standing in either Jewish or Samaritan courts. And the woman's past (five husbands, currently unmarried) would normally disqualify her as a credible witness. Yet God uses the unlikeliest messenger to bring an entire town to faith.",
+      "crossRefs": [
+        {
+          "ref": "Acts 1:8",
+          "explanation": "'You will be My witnesses in Jerusalem, Judea, Samaria...' — this event previews the Samaritan mission."
+        },
+        {
+          "ref": "Acts 8:5-8",
+          "explanation": "Philip's later mission to Samaria builds on the foundation laid here."
+        },
+        {
+          "ref": "1 Corinthians 1:27",
+          "explanation": "'God chose the foolish things of the world to shame the wise' — an unlikely witness for an unlikely audience."
+        }
+      ],
+      "words": [
+        {
+          "english": "many",
+          "original": "πολλοί",
+          "transliteration": "polloi",
+          "pronunciation": "pol-LOY",
+          "strongs": "G4183",
+          "partOfSpeech": "adjective, nominative plural masculine",
+          "literalMeaning": "many, numerous",
+          "definition": "Πολύς means many, much, or great in number. The harvest Jesus pointed to in v.35 is already being reaped — many believe. This is significant: the first mass response to Jesus in John's Gospel comes not from Jews but from Samaritans, not from religious leaders but from townspeople, not through a sermon but through one woman's testimony.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "believed on him",
+          "original": "ἐπίστευσαν εἰς αὐτόν",
+          "transliteration": "episteusan eis auton",
+          "pronunciation": "eh-PIS-tyoo-san ace ow-TON",
+          "strongs": "G4100/G1519/G846",
+          "partOfSpeech": "verb aorist active indicative 3rd plural + preposition + pronoun accusative masculine singular",
+          "literalMeaning": "they believed/trusted + into + him",
+          "definition": "Πιστεύω εἰς ('believe into') is John's distinctive construction for saving faith. It's stronger than πιστεύω with the dative (believe someone's words) or πιστεύω ὅτι (believe that something is true). 'Believing into' implies personal trust, commitment, and relational entry — not just intellectual assent but entrusting oneself to Jesus. The aorist marks a decisive act of faith.",
+          "translationNote": "English 'believed on/in' doesn't capture the directional force of εἰς ('into'). These Samaritans didn't just believe things about Jesus — they entrusted themselves to Him.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "the saying of the woman, which testified",
+          "original": "τὸν λόγον τῆς γυναικὸς μαρτυρούσης",
+          "transliteration": "ton logon tēs gynaikos martyrousēs",
+          "pronunciation": "ton LO-gon tace goo-nye-KOSS mar-too-ROO-says",
+          "strongs": "G3056/G1135/G3140",
+          "partOfSpeech": "article + noun accusative masculine singular + article + noun genitive feminine singular + verb present active participle genitive feminine singular",
+          "literalMeaning": "the word/testimony + of the woman + bearing witness",
+          "definition": "Μαρτυρέω means to bear witness, testify, or give evidence. It's the root of 'martyr' — one whose testimony costs them. The present participle suggests ongoing, continuous witness: she kept testifying. Γυνή (woman) is emphasized — this is a woman's testimony leading to faith, in a culture that dismissed women's witness. John consistently elevates women as credible witnesses (cf. Mary Magdalene at the resurrection).",
+          "translationNote": "Accurate. The legal/courtroom connotation of μαρτυρέω gives her testimony weight — this is formal witness-bearing, not gossip.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 40,
+      "verseText": "So when the Samaritans were come unto him, they besought him that he would tarry with them: and he abode there two days.",
+      "freshTranslation": "So when the Samaritans came to Him, they urged Him to stay with them. And He stayed two days.",
+      "historicalContext": "A Jewish rabbi staying in a Samaritan village for two days was culturally explosive. Jews considered Samaritan homes unclean, their food suspect, and their company defiling. Jesus doesn't just talk to a Samaritan woman — He accepts hospitality, eats their food, sleeps in their homes, and teaches them for two days. This is incarnational ministry: entering people's world, not just summoning them to yours.",
+      "crossRefs": [
+        {
+          "ref": "Luke 9:52-53",
+          "explanation": "Later, a Samaritan village refuses to receive Jesus — showing this welcome was not automatic."
+        },
+        {
+          "ref": "Acts 10:28-29",
+          "explanation": "Peter learns 'God has shown me that I should not call anyone impure' — the same lesson Jesus lived out here."
+        },
+        {
+          "ref": "Revelation 3:20",
+          "explanation": "'I will come in and eat with him' — intimate fellowship through shared hospitality."
+        }
+      ],
+      "words": [
+        {
+          "english": "they besought him",
+          "original": "ἠρώτων αὐτόν",
+          "transliteration": "ērōtōn auton",
+          "pronunciation": "ay-ROH-tone ow-TON",
+          "strongs": "G2065/G846",
+          "partOfSpeech": "verb imperfect active indicative 3rd plural + pronoun accusative masculine singular",
+          "literalMeaning": "they were asking/urging + him",
+          "definition": "Ἐρωτάω means to ask, request, or urge. The imperfect tense indicates repeated, persistent asking — they kept urging Him. The same word used when the disciples urged Jesus to eat (v.31) is now used by Samaritans urging Him to stay. The persistence reveals genuine desire for His presence, not mere politeness.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "that he would tarry with them",
+          "original": "μεῖναι παρ' αὐτοῖς",
+          "transliteration": "meinai par' autois",
+          "pronunciation": "MAY-nye par ow-TOYS",
+          "strongs": "G3306/G3844/G846",
+          "partOfSpeech": "verb aorist active infinitive + preposition + pronoun dative plural",
+          "literalMeaning": "to remain/abide + beside/with + them",
+          "definition": "Μένω means to remain, stay, abide, or dwell. This is one of John's key theological words — used 40 times in his Gospel. It describes the mutual indwelling of Father and Son, the Spirit remaining on Jesus, and believers abiding in Christ. Here its meaning is simple (physical staying) but the word itself carries resonance: Jesus abides with the Samaritans as He later calls all believers to abide in Him.",
+          "translationNote": "KJV 'tarry' is archaic for 'stay.' The Greek μένω carries rich Johannine theological overtones even in its simple uses.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "two days",
+          "original": "δύο ἡμέρας",
+          "transliteration": "dyo hēmeras",
+          "pronunciation": "DOO-oh hay-MEH-rahs",
+          "strongs": "G1417/G2250",
+          "partOfSpeech": "adjective/numeral + noun accusative plural feminine",
+          "literalMeaning": "two + days",
+          "definition": "The specific 'two days' is an eyewitness detail. It was long enough for deep teaching and relationship but brief enough to continue the journey to Galilee. Some scholars note a parallel with Hosea 6:2 ('After two days He will revive us') but this may be coincidental. The practical point: Jesus invested serious time with Samaritans, treating them as worthy of extended ministry.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 41,
+      "verseText": "And many more believed because of his own word;",
+      "freshTranslation": "And many more believed because of His word,",
+      "historicalContext": "The progression is striking: first they believed because of the woman's testimony (v.39), now many more believe because of Jesus' own teaching. The woman was the catalyst, but Jesus' direct word produces even greater faith. This two-stage pattern — initial witness leading to personal encounter — becomes the model for Christian evangelism.",
+      "crossRefs": [
+        {
+          "ref": "Romans 10:17",
+          "explanation": "'Faith comes from hearing, and hearing through the word of Christ.'"
+        },
+        {
+          "ref": "John 17:20",
+          "explanation": "'I pray also for those who will believe in Me through their message' — the chain of testimony Jesus envisions."
+        },
+        {
+          "ref": "1 Thessalonians 2:13",
+          "explanation": "'You received the word of God... not as a human word, but as it actually is, the word of God.'"
+        }
+      ],
+      "words": [
+        {
+          "english": "many more",
+          "original": "πολλῷ πλείους",
+          "transliteration": "pollō pleious",
+          "pronunciation": "pol-LOH PLAY-oos",
+          "strongs": "G4183/G4119",
+          "partOfSpeech": "adjective dative singular (comparative degree) + adjective nominative plural (comparative)",
+          "literalMeaning": "by much + more/greater",
+          "definition": "Πλείων is the comparative form of πολύς — 'more numerous.' The addition of πολλῷ intensifies it: 'far more,' 'many more.' The woman's testimony brought 'many' (v.39); Jesus' own word brings 'many more.' This isn't competition — it's the natural progression from secondhand testimony to firsthand encounter.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "because of his own word",
+          "original": "διὰ τὸν λόγον αὐτοῦ",
+          "transliteration": "dia ton logon autou",
+          "pronunciation": "dee-AH ton LO-gon ow-TOO",
+          "strongs": "G1223/G3056/G846",
+          "partOfSpeech": "preposition (causal) + article + noun accusative masculine singular + pronoun genitive masculine singular",
+          "literalMeaning": "on account of + the + word/message + of him",
+          "definition": "Διά with the accusative means 'because of' or 'on account of.' Λόγος here refers to Jesus' teaching over the two days — His word, message, and proclamation. The contrast with v.39 is deliberate: the woman's λόγος (testimony) initiated faith; Jesus' λόγος (direct teaching) deepened and expanded it. Both are essential; neither is sufficient alone.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 42,
+      "verseText": "And said unto the woman, Now we believe, not because of thy saying: for we have heard him ourselves, and know that this is indeed the Christ, the Saviour of the world.",
+      "freshTranslation": "And they told the woman, 'We no longer believe just because of what you said. We have heard Him ourselves, and we know that this truly is the Savior of the world.'",
+      "historicalContext": "The Samaritans arrive at a title no Jew has yet given Jesus in this Gospel: 'the Savior of the world.' Not the savior of Israel, not the Samaritan Taheb, but the Savior of the WORLD. These outsiders see what insiders miss. The title σωτὴρ τοῦ κόσμου was used in the Roman world for the emperor — claiming it for Jesus was politically subversive.",
+      "crossRefs": [
+        {
+          "ref": "1 John 4:14",
+          "explanation": "'The Father has sent the Son to be the Savior of the world' — John repeats this exact phrase in his epistle."
+        },
+        {
+          "ref": "John 3:17",
+          "explanation": "'God did not send His Son into the world to condemn it, but to save the world through Him.'"
+        },
+        {
+          "ref": "Luke 2:11",
+          "explanation": "The angels announce 'a Savior, who is Christ the Lord' — the same combination of titles."
+        }
+      ],
+      "words": [
+        {
+          "english": "Now we believe, not because of thy saying",
+          "original": "οὐκέτι διὰ τὴν σὴν λαλιὰν πιστεύομεν",
+          "transliteration": "ouketi dia tēn sēn lalian pisteuomen",
+          "pronunciation": "oo-KEH-tee dee-AH tayn sayn lah-lee-AHN pis-TYOO-oh-men",
+          "strongs": "G3765/G1223/G4674/G2981/G4100",
+          "partOfSpeech": "adverb + preposition + article + possessive pronoun + noun accusative feminine singular + verb present active indicative 1st plural",
+          "literalMeaning": "no longer + because of + the + your + talk/speech + we believe",
+          "definition": "Οὐκέτι means 'no longer' — implying they did believe initially because of her. Λαλιά means speech, talk, or way of speaking — it can carry a slightly dismissive tone compared to λόγος (word/message). Their faith has graduated from secondhand report to personal knowledge. This is not a rebuke of the woman but an expression of matured faith.",
+          "translationNote": "Λαλιά ('talk/speech') is slightly less formal than λόγος ('word/testimony'). Some detect a gentle distinction: her λαλιά got them started, but Jesus' λόγος grounded them.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "we have heard him ourselves",
+          "original": "αὐτοὶ γὰρ ἀκηκόαμεν",
+          "transliteration": "autoi gar akēkoamen",
+          "pronunciation": "ow-TOY gar ah-kay-KOH-ah-men",
+          "strongs": "G846/G1063/G191",
+          "partOfSpeech": "pronoun nominative plural masculine (emphatic) + conjunction (explanatory) + verb perfect active indicative 1st plural",
+          "literalMeaning": "we ourselves + for/because + we have heard",
+          "definition": "Αὐτοί is emphatic: 'we ourselves.' The perfect tense ἀκηκόαμεν ('we have heard') indicates completed hearing with lasting results — they heard and it changed them permanently. Personal encounter with Jesus' word produces a different quality of faith than secondhand testimony. Both are valid; personal hearing is deeper.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "know",
+          "original": "οἴδαμεν",
+          "transliteration": "oidamen",
+          "pronunciation": "OY-dah-men",
+          "strongs": "G1492",
+          "partOfSpeech": "verb, perfect active indicative, 1st person plural",
+          "literalMeaning": "we know/perceive with certainty",
+          "definition": "Οἶδα denotes settled, intuitive knowledge — certainty. They have moved from the woman's tentative μήτι ('could this be?', v.29) to confident οἴδαμεν ('we know'). The progression: curiosity → investigation → personal encounter → settled conviction. This is John's model for faith development.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "the Christ, the Saviour of the world",
+          "original": "ὁ σωτὴρ τοῦ κόσμου",
+          "transliteration": "ho sōtēr tou kosmou",
+          "pronunciation": "ho soh-TARE too KOS-moo",
+          "strongs": "G4990/G2889",
+          "partOfSpeech": "article + noun nominative masculine singular + article + noun genitive masculine singular",
+          "literalMeaning": "the savior/deliverer + of the world/cosmos",
+          "definition": "Σωτήρ means savior, deliverer, or rescuer. Κόσμος means world — the entire created order and human population. This title appears only here and in 1 John 4:14 in the NT. It was a title Roman emperors claimed for themselves (especially Augustus). For Samaritans to give it to a Jewish teacher was radical: He belongs not to one nation but to the whole world. These 'heretics' grasped the universal scope of Jesus' mission before His own disciples did.",
+          "translationNote": "Some manuscripts include 'the Christ' (ὁ Χριστός) before 'the Savior of the world'; others omit it. The critical title is σωτὴρ τοῦ κόσμου — its political subversiveness (against Caesar's claim to the same title) is invisible in English.",
+          "twisted": true,
+          "twistedExplanation": "Some use 'Savior of the world' to argue for universalism (all will be saved regardless). But σωτήρ implies rescue from danger — not everyone accepts the rescue. John 3:17-18, just one chapter earlier, holds together God's desire to save the world and the reality that some reject the light. The scope is universal; the application requires faith."
+        }
+      ]
+    },
+    {
+      "verseNumber": 43,
+      "verseText": "Now after two days he departed thence, and went into Galilee.",
+      "freshTranslation": "After the two days, He left and continued on to Galilee.",
+      "historicalContext": "Jesus resumes the journey mentioned in v.3-4. The detour through Samaria — which 'had to' happen (v.4) — has produced a harvest no one expected. Now He continues north to Galilee, setting up the final episode of the chapter: the healing of the official's son.",
+      "crossRefs": [
+        {
+          "ref": "John 4:3",
+          "explanation": "He left Judea to go to Galilee — the journey resumes after the Samaritan interlude."
+        },
+        {
+          "ref": "Matthew 4:12-13",
+          "explanation": "Jesus withdrew to Galilee and settled in Capernaum — the broader context of His Galilean ministry."
+        }
+      ],
+      "words": [
+        {
+          "english": "after two days",
+          "original": "μετὰ τὰς δύο ἡμέρας",
+          "transliteration": "meta tas dyo hēmeras",
+          "pronunciation": "meh-TAH tahs DOO-oh hay-MEH-rahs",
+          "strongs": "G3326/G1417/G2250",
+          "partOfSpeech": "preposition + article + numeral + noun accusative plural feminine",
+          "literalMeaning": "after + the + two + days",
+          "definition": "Μετά with the accusative means 'after.' The article (τάς) makes it definite: 'the two days' already mentioned in v.40. This precise time reference is an eyewitness marker — someone remembered exactly how long they stayed. The two days were enough for deep engagement but Jesus had a larger mission to continue.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "went into Galilee",
+          "original": "ἀπῆλθεν εἰς τὴν Γαλιλαίαν",
+          "transliteration": "apēlthen eis tēn Galilaian",
+          "pronunciation": "ah-PAIL-then ace tayn gah-lee-LIE-ahn",
+          "strongs": "G565/G1519/G1056",
+          "partOfSpeech": "verb aorist active indicative 3rd singular + preposition + article + noun accusative feminine singular (proper)",
+          "literalMeaning": "he went away + into + the + Galilee",
+          "definition": "Γαλιλαία (Galilee) means 'circle' or 'district' — specifically 'Galilee of the Gentiles' (Isaiah 9:1). It was a mixed Jewish-Gentile region in northern Israel, less religiously strict than Judea. Jesus' move from Judea through Samaria to Galilee traces a geographic arc from the religious center to the margins — symbolizing the expanding reach of His ministry.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 44,
+      "verseText": "For Jesus himself testified, that a prophet hath no honour in his own country.",
+      "freshTranslation": "For Jesus Himself had testified that a prophet has no honor in his own homeland.",
+      "historicalContext": "This verse is puzzling in context. If Jesus' 'own country' is Judea (where He was rejected by the Pharisees, v.1-3), then going to Galilee makes sense as going somewhere He will be received. If it's Galilee (His home region), then the verse seems contradictory since He's heading there. Most likely, John means Judea/Jerusalem — the theological center of Israel where a prophet 'should' be honored but isn't. The warm Samaritan reception contrasts sharply with the cold Judean response.",
+      "crossRefs": [
+        {
+          "ref": "Matthew 13:57",
+          "explanation": "'A prophet is not without honor except in his hometown' — Jesus says this in Nazareth."
+        },
+        {
+          "ref": "Mark 6:4",
+          "explanation": "Mark's parallel: Jesus marvels at the unbelief in His hometown."
+        },
+        {
+          "ref": "Luke 4:24",
+          "explanation": "'No prophet is accepted in his hometown' — Luke places this at the Nazareth synagogue."
+        }
+      ],
+      "words": [
+        {
+          "english": "testified",
+          "original": "ἐμαρτύρησεν",
+          "transliteration": "emartyrēsen",
+          "pronunciation": "eh-mar-TOO-ray-sen",
+          "strongs": "G3140",
+          "partOfSpeech": "verb, aorist active indicative, 3rd person singular",
+          "literalMeaning": "he bore witness, he testified",
+          "definition": "Μαρτυρέω means to testify, bear witness, or give evidence. The aorist points to a specific occasion when Jesus made this statement. John uses legal testimony language — Jesus' observation about prophets is presented as sworn testimony, not casual commentary. It carries the weight of authoritative declaration.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "a prophet",
+          "original": "προφήτης",
+          "transliteration": "prophētēs",
+          "pronunciation": "pro-FAY-tace",
+          "strongs": "G4396",
+          "partOfSpeech": "noun, nominative singular masculine",
+          "literalMeaning": "one who speaks forth, a proclaimer",
+          "definition": "Προφήτης comes from πρό (before/forth) + φημί (to speak). A prophet speaks forth God's message — not primarily predicting the future but proclaiming divine truth. Jesus applies this category to Himself, acknowledging His role as God's spokesperson. By identifying as a prophet, He stands in the line of Moses, Elijah, and Isaiah.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "no honour",
+          "original": "οὐκ ἔχει τιμήν",
+          "transliteration": "ouk echei timēn",
+          "pronunciation": "ook EH-khay tee-MANE",
+          "strongs": "G3756/G2192/G5092",
+          "partOfSpeech": "negative particle + verb present active indicative 3rd singular + noun accusative feminine singular",
+          "literalMeaning": "not + has + honor/value/worth",
+          "definition": "Τιμή means honor, value, price, or respect. It's the root of our word 'Timothy' (τιμάω + θεός = 'one who honors God'). The present tense indicates a general principle: prophets characteristically do not receive honor at home. Familiarity breeds contempt — those who knew Jesus as a child can't see Him as the Messiah.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "in his own country",
+          "original": "ἐν τῇ ἰδίᾳ πατρίδι",
+          "transliteration": "en tē idia patridi",
+          "pronunciation": "en tay ee-DEE-ah pat-REE-dee",
+          "strongs": "G1722/G2398/G3968",
+          "partOfSpeech": "preposition + article + adjective dative feminine singular + noun dative feminine singular",
+          "literalMeaning": "in + the + one's own + fatherland/homeland",
+          "definition": "Πατρίς means fatherland, homeland, or native place — from πατήρ (father). Ἰδία means 'one's own, personal, private.' In John's context, this likely refers to Judea or Jerusalem — the center of Jewish life where Jesus 'came to His own, and His own did not receive Him' (John 1:11). The Samaritans honored Him; His own people did not.",
+          "translationNote": "The interpretation of 'his own country' is debated — Nazareth, Galilee, Judea, or Jerusalem? In John's theological geography, Jerusalem/Judea is the center of rejection.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 45,
+      "verseText": "Then when he was come into Galilee, the Galilaeans received him, having seen all the things that he did at Jerusalem at the feast: for they also went unto the feast.",
+      "freshTranslation": "When He arrived in Galilee, the Galileans welcomed Him because they had seen everything He did at the feast in Jerusalem, for they too had gone to the feast.",
+      "historicalContext": "The Galileans' welcome is based on seeing His signs at the Passover feast (2:23). This is a different quality of reception than the Samaritans' — the Galileans welcome Him because of spectacular signs, while the Samaritans believed because of His word (v.41-42). John will show that signs-based faith is inferior to word-based faith (cf. 20:29, 'Blessed are those who have not seen and yet believe').",
+      "crossRefs": [
+        {
+          "ref": "John 2:23",
+          "explanation": "'Many believed in His name when they saw the signs He performed' — the Jerusalem signs the Galileans witnessed."
+        },
+        {
+          "ref": "John 20:29",
+          "explanation": "'Blessed are those who have not seen and yet have believed' — the superior faith Jesus prizes."
+        },
+        {
+          "ref": "John 6:26",
+          "explanation": "'You are looking for Me not because you saw signs but because you ate the loaves' — even sign-faith can degrade."
+        }
+      ],
+      "words": [
+        {
+          "english": "received him",
+          "original": "ἐδέξαντο αὐτόν",
+          "transliteration": "edexanto auton",
+          "pronunciation": "eh-DEX-an-toh ow-TON",
+          "strongs": "G1209/G846",
+          "partOfSpeech": "verb aorist middle indicative 3rd plural + pronoun accusative masculine singular",
+          "literalMeaning": "they received/welcomed + him",
+          "definition": "Δέχομαι means to receive, welcome, or accept. The middle voice suggests personal involvement — they actively welcomed Him. But John's use of δέχομαι (welcome) rather than πιστεύω εἰς (believe into) is telling: reception is not the same as faith. The Galileans are impressed; the Samaritans were transformed.",
+          "translationNote": "Accurate. Note the contrast: Samaritans 'believed into' Him (v.39); Galileans merely 'received' Him.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "having seen all the things",
+          "original": "πάντα ἑωρακότες",
+          "transliteration": "panta heōrakotes",
+          "pronunciation": "PAN-tah heh-oh-rah-KOH-tess",
+          "strongs": "G3956/G3708",
+          "partOfSpeech": "adjective accusative neuter plural + verb perfect active participle nominative masculine plural",
+          "literalMeaning": "all things + having seen/perceived",
+          "definition": "Ὁράω in the perfect participle (ἑωρακότες) means 'having seen with lasting impression.' They saw and remember. But their faith is rooted in spectacle, not personal encounter. John consistently distinguishes between seeing signs and truly understanding them (cf. 6:26). Signs should point beyond themselves to who Jesus is; the Galileans are stuck on the signs themselves.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "at the feast",
+          "original": "ἐν τῇ ἑορτῇ",
+          "transliteration": "en tē heortē",
+          "pronunciation": "en tay heh-or-TAY",
+          "strongs": "G1722/G1859",
+          "partOfSpeech": "preposition + article + noun dative feminine singular",
+          "literalMeaning": "at/during + the + feast/festival",
+          "definition": "Ἑορτή means feast, festival, or holy day. This refers to the Passover feast of John 2:13-23, where Jesus cleansed the temple and performed signs. Passover was one of three pilgrimage feasts requiring Jewish males to travel to Jerusalem, which is why Galileans were present to witness Jesus' actions.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 46,
+      "verseText": "So Jesus came again into Cana of Galilee, where he made the water wine. And there was a certain nobleman, whose son was sick at Capernaum.",
+      "freshTranslation": "So He came again to Cana in Galilee, where He had turned the water into wine. There was a royal official whose son lay sick in Capernaum.",
+      "historicalContext": "John deliberately connects this to the first sign at Cana (2:1-11). Cana is about 20 miles from Capernaum (a full day's journey). The 'nobleman' (βασιλικός) was likely a court official of Herod Antipas, tetrarch of Galilee — possibly Chuza (Luke 8:3) or Manaen (Acts 13:1). This Herodian official seeking help from an itinerant rabbi shows desperation transcending social hierarchy.",
+      "crossRefs": [
+        {
+          "ref": "John 2:1-11",
+          "explanation": "The first sign at Cana — water to wine. This is the second Cana sign, forming a literary bracket."
+        },
+        {
+          "ref": "Luke 7:1-10",
+          "explanation": "A centurion's servant healed at a distance — a similar 'long-distance healing' story with key differences."
+        },
+        {
+          "ref": "Matthew 8:5-13",
+          "explanation": "Matthew's account of the centurion — different person but same pattern of faith and distance healing."
+        }
+      ],
+      "words": [
+        {
+          "english": "Cana of Galilee",
+          "original": "Κανὰ τῆς Γαλιλαίας",
+          "transliteration": "Kana tēs Galilaias",
+          "pronunciation": "kah-NAH tace gah-lee-LIE-ahs",
+          "strongs": "G2580/G1056",
+          "partOfSpeech": "noun (proper, indeclinable) + article + noun genitive feminine singular (proper)",
+          "literalMeaning": "Cana (place of reeds?) + of Galilee",
+          "definition": "Κανά is mentioned only in John's Gospel (2:1, 2:11, 4:46, 21:2). Its exact location is debated — either Khirbet Qana (9 miles north of Nazareth) or Kafr Kanna (4 miles northeast). The name may derive from Hebrew qaneh (reed). John specifies 'of Galilee' to distinguish it from other towns.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "nobleman",
+          "original": "βασιλικός",
+          "transliteration": "basilikos",
+          "pronunciation": "bah-sil-ee-KOSS",
+          "strongs": "G937",
+          "partOfSpeech": "adjective/noun, nominative singular masculine (substantival)",
+          "literalMeaning": "royal, belonging to a king",
+          "definition": "Βασιλικός means 'royal' or 'belonging to the king' — from βασιλεύς (king). Used substantivally, it means a royal official, courtier, or nobleman in the king's service. In Galilee under Roman rule, this would be someone connected to Herod Antipas' court. This man had status, wealth, and access to the best physicians. That he traveled 20 miles to find a traveling rabbi shows his son's condition was desperate and conventional medicine had failed.",
+          "translationNote": "The KJV 'nobleman' is reasonable but 'royal official' is more precise. He wasn't necessarily noble-born — he served in the royal court.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "whose son was sick",
+          "original": "οὗ ὁ υἱὸς ἠσθένει",
+          "transliteration": "hou ho huios ēsthenei",
+          "pronunciation": "hoo ho hwee-OSS ace-THEH-nay",
+          "strongs": "G3739/G5207/G770",
+          "partOfSpeech": "relative pronoun genitive + article + noun nominative masculine singular + verb imperfect active indicative 3rd singular",
+          "literalMeaning": "of whom + the + son + was being sick/weak",
+          "definition": "Ἀσθενέω means to be weak, sick, or without strength — from ἀ- (without) + σθένος (strength). The imperfect tense indicates ongoing, worsening illness — the boy was continuously sick, deteriorating. Υἱός (son) indicates this is the man's own child, making the urgency deeply personal. Verse 47 will reveal the boy was near death.",
+          "translationNote": "Accurate. The imperfect tense conveys that this was not a sudden illness but an ongoing, worsening condition.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "at Capernaum",
+          "original": "ἐν Καφαρναούμ",
+          "transliteration": "en Kapharnaoum",
+          "pronunciation": "en kah-far-nah-OOM",
+          "strongs": "G1722/G2584",
+          "partOfSpeech": "preposition + noun (proper, indeclinable)",
+          "literalMeaning": "in + village of Nahum",
+          "definition": "Καφαρναούμ (Capernaum) means 'village of Nahum' — from Hebrew kfar (village) + Nahum (comfort). Located on the northwest shore of the Sea of Galilee, it served as Jesus' operational base during His Galilean ministry. As a border town between Philip's and Antipas' territories, it had a customs station (where Matthew was called) and a Roman garrison.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 47,
+      "verseText": "When he heard that Jesus was come out of Judaea into Galilee, he went unto him, and besought him that he would come down, and heal his son: for he was at the point of death.",
+      "freshTranslation": "When this man heard that Jesus had come from Judea to Galilee, he went to Him and begged Him to come down and heal his son, who was about to die.",
+      "historicalContext": "The official traveled roughly 20 miles from Capernaum (on the Sea of Galilee, below sea level) up to Cana in the hills. 'Come down' (καταβῇ) reflects the geography — Capernaum sits about 680 feet below sea level. The father's request assumes Jesus must be physically present to heal, a limitation Jesus will deliberately challenge.",
+      "crossRefs": [
+        {
+          "ref": "Mark 5:23",
+          "explanation": "Jairus begs Jesus 'Come and lay your hands on her' — the same assumption that physical presence is required."
+        },
+        {
+          "ref": "Matthew 8:8",
+          "explanation": "The centurion says 'Just say the word' — superior faith that doesn't require Jesus' physical presence."
+        },
+        {
+          "ref": "Psalm 107:20",
+          "explanation": "'He sent out His word and healed them' — God heals by His word, not physical touch alone."
+        }
+      ],
+      "words": [
+        {
+          "english": "besought him",
+          "original": "ἠρώτα αὐτόν",
+          "transliteration": "ērōta auton",
+          "pronunciation": "ay-ROH-tah ow-TON",
+          "strongs": "G2065/G846",
+          "partOfSpeech": "verb imperfect active indicative 3rd singular + pronoun accusative masculine singular",
+          "literalMeaning": "he was asking/begging + him",
+          "definition": "Ἐρωτάω means to ask or request. The imperfect tense indicates repeated, persistent asking — he kept begging. This wasn't a single polite request but ongoing, desperate pleading. A royal official accustomed to giving orders is now begging an itinerant teacher. Desperation strips away social pretense.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "come down",
+          "original": "καταβῇ",
+          "transliteration": "katabē",
+          "pronunciation": "kah-tah-BAY",
+          "strongs": "G2597",
+          "partOfSpeech": "verb aorist active subjunctive, 3rd person singular",
+          "literalMeaning": "he might come down/descend",
+          "definition": "Καταβαίνω means to come down, descend. It reflects real geography: Cana is in the hills, Capernaum is below sea level on the lake shore. But the official's request also reveals a theological assumption — he believes Jesus must be physically present to heal. Jesus will shatter this limitation by healing at a distance through His word alone.",
+          "translationNote": "Accurate. The geographical accuracy is an incidental confirmation of the narrative's authenticity.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "at the point of death",
+          "original": "ἤμελλεν ἀποθνῄσκειν",
+          "transliteration": "ēmellen apothnēskein",
+          "pronunciation": "AY-mel-len ah-poth-NACE-kine",
+          "strongs": "G3195/G599",
+          "partOfSpeech": "verb imperfect active indicative 3rd singular + verb present active infinitive",
+          "literalMeaning": "he was about + to die/be dying",
+          "definition": "Μέλλω means to be about to, be on the verge of. Ἀποθνῄσκω means to die. Together: 'he was about to die.' This is not a minor illness — the boy is terminal. The imperfect μέλλω intensifies the urgency: the dying process was already underway. Every hour the father spent traveling was an hour his son might not survive.",
+          "translationNote": "Accurate. The construction conveys imminent death, not just serious illness.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
     }
-]}
+  ]
+}

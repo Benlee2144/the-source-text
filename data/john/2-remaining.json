@@ -1,0 +1,258 @@
+[
+  {
+    "verseNumber": 19,
+    "verseText": "Jesus answered and said unto them, Destroy this temple, and in three days I will raise it up.",
+    "freshTranslation": "Jesus answered them, 'Tear down this temple, and in three days I will raise it up.'",
+    "historicalContext": "This is one of Jesus' most provocative statements. Standing in the Temple courts — the center of Jewish worship, identity, and national pride — He challenges them to destroy it and claims He'll rebuild it in three days. They naturally assume He means Herod's Temple, which had been under construction for 46 years. But John will explain He meant His body. This statement was later used as evidence against Him at His trial (Mark 14:58).",
+    "crossRefs": [
+      {"ref": "Mark 14:58", "explanation": "At Jesus' trial, witnesses testified: 'We heard him say, I will destroy this temple made with hands, and in three days I will build another not made with hands.' They misquoted Him — He said 'destroy' (you do it), not 'I will destroy.'"},
+      {"ref": "Mark 15:29", "explanation": "Even on the cross, passersby mocked Him: 'You who would destroy the temple and rebuild it in three days, save yourself!' They never understood."},
+      {"ref": "1 Corinthians 6:19", "explanation": "Paul extends the metaphor: 'Your body is a temple of the Holy Spirit.' Jesus' body was the original temple — where God fully dwelt."}
+    ],
+    "words": [
+      {
+        "english": "Destroy",
+        "original": "Λύσατε",
+        "transliteration": "Lysate",
+        "pronunciation": "LOO-sah-teh",
+        "strongs": "G3089",
+        "partOfSpeech": "verb, aorist active imperative, 2nd person plural",
+        "literalMeaning": "loose, dissolve, tear down, destroy",
+        "definition": "Lyō means to loosen, untie, demolish. The imperative mood is crucial — Jesus says 'YOU destroy,' not 'I will destroy.' He's not threatening to destroy the Temple; He's prophesying what THEY will do to His body. It's a conditional challenge: if you destroy this, I will raise it. The distinction between 'you destroy' and 'I will raise' was ignored at His trial when witnesses twisted His words.",
+        "translationNote": "Accurate. The imperative 'destroy' correctly shows Jesus telling them to do it, not volunteering to do it Himself.",
+        "twisted": false,
+        "twistedExplanation": null
+      },
+      {
+        "english": "this temple",
+        "original": "τὸν ναὸν τοῦτον",
+        "transliteration": "ton naon touton",
+        "pronunciation": "ton nah-ON TOO-ton",
+        "strongs": "G3485",
+        "partOfSpeech": "noun, accusative masculine singular",
+        "literalMeaning": "this inner sanctuary, this dwelling place of God",
+        "definition": "There are two Greek words for temple: hieron (the entire temple complex, courts and all) and naos (the inner sanctuary where God's presence dwelt — the Holy of Holies). Jesus uses NAOS, not hieron. He's not talking about the building complex; He's talking about the dwelling place of God. His body is the true naos — the place where the fullness of God physically resides (Colossians 2:9). The listeners heard 'building.' John's readers hear 'God's dwelling place.'",
+        "translationNote": "English 'temple' loses the distinction between hieron (complex) and naos (inner sanctuary/God's dwelling). This distinction is the whole point of the statement.",
+        "twisted": true,
+        "twistedExplanation": "By translating both hieron and naos as 'temple,' English Bibles obscure Jesus' deliberate word choice. He specifically said naos (where God dwells), pointing to His body as the true dwelling place of God — not the stone building. Most readers miss this entirely."
+      },
+      {
+        "english": "in three days I will raise it up",
+        "original": "ἐν τρισὶν ἡμέραις ἐγερῶ αὐτόν",
+        "transliteration": "en trisin hēmerais egerō auton",
+        "pronunciation": "en tree-SEEN hay-MER-ais eh-ger-OH ow-TON",
+        "strongs": "G1722, G5140, G2250, G1453",
+        "partOfSpeech": "preposition + numeral + noun + verb, future active indicative",
+        "literalMeaning": "in three days I will raise/awaken it",
+        "definition": "Egeirō means to raise up, to awaken from sleep — the standard word for resurrection throughout the New Testament. Jesus claims HE will raise it — not 'God will raise me' but 'I will raise it.' This is a claim to self-resurrection, an authority that belongs only to God. John 10:18 confirms: 'No one takes my life from me. I lay it down of my own accord, and I have authority to take it up again.' The three days became the defining sign of Jesus' ministry (Matthew 12:40).",
+        "translationNote": "Accurate. The 'I' is emphatic — egō (I myself) will raise it.",
+        "twisted": false,
+        "twistedExplanation": null
+      }
+    ]
+  },
+  {
+    "verseNumber": 20,
+    "verseText": "Then said the Jews, Forty and six years was this temple in building, and wilt thou rear it up in three days?",
+    "freshTranslation": "The Jewish leaders replied, 'This temple has been under construction for forty-six years, and you're going to raise it in three days?'",
+    "historicalContext": "Herod the Great began his massive renovation of the Second Temple around 20-19 BC. Forty-six years of construction places this conversation around 27-28 AD, which aligns with the early period of Jesus' ministry. The project wouldn't be fully completed until 63 AD — only seven years before Rome destroyed it entirely in 70 AD. The irony is devastating: they spent 46 years building a stone temple that would be destroyed; Jesus would build an eternal temple in three days.",
+    "crossRefs": [
+      {"ref": "Ezra 6:15", "explanation": "The Second Temple (Zerubbabel's) was completed in about 4 years. Herod's renovation was far more ambitious — a project spanning generations."},
+      {"ref": "Matthew 24:2", "explanation": "Jesus later prophesied directly: 'Not one stone here will be left on another; every one will be thrown down.' Fulfilled in 70 AD by the Romans."}
+    ],
+    "words": [
+      {
+        "english": "Forty and six years",
+        "original": "Τεσσεράκοντα καὶ ἓξ ἔτεσιν",
+        "transliteration": "Tesserakonta kai hex etesin",
+        "pronunciation": "tes-sar-AH-kon-tah kai hex ET-eh-sin",
+        "strongs": "G5062, G1803, G2094",
+        "partOfSpeech": "numeral + noun, dative plural",
+        "literalMeaning": "forty and six years",
+        "definition": "This number is one of the few chronological markers in John's gospel that helps date Jesus' ministry. Josephus records that Herod began the Temple renovation in the 18th year of his reign (~20/19 BC). Forty-six years later brings us to approximately 27/28 AD. This accidental detail from hostile questioners becomes valuable historical evidence.",
+        "translationNote": "Accurate.",
+        "twisted": false,
+        "twistedExplanation": null
+      },
+      {
+        "english": "wilt thou rear it up",
+        "original": "σὺ ἐγερεῖς αὐτόν",
+        "transliteration": "sy egereis auton",
+        "pronunciation": "soo eh-ger-AYS ow-TON",
+        "strongs": "G4771, G1453",
+        "partOfSpeech": "pronoun, emphatic + verb, future active indicative",
+        "literalMeaning": "YOU will raise it?",
+        "definition": "The emphatic 'sy' (YOU) drips with contempt and disbelief. 'You — a wandering teacher from Galilee with no construction crews, no resources, no authority — YOU are going to rebuild what has taken our nation's greatest king nearly half a century?' They meant it as mockery. They couldn't imagine that the answer was yes, but in a way that would redefine everything they understood about where God dwells.",
+        "translationNote": "The emphatic 'you' in Greek is stronger than English conveys. It's incredulous — 'YOU?!'",
+        "twisted": false,
+        "twistedExplanation": null
+      }
+    ]
+  },
+  {
+    "verseNumber": 21,
+    "verseText": "But he spake of the temple of his body.",
+    "freshTranslation": "But He was speaking about the temple of His body.",
+    "historicalContext": "This is John's editorial explanation, written decades after the event. He now understands what nobody understood at the time — Jesus meant His physical body was the true naos, the dwelling place of God. This verse is the interpretive key to the whole passage and represents the kind of post-resurrection insight that characterizes John's gospel. He writes with the benefit of hindsight, explaining what was incomprehensible in the moment.",
+    "crossRefs": [
+      {"ref": "Colossians 2:9", "explanation": "'For in Christ all the fullness of the Deity dwells in bodily form.' Paul's theological statement of exactly what John means — Jesus' body was where God fully, physically resided."},
+      {"ref": "Hebrews 10:20", "explanation": "The author of Hebrews calls Jesus' body 'the curtain' — the veil of the Temple through which we now have access to God."}
+    ],
+    "words": [
+      {
+        "english": "the temple of his body",
+        "original": "τοῦ ναοῦ τοῦ σώματος αὐτοῦ",
+        "transliteration": "tou naou tou sōmatos autou",
+        "pronunciation": "too nah-OO too SO-mah-tos ow-TOO",
+        "strongs": "G3485, G4983",
+        "partOfSpeech": "noun, genitive + noun, genitive",
+        "literalMeaning": "the inner sanctuary of His body",
+        "definition": "Again naos — the inner sanctuary where God dwells — not hieron. Jesus' physical body (sōma) is the new Holy of Holies. This is a revolutionary theological claim: God no longer dwells in a building made of stone but in a human body. And after the resurrection, this extends to all believers (1 Corinthians 6:19 — 'your body is a temple of the Holy Spirit'). The stone Temple was always a shadow; Jesus was always the substance.",
+        "translationNote": "Accurate, though the naos/hieron distinction is again hidden in English.",
+        "twisted": false,
+        "twistedExplanation": null
+      }
+    ]
+  },
+  {
+    "verseNumber": 22,
+    "verseText": "When therefore he was risen from the dead, his disciples remembered that he had said this unto them; and they believed the scripture, and the word which Jesus had said.",
+    "freshTranslation": "After He was raised from the dead, His disciples remembered He had said this, and they believed both the Scripture and the word Jesus had spoken.",
+    "historicalContext": "John honestly acknowledges that the disciples didn't understand this saying at the time. It was only after the resurrection — when they saw the 'temple' of His body destroyed and raised in three days — that the pieces clicked. This is a recurring pattern in John: events happen, they're misunderstood, and only later (often after the resurrection) does their meaning become clear. John writes for readers who have the benefit of knowing the end of the story.",
+    "crossRefs": [
+      {"ref": "John 12:16", "explanation": "Same pattern: 'At first his disciples did not understand all this. Only after Jesus was glorified did they realize...' Post-resurrection understanding is a major theme in John."},
+      {"ref": "Luke 24:8", "explanation": "After the resurrection, the women 'remembered his words' — the same awakening of memory that John describes here."},
+      {"ref": "Psalm 16:10", "explanation": "'You will not abandon me to the grave, nor will you let your faithful one see decay.' One of the 'scriptures' they would have connected to the resurrection."}
+    ],
+    "words": [
+      {
+        "english": "he was risen from the dead",
+        "original": "ἠγέρθη ἐκ νεκρῶν",
+        "transliteration": "ēgerthē ek nekrōn",
+        "pronunciation": "ay-GER-thay ek nek-ROHN",
+        "strongs": "G1453, G3498",
+        "partOfSpeech": "verb, aorist passive indicative + adjective, genitive plural",
+        "literalMeaning": "he was raised out of dead ones",
+        "definition": "Egeirō in the passive — 'was raised.' While Jesus claimed He would raise Himself (v.19), the passive voice here credits God the Father as the agent of resurrection. Both are true: Jesus had authority to lay down His life and take it up again (John 10:18), and the Father raised Him (Acts 2:24, Romans 8:11). This is Trinitarian theology in action — the resurrection was a cooperative act.",
+        "translationNote": "KJV 'was risen' is slightly misleading as it sounds active/intransitive. The Greek is passive — 'was raised' (by God).",
+        "twisted": false,
+        "twistedExplanation": null
+      },
+      {
+        "english": "they believed the scripture",
+        "original": "ἐπίστευσαν τῇ γραφῇ",
+        "transliteration": "episteusan tē graphē",
+        "pronunciation": "ep-IS-tyoo-san tay grah-FAY",
+        "strongs": "G4100, G1124",
+        "partOfSpeech": "verb, aorist active indicative + noun, dative",
+        "literalMeaning": "they believed/trusted the writing",
+        "definition": "Graphē (writing, scripture) refers to the Old Testament texts that predicted the Messiah's death and resurrection. The aorist tense marks a decisive moment — their faith crystallized. They didn't just believe intellectually; pisteuō with the dative means they put their trust IN the scripture. The resurrection was the key that unlocked the entire Old Testament for them, making sense of prophecies they had read their whole lives without fully comprehending.",
+        "translationNote": "Accurate.",
+        "twisted": false,
+        "twistedExplanation": null
+      }
+    ]
+  },
+  {
+    "verseNumber": 23,
+    "verseText": "Now when he was in Jerusalem at the passover, in the feast day, many believed in his name, when they saw the miracles which he did.",
+    "freshTranslation": "While Jesus was in Jerusalem during the Passover feast, many people put their trust in His name because they saw the signs He was performing.",
+    "historicalContext": "John mentions signs (sēmeia) that he doesn't describe in detail — a reminder that John's gospel is selective, not exhaustive (see 21:25). These unnamed miracles during Passover drew crowd-level faith, but Jesus will show in the next verse that He distinguishes between genuine faith and sign-seeking enthusiasm. The Passover setting is significant — Jesus is in Jerusalem for the feast that commemorates God's deliverance from Egypt, and He is performing signs of a new deliverance.",
+    "crossRefs": [
+      {"ref": "John 20:30-31", "explanation": "John explicitly states: 'Jesus performed many other signs in the presence of His disciples, which are not recorded in this book.' This verse is an example of those unrecorded signs."},
+      {"ref": "John 6:26", "explanation": "Jesus later rebukes this kind of faith: 'You are looking for me, not because you saw the signs, but because you ate the loaves and had your fill.'"}
+    ],
+    "words": [
+      {
+        "english": "believed in his name",
+        "original": "ἐπίστευσαν εἰς τὸ ὄνομα αὐτοῦ",
+        "transliteration": "episteusan eis to onoma autou",
+        "pronunciation": "ep-IS-tyoo-san ays to ON-oh-mah ow-TOO",
+        "strongs": "G4100, G3686",
+        "partOfSpeech": "verb + preposition + noun",
+        "literalMeaning": "they believed into his name",
+        "definition": "Pisteuō eis (believe into) is John's characteristic phrase for saving faith — it implies movement, entering into, committing to. Onoma (name) in Hebrew thought represents the total person — their character, authority, and identity. So 'believed into his name' means they entrusted themselves to who Jesus is. However, Jesus' response in the next verse suggests this faith was superficial — based on spectacle rather than understanding.",
+        "translationNote": "Most translations say 'believed in his name' which is adequate, but 'into' (eis) conveys deeper commitment than 'in' (en).",
+        "twisted": false,
+        "twistedExplanation": null
+      },
+      {
+        "english": "the miracles which he did",
+        "original": "τὰ σημεῖα ἃ ἐποίει",
+        "transliteration": "ta sēmeia ha epoiei",
+        "pronunciation": "tah say-MAY-ah hah ep-OY-ay",
+        "strongs": "G4592",
+        "partOfSpeech": "noun, accusative neuter plural",
+        "literalMeaning": "the signs which he was doing",
+        "definition": "Sēmeion means sign — not just 'miracle' or 'wonder.' John never uses the word 'miracle' (dynamis/teras); he always says 'sign.' The difference matters: a miracle impresses; a sign POINTS to something beyond itself. Every sign in John's gospel reveals something about who Jesus is. The imperfect tense (epoiei — 'was doing') suggests ongoing, repeated sign-working during the feast.",
+        "translationNote": "KJV 'miracles' is misleading. The Greek is sēmeia — 'signs.' John deliberately chose this word because the point isn't the spectacle but what it reveals about Jesus. Modern translations correctly use 'signs.'",
+        "twisted": true,
+        "twistedExplanation": "Translating sēmeia as 'miracles' shifts focus from revelation to spectacle. John's theology of signs is central to his gospel — each sign points to Jesus' identity and glory. 'Miracles' makes them about power; 'signs' makes them about meaning."
+      }
+    ]
+  },
+  {
+    "verseNumber": 24,
+    "verseText": "But Jesus did not commit himself unto them, because he knew all men,",
+    "freshTranslation": "But Jesus did not entrust Himself to them, because He knew all people —",
+    "historicalContext": "A stunning reversal: many 'believed into' Jesus (v.23), but Jesus did not 'believe into' them. The same verb (pisteuō) is used for both — they entrusted themselves to Him, but He did not entrust Himself to them. He saw through their enthusiasm to its shallow roots. This is the first clear statement of Jesus' supernatural knowledge of human hearts, a theme that will recur throughout John (4:29, 6:64, 13:11).",
+    "crossRefs": [
+      {"ref": "Jeremiah 17:9-10", "explanation": "'The heart is deceitful above all things... I the LORD search the heart.' Jesus exercises the divine prerogative of knowing hearts."},
+      {"ref": "1 Samuel 16:7", "explanation": "'The LORD does not look at the things people look at. People look at the outward appearance, but the LORD looks at the heart.' Jesus sees as God sees."}
+    ],
+    "words": [
+      {
+        "english": "did not commit himself",
+        "original": "οὐκ ἐπίστευεν αὐτὸν",
+        "transliteration": "ouk episteuen auton",
+        "pronunciation": "ook ep-IS-tyoo-en ow-TON",
+        "strongs": "G4100",
+        "partOfSpeech": "verb, imperfect active indicative",
+        "literalMeaning": "was not entrusting himself",
+        "definition": "Same verb as v.23 — pisteuō. They pisteuō'd into Him; He did not pisteuō Himself to them. The imperfect tense means this was His ongoing posture — He consistently, repeatedly withheld Himself from crowd-level faith that was based only on signs. Jesus distinguished between genuine disciples and spectacle-seekers. He accepted their interest but didn't hand them His mission, His inner circle, or His full self-revelation.",
+        "translationNote": "KJV 'commit' is adequate but obscures the wordplay. The same Greek word is used in v.23 and v.24 — they 'believed' in Him, but He didn't 'believe' in them. Modern translations using 'entrust' capture this better.",
+        "twisted": false,
+        "twistedExplanation": null
+      },
+      {
+        "english": "he knew all men",
+        "original": "αὐτὸν γινώσκειν πάντας",
+        "transliteration": "auton ginōskein pantas",
+        "pronunciation": "ow-TON ghee-NO-skane PAN-tas",
+        "strongs": "G1097, G3956",
+        "partOfSpeech": "verb, present active infinitive + adjective",
+        "literalMeaning": "him to know all (people)",
+        "definition": "Ginōskō — personal, experiential knowledge. Jesus didn't just observe people; He KNEW them at the deepest level. Pantas (all) is universal — not some people, all people. This is a divine attribute: only God searches hearts and knows all humanity (1 Chronicles 28:9, Psalm 139:1-4). John is making a quiet but enormous theological claim: Jesus possesses the omniscience that belongs to God alone.",
+        "translationNote": "Accurate. The claim is as radical as anything in John 1:1 — Jesus knows every human heart.",
+        "twisted": false,
+        "twistedExplanation": null
+      }
+    ]
+  },
+  {
+    "verseNumber": 25,
+    "verseText": "And needed not that any should testify of man: for he knew what was in man.",
+    "freshTranslation": "He didn't need anyone to tell Him about human nature, because He Himself knew what was inside a person.",
+    "historicalContext": "This verse closes chapter 2 and sets up chapter 3 perfectly. Jesus knows what's in humanity — the next verse introduces Nicodemus, a specific man, and Jesus will demonstrate this knowledge by cutting straight to what Nicodemus needs: rebirth. The chapter ends with a universal claim (He knows ALL people) and the next chapter opens with a particular case study. John is a masterful storyteller.",
+    "crossRefs": [
+      {"ref": "John 3:1-2", "explanation": "The very next verse introduces Nicodemus — and Jesus will demonstrate His knowledge of what's 'in man' by telling Nicodemus exactly what he needs before Nicodemus even asks."},
+      {"ref": "Hebrews 4:13", "explanation": "'Nothing in all creation is hidden from God's sight. Everything is uncovered and laid bare before the eyes of him to whom we must give account.'"},
+      {"ref": "Revelation 2:23", "explanation": "Jesus says: 'I am he who searches hearts and minds.' The same claim made narratively in John 2:25 is stated explicitly in Revelation."}
+    ],
+    "words": [
+      {
+        "english": "he knew what was in man",
+        "original": "αὐτὸς γὰρ ἐγίνωσκεν τί ἦν ἐν τῷ ἀνθρώπῳ",
+        "transliteration": "autos gar eginōsken ti ēn en tō anthrōpō",
+        "pronunciation": "ow-TOS gar eh-GHEE-no-sken tee ayn en to an-THRO-po",
+        "strongs": "G846, G1097, G444",
+        "partOfSpeech": "pronoun + verb, imperfect active indicative + noun",
+        "literalMeaning": "he himself for/because was knowing what was in the human",
+        "definition": "Autos (He Himself — emphatic) eginōsken (was continually knowing — imperfect, ongoing) what was en tō anthrōpō (in the human being). This isn't occasional insight; it's continuous, comprehensive knowledge of human nature. Anthrōpos (human) is generic — not 'a man' but 'humanity.' Jesus understood human nature at its depths: its capacity for shallow faith (v.23), its tendency toward deception, its need for rebirth (chapter 3). This is both comforting and terrifying — comforting because He knows our real struggles, terrifying because nothing is hidden.",
+        "translationNote": "KJV 'what was in man' sounds like it refers to one person. The Greek anthrōpos is generic — 'what was in humanity.' Better: 'what was inside a person' or 'the human condition.'",
+        "twisted": false,
+        "twistedExplanation": null
+      }
+    ]
+  }
+]
