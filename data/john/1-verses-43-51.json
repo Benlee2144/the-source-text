@@ -1,0 +1,454 @@
+[
+  {
+    "verseNumber": 43,
+    "verseText": "The day following Jesus would go forth into Galilee, and findeth Philip, and saith unto him, Follow me.",
+    "freshTranslation": "The next day, Jesus decided to go to Galilee. He found Philip and said to him, 'Follow me.'",
+    "historicalContext": "Jesus is now actively recruiting disciples. Unlike the previous disciples who came through John the Baptist's testimony, Jesus directly seeks out Philip. The word 'found' (heuriskō) implies intentional searching — Jesus went looking for Philip specifically. This is the first time in John's gospel that Jesus initiates a call rather than being approached.",
+    "crossRefs": [
+      {"ref": "Matthew 4:19", "explanation": "Same command 'Follow me' given to Peter and Andrew — a call to lifelong discipleship, not just a walk down the road."},
+      {"ref": "John 15:16", "explanation": "Jesus later confirms: 'You did not choose me, but I chose you.' Philip's calling illustrates this — Jesus found him, not the other way around."}
+    ],
+    "words": [
+      {
+        "english": "The day following",
+        "original": "Τῇ ἐπαύριον",
+        "transliteration": "tē epaurion",
+        "pronunciation": "tay ep-OW-ree-on",
+        "strongs": "G1887",
+        "partOfSpeech": "adverb",
+        "literalMeaning": "on the morrow, the next day",
+        "definition": "A temporal adverb marking the day after. John carefully tracks days in his opening chapter — this is day four of the narrative sequence that begins at 1:19. Some scholars see a deliberate parallel to the creation week in Genesis.",
+        "translationNote": "Accurate.",
+        "twisted": false,
+        "twistedExplanation": null
+      },
+      {
+        "english": "would go forth",
+        "original": "ἠθέλησεν ἐξελθεῖν",
+        "transliteration": "ēthelēsen exelthein",
+        "pronunciation": "ay-THEL-ay-sen ex-el-THANE",
+        "strongs": "G2309, G1831",
+        "partOfSpeech": "verb, aorist active indicative + aorist active infinitive",
+        "literalMeaning": "willed/desired to go out",
+        "definition": "Thelō means to will, to desire, to intend — it implies a deliberate decision, not a casual whim. Combined with exerchomai (to go out, depart), it shows Jesus making a conscious choice to leave the Jordan region for Galilee. This wasn't happenstance — it was planned.",
+        "translationNote": "KJV 'would go forth' captures the intentionality well. Modern translations often flatten this to 'decided to go.'",
+        "twisted": false,
+        "twistedExplanation": null
+      },
+      {
+        "english": "findeth Philip",
+        "original": "εὑρίσκει Φίλιππον",
+        "transliteration": "heuriskei Philippon",
+        "pronunciation": "hyoo-RIS-kay FIL-ip-pon",
+        "strongs": "G2147, G5376",
+        "partOfSpeech": "verb, present active indicative + proper noun",
+        "literalMeaning": "finds, discovers Philip",
+        "definition": "Heuriskō means to find after searching — it's where we get 'eureka.' The present tense makes it vivid, as if we're watching it happen. Philip (Philippos) is a Greek name meaning 'lover of horses,' unusual for a Jewish man from Bethsaida, suggesting a Hellenized family — fitting for a gospel written to Greek-speaking audiences. Jesus sought Philip out deliberately.",
+        "translationNote": "Accurate. The key insight is that 'finds' implies searching — Jesus went looking for Philip specifically.",
+        "twisted": false,
+        "twistedExplanation": null
+      },
+      {
+        "english": "Follow me",
+        "original": "Ἀκολούθει μοι",
+        "transliteration": "Akolouthei moi",
+        "pronunciation": "ah-kol-oo-THAY moy",
+        "strongs": "G190",
+        "partOfSpeech": "verb, present active imperative",
+        "literalMeaning": "follow, walk the same road, accompany",
+        "definition": "Akoloutheō literally means 'to walk the same road as' — from a (together) + keleuthos (road/path). In rabbinic culture, 'following' a rabbi meant becoming their disciple: living with them, eating with them, learning their teachings by imitation. The present imperative means 'begin following and keep following' — it's not a one-time event but a continuous lifestyle commitment. This two-word command is arguably the most important invitation in the gospels.",
+        "translationNote": "English 'follow me' captures the surface meaning but loses the depth of rabbinic discipleship. This isn't 'walk behind me to the store.' It's 'commit your entire life to learning my way of living.'",
+        "twisted": false,
+        "twistedExplanation": null
+      }
+    ]
+  },
+  {
+    "verseNumber": 44,
+    "verseText": "Now Philip was of Bethsaida, the city of Andrew and Peter.",
+    "freshTranslation": "Philip was from Bethsaida, the same town as Andrew and Peter.",
+    "historicalContext": "Bethsaida (Bēthsaida — 'house of fishing') was a village on the northern shore of the Sea of Galilee. John notes this connection deliberately — Philip already knew Andrew and Peter, which explains how quickly he responds and how he knows where to find Nathanael. The social network of early disciples was not random; they were from the same small community.",
+    "crossRefs": [
+      {"ref": "Mark 8:22", "explanation": "Jesus later heals a blind man at Bethsaida — the town that produced several of his closest disciples."},
+      {"ref": "Matthew 11:21", "explanation": "Jesus later pronounces woe on Bethsaida for not repenting despite seeing miracles — a tragic irony given it produced three apostles."}
+    ],
+    "words": [
+      {
+        "english": "Bethsaida",
+        "original": "Βηθσαϊδά",
+        "transliteration": "Bēthsaida",
+        "pronunciation": "bayth-sah-ee-DAH",
+        "strongs": "G966",
+        "partOfSpeech": "proper noun, indeclinable",
+        "literalMeaning": "house of fishing, place of nets",
+        "definition": "From Hebrew beth (house) + tsayda (fishing/hunting). A fishing village on the northeast shore of the Sea of Galilee, recently upgraded to a polis (city) by the tetrarch Philip, who renamed it Julias after Augustus's daughter. Despite its small size, it produced at least three apostles: Philip, Andrew, and Peter. Archaeological excavations at et-Tell have uncovered a prosperous fishing community.",
+        "translationNote": "Accurate. The name itself tells you the economy — these were working-class fishing families, not scholars or priests.",
+        "twisted": false,
+        "twistedExplanation": null
+      },
+      {
+        "english": "the city of Andrew and Peter",
+        "original": "τῆς πόλεως Ἀνδρέου καὶ Πέτρου",
+        "transliteration": "tēs poleōs Andreou kai Petrou",
+        "pronunciation": "tays POL-eh-ohs an-DREH-oo kai PET-roo",
+        "strongs": "G4172, G406, G4074",
+        "partOfSpeech": "noun, genitive + proper nouns",
+        "literalMeaning": "the city/town of Andrew and Peter",
+        "definition": "Polis technically means 'city' but was used for any self-governing community. Andrew (Andreos — 'manly') and Peter (Petros — 'rock/stone') were brothers. John mentions them to establish the social web — Philip wasn't a stranger to the group. These men grew up together, fished together, and now would follow Jesus together.",
+        "translationNote": "Accurate.",
+        "twisted": false,
+        "twistedExplanation": null
+      }
+    ]
+  },
+  {
+    "verseNumber": 45,
+    "verseText": "Philip findeth Nathanael, and saith unto him, We have found him, of whom Moses in the law, and the prophets, did write, Jesus of Nazareth, the son of Joseph.",
+    "freshTranslation": "Philip found Nathanael and told him, 'We have found the one Moses wrote about in the Law, and the prophets wrote about too — Jesus, the son of Joseph, from Nazareth.'",
+    "historicalContext": "Philip immediately becomes an evangelist — the pattern continues from Andrew bringing Peter. His claim is enormous: the entire Old Testament points to this man. 'Moses in the law' refers to messianic prophecies in the Pentateuch (Genesis 3:15, 49:10; Numbers 24:17; Deuteronomy 18:15-18). 'The prophets' encompasses Isaiah, Jeremiah, Daniel, Micah, and others. Philip identifies Jesus by his human credentials — 'son of Joseph, from Nazareth' — not yet understanding the virgin birth or Bethlehem origin.",
+    "crossRefs": [
+      {"ref": "Deuteronomy 18:15", "explanation": "Moses wrote: 'The LORD your God will raise up for you a Prophet like me from among your brothers.' This was the primary text Philip had in mind."},
+      {"ref": "Isaiah 53:2-3", "explanation": "The prophets described a suffering servant who would be despised — not what anyone expected when they heard 'from Nazareth.'"},
+      {"ref": "Luke 24:27", "explanation": "After the resurrection, Jesus himself 'beginning with Moses and all the Prophets, explained to them what was said in all the Scriptures concerning himself.' Philip's statement here is vindicated."}
+    ],
+    "words": [
+      {
+        "english": "We have found",
+        "original": "εὑρήκαμεν",
+        "transliteration": "heurēkamen",
+        "pronunciation": "hyoo-RAY-kah-men",
+        "strongs": "G2147",
+        "partOfSpeech": "verb, perfect active indicative, 1st person plural",
+        "literalMeaning": "we have found, we have discovered",
+        "definition": "Same root as eureka. The perfect tense is significant — it means 'we have found and the finding still stands.' It's not 'we think we found' but 'we have definitively found.' Philip uses 'we' — plural — meaning he and the other disciples collectively have reached this conclusion. The excitement is palpable.",
+        "translationNote": "Accurate. The perfect tense conveys the settled conviction that English 'we have found' captures well.",
+        "twisted": false,
+        "twistedExplanation": null
+      },
+      {
+        "english": "Moses in the law",
+        "original": "Μωϋσῆς ἐν τῷ νόμῳ",
+        "transliteration": "Mōusēs en tō nomō",
+        "pronunciation": "mo-oo-SAYS en to NO-mo",
+        "strongs": "G3475, G3551",
+        "partOfSpeech": "proper noun + noun, dative",
+        "literalMeaning": "Moses in the law/Torah",
+        "definition": "Nomos (law) here refers specifically to the Torah — the five books of Moses (Genesis through Deuteronomy). For a first-century Jew, saying 'Moses wrote about him' was the highest possible credential. It meant this person was embedded in the foundational documents of Israel's identity. The key messianic texts in the Torah include the seed promise (Gen 3:15), Shiloh prophecy (Gen 49:10), the star from Jacob (Num 24:17), and the Prophet like Moses (Deut 18:15-18).",
+        "translationNote": "Accurate.",
+        "twisted": false,
+        "twistedExplanation": null
+      },
+      {
+        "english": "Jesus of Nazareth, the son of Joseph",
+        "original": "Ἰησοῦν τὸν υἱὸν τοῦ Ἰωσὴφ τὸν ἀπὸ Ναζαρέτ",
+        "transliteration": "Iēsoun ton huion tou Iōsēph ton apo Nazaret",
+        "pronunciation": "ee-ay-SOON ton hwee-ON too ee-oh-SAYF ton ah-PO nah-zah-RET",
+        "strongs": "G2424, G5207, G2501, G3478",
+        "partOfSpeech": "proper nouns + noun",
+        "literalMeaning": "Jesus the son of Joseph, the one from Nazareth",
+        "definition": "Philip identifies Jesus by human lineage and hometown — both of which will immediately cause problems. 'Son of Joseph' was the legal identification (Joseph was his legal father), though John's readers already know from 1:1-14 that Jesus' true origin is eternal. Nazareth was an insignificant village of perhaps 400 people in lower Galilee, not mentioned in the Old Testament, the Talmud, or Josephus. To say the Messiah was 'from Nazareth' was like saying the president grew up in a town nobody's heard of.",
+        "translationNote": "Accurate. The irony is intentional — Philip gives the human résumé while John's readers know the cosmic one.",
+        "twisted": false,
+        "twistedExplanation": null
+      }
+    ]
+  },
+  {
+    "verseNumber": 46,
+    "verseText": "And Nathanael said unto him, Can there any good thing come out of Nazareth? Philip saith unto him, Come and see.",
+    "freshTranslation": "Nathanael said to him, 'Nazareth? Can anything good come from there?' Philip answered, 'Come and see for yourself.'",
+    "historicalContext": "Nathanael's skepticism reveals the reputation of Nazareth — a tiny, unremarkable village with no prophetic significance. Galileans were already looked down on by Judeans, and Nazareth was unremarkable even by Galilean standards. But Philip's response is brilliant in its simplicity: don't argue, just come look. This becomes a pattern in John's gospel — evidence, not argument, is the path to faith.",
+    "crossRefs": [
+      {"ref": "John 7:41-42", "explanation": "Later, people object: 'Can the Messiah come from Galilee? Doesn't Scripture say the Messiah comes from Bethlehem?' The geographic prejudice persists throughout John."},
+      {"ref": "John 7:52", "explanation": "The Pharisees sneer: 'Look into it, and you will find that a prophet does not come out of Galilee.' They were wrong — Jonah was from Gath-hepher in Galilee."}
+    ],
+    "words": [
+      {
+        "english": "Can there any good thing come out of Nazareth?",
+        "original": "Ἐκ Ναζαρὲτ δύναταί τι ἀγαθὸν εἶναι;",
+        "transliteration": "Ek Nazaret dynatai ti agathon einai?",
+        "pronunciation": "ek nah-zah-RET DOO-nah-tai tee ah-gah-THON AI-nai",
+        "strongs": "G1537, G3478, G1410, G5100, G18, G1511",
+        "partOfSpeech": "rhetorical question",
+        "literalMeaning": "Out of Nazareth is anything good able to be?",
+        "definition": "This isn't just snobbery — it's a genuine theological question. Nathanael, whom Jesus will call a true Israelite who knows his Scripture, knows that no prophecy mentions Nazareth. The town isn't in any sacred text. For a Bible-literate Jew expecting a Messiah from Bethlehem (Micah 5:2), 'from Nazareth' seemed disqualifying. Agathon (good) here carries the sense of 'significant' or 'worthy' — can anything of real value emerge from such an insignificant place?",
+        "translationNote": "Accurate, though it can sound more dismissive in English than the Greek intends. Nathanael isn't being arrogant — he's being biblically precise.",
+        "twisted": false,
+        "twistedExplanation": null
+      },
+      {
+        "english": "Come and see",
+        "original": "Ἔρχου καὶ ἴδε",
+        "transliteration": "Erchou kai ide",
+        "pronunciation": "ER-khoo kai EE-deh",
+        "strongs": "G2064, G3708",
+        "partOfSpeech": "verb, present middle imperative + aorist active imperative",
+        "literalMeaning": "come and see/perceive",
+        "definition": "Two imperatives: erchou (come — present tense, start coming) and ide (see — aorist, a decisive act of perception). This phrase echoes Jesus' own invitation in 1:39 when the first disciples asked where he was staying: 'Come and you will see.' Philip learned from Jesus' own method — don't debate, invite encounter. Ide is deeper than just visual sight; it means to perceive, to understand, to see with insight. Philip is saying: 'Don't take my word for it. Come meet him and judge for yourself.'",
+        "translationNote": "Perfectly translated. One of those rare cases where English captures the Greek beautifully — simple, direct, powerful.",
+        "twisted": false,
+        "twistedExplanation": null
+      }
+    ]
+  },
+  {
+    "verseNumber": 47,
+    "verseText": "Jesus saw Nathanael coming to him, and saith of him, Behold an Israelite indeed, in whom is no guile!",
+    "freshTranslation": "Jesus saw Nathanael approaching and said about him, 'Look — a true Israelite, in whom there is nothing false!'",
+    "historicalContext": "This is stunning. Jesus makes a declaration about Nathanael's character before they've ever spoken. The word 'guile' (dolos) means deceit or trickery — and the reference is unmistakable. Jacob (Israel) was defined by guile: he deceived his father Isaac, tricked his brother Esau. When God renamed Jacob to 'Israel,' it marked a transformation from deceiver to one who wrestles honestly with God. Jesus is saying: 'Here is a descendant of Jacob who actually lives up to the name Israel — an honest wrestler with God, not a deceiver.'",
+    "crossRefs": [
+      {"ref": "Genesis 27:35-36", "explanation": "Esau said: 'Is he not rightly named Jacob? For he has supplanted me these two times.' Jacob's name literally meant 'deceiver/supplanter.'"},
+      {"ref": "Genesis 32:28", "explanation": "God renamed Jacob to Israel — 'one who struggles with God.' Nathanael embodies the renewed Israel, wrestling honestly with God rather than deceiving."},
+      {"ref": "Psalm 32:2", "explanation": "David wrote: 'Blessed is the man in whose spirit there is no deceit.' Jesus applies this beatitude directly to Nathanael."}
+    ],
+    "words": [
+      {
+        "english": "Behold",
+        "original": "Ἴδε",
+        "transliteration": "Ide",
+        "pronunciation": "EE-deh",
+        "strongs": "G2396",
+        "partOfSpeech": "interjection/particle",
+        "literalMeaning": "look!, see!, behold!",
+        "definition": "An attention-getting exclamation — 'Look at this!' Jesus is making a public declaration, inviting everyone present to observe Nathanael. It carries admiration and announcement, as if Jesus is presenting Nathanael to the world.",
+        "translationNote": "KJV 'Behold' sounds archaic. 'Look!' or 'Here is' captures the immediacy better.",
+        "twisted": false,
+        "twistedExplanation": null
+      },
+      {
+        "english": "an Israelite indeed",
+        "original": "ἀληθῶς Ἰσραηλίτης",
+        "transliteration": "alēthōs Israēlitēs",
+        "pronunciation": "ah-lay-THOHS is-rah-ay-LEE-tays",
+        "strongs": "G230, G2475",
+        "partOfSpeech": "adverb + noun",
+        "literalMeaning": "truly/genuinely an Israelite",
+        "definition": "Alēthōs means truly, genuinely, without pretense. Israēlitēs is not just ethnic — it's covenantal. Jesus isn't saying 'a real Jew' in the genetic sense. He's saying 'someone who genuinely embodies what Israel was meant to be.' Paul later makes the same distinction in Romans 9:6: 'Not all who are descended from Israel are Israel.' Nathanael is the real deal — a man of genuine faith, honest seeking, and integrity.",
+        "translationNote": "'Indeed' captures alēthōs adequately, but the depth of 'Israelite' is easily missed by modern readers who hear it as just an ethnicity.",
+        "twisted": false,
+        "twistedExplanation": null
+      },
+      {
+        "english": "in whom is no guile",
+        "original": "ἐν ᾧ δόλος οὐκ ἔστιν",
+        "transliteration": "en hō dolos ouk estin",
+        "pronunciation": "en ho DOL-os ook ES-tin",
+        "strongs": "G1388",
+        "partOfSpeech": "noun, nominative",
+        "literalMeaning": "deceit, cunning, treachery, bait for a trap",
+        "definition": "Dolos originally referred to bait used to catch fish — something that appears to be one thing but is actually a trap. It evolved to mean any form of deceit, trickery, or duplicity. This is a direct contrast to Jacob/Israel, whose defining characteristic was dolos (deceiving Isaac, tricking Esau, manipulating Laban). Nathanael is the anti-Jacob: what you see is what you get. His skepticism about Nazareth was honest doubt, not cynical dismissal — and Jesus honors that honesty.",
+        "translationNote": "KJV 'guile' is actually a perfect word for dolos — crafty deception. Modern translations using 'deceit' or 'false' lose the archaic richness.",
+        "twisted": false,
+        "twistedExplanation": null
+      }
+    ]
+  },
+  {
+    "verseNumber": 48,
+    "verseText": "Nathanael saith unto him, Whence knowest thou me? Jesus answered and said unto him, Before that Philip called thee, when thou wast under the fig tree, I saw thee.",
+    "freshTranslation": "Nathanael asked him, 'How do you know me?' Jesus replied, 'Before Philip called you, while you were under the fig tree — I saw you.'",
+    "historicalContext": "The fig tree was a traditional place for prayer, meditation, and Torah study in Jewish culture. Its broad leaves provided shade, and rabbis often taught under fig trees. 'Sitting under one's fig tree' was also a metaphor for the messianic age of peace (Micah 4:4, Zechariah 3:10). Jesus' statement implies supernatural knowledge — He saw Nathanael in a private moment of devotion, possibly praying about the Messiah, before Philip ever arrived. This is what shatters Nathanael's skepticism.",
+    "crossRefs": [
+      {"ref": "Micah 4:4", "explanation": "'Everyone will sit under their own vine and under their own fig tree, and no one will make them afraid.' A messianic peace prophecy — Nathanael may have been meditating on this very text."},
+      {"ref": "Zechariah 3:10", "explanation": "'In that day each of you will invite your neighbor to sit under your vine and fig tree.' Connected to the coming of the Branch (Messiah)."},
+      {"ref": "John 2:24-25", "explanation": "John later explains: 'Jesus knew all people... He knew what was in a person.' The fig tree incident is the first demonstration of this supernatural insight."}
+    ],
+    "words": [
+      {
+        "english": "Whence knowest thou me?",
+        "original": "Πόθεν με γινώσκεις;",
+        "transliteration": "Pothen me ginōskeis?",
+        "pronunciation": "PO-then meh ghee-NO-skays",
+        "strongs": "G4159, G1097",
+        "partOfSpeech": "adverb + verb, present active indicative",
+        "literalMeaning": "from where/how do you know me?",
+        "definition": "Ginōskō is deep knowledge — experiential, personal knowledge, not just awareness. Nathanael isn't asking 'have you heard of me?' He's asking 'how do you KNOW me at this level?' Jesus' declaration about his character was so precise, so intimate, that Nathanael recognizes this isn't normal human perception. Something supernatural just happened.",
+        "translationNote": "Accurate. The force of ginōskō (personal knowledge) versus oida (factual knowledge) matters here.",
+        "twisted": false,
+        "twistedExplanation": null
+      },
+      {
+        "english": "under the fig tree",
+        "original": "ὑπὸ τὴν συκῆν",
+        "transliteration": "hypo tēn sykēn",
+        "pronunciation": "hoo-PO tayn soo-KAYN",
+        "strongs": "G5259, G4808",
+        "partOfSpeech": "preposition + noun, accusative",
+        "literalMeaning": "under the fig tree",
+        "definition": "Sykē (fig tree) carried enormous symbolic weight in Jewish culture. It represented Israel itself (Hosea 9:10, Joel 1:7), the messianic age of peace (Micah 4:4), and was the traditional place for private Torah study and prayer. When Jesus says 'I saw you under the fig tree,' He's not just demonstrating clairvoyance about a location — He may be acknowledging what Nathanael was doing there: studying Scripture, praying about the Messiah, wrestling with God honestly. Jesus saw the hidden moment of genuine seeking.",
+        "translationNote": "Literally accurate, but the cultural weight of 'under the fig tree' is invisible to modern Western readers.",
+        "twisted": false,
+        "twistedExplanation": null
+      },
+      {
+        "english": "I saw thee",
+        "original": "εἶδόν σε",
+        "transliteration": "eidon se",
+        "pronunciation": "AY-don seh",
+        "strongs": "G3708",
+        "partOfSpeech": "verb, aorist active indicative",
+        "literalMeaning": "I saw/perceived you",
+        "definition": "Horaō in the aorist — a definitive act of seeing. This isn't 'I glanced in your direction.' It's 'I perceived you completely.' The implication is supernatural vision across distance and possibly time. Nathanael was in a private place, doing private things, and Jesus saw it all. For a man 'in whom there is no guile,' being truly seen — fully known and still accepted — is the ultimate validation.",
+        "translationNote": "Accurate.",
+        "twisted": false,
+        "twistedExplanation": null
+      }
+    ]
+  },
+  {
+    "verseNumber": 49,
+    "verseText": "Nathanael answered and saith unto him, Rabbi, thou art the Son of God; thou art the King of Israel.",
+    "freshTranslation": "Nathanael declared, 'Rabbi! You are the Son of God! You are the King of Israel!'",
+    "historicalContext": "From complete skepticism ('Can anything good come from Nazareth?') to full confession in one encounter. Nathanael uses two messianic titles: 'Son of God' (a royal title from Psalm 2:7, where God says to the anointed king 'You are my Son') and 'King of Israel' (the political hope of a Davidic ruler who would restore the nation). At this stage, Nathanael probably understands these as messianic titles rather than ontological claims about divinity — that understanding will deepen over three years.",
+    "crossRefs": [
+      {"ref": "Psalm 2:6-7", "explanation": "'I have installed my King on Zion... You are my Son; today I have begotten you.' The coronation psalm that defined messianic expectation."},
+      {"ref": "John 20:28", "explanation": "Thomas's later confession — 'My Lord and my God!' — goes even further than Nathanael's. John bookends his gospel with these escalating confessions."},
+      {"ref": "Zephaniah 3:15", "explanation": "'The LORD, the King of Israel, is in your midst.' Nathanael unknowingly echoes this — the King truly was standing before him."}
+    ],
+    "words": [
+      {
+        "english": "Rabbi",
+        "original": "Ῥαββί",
+        "transliteration": "Rhabbi",
+        "pronunciation": "hrab-BEE",
+        "strongs": "G4461",
+        "partOfSpeech": "noun, transliterated Hebrew",
+        "literalMeaning": "my great one, my master, my teacher",
+        "definition": "From Hebrew rav (great) + the possessive suffix 'i' (my). A title of deep respect for a Torah teacher. Nathanael begins with the lowest title and escalates — from teacher to Son of God to King. The progression shows his mind racing from initial recognition to full theological conclusion in seconds.",
+        "translationNote": "Accurate. Left untranslated in most versions, which preserves its cultural weight.",
+        "twisted": false,
+        "twistedExplanation": null
+      },
+      {
+        "english": "the Son of God",
+        "original": "ὁ υἱὸς τοῦ θεοῦ",
+        "transliteration": "ho huios tou theou",
+        "pronunciation": "ho hwee-OS too theh-OO",
+        "strongs": "G5207, G2316",
+        "partOfSpeech": "noun, nominative with genitive",
+        "literalMeaning": "the Son of God",
+        "definition": "In first-century Judaism, 'Son of God' was primarily a messianic title drawn from Psalm 2:7 and 2 Samuel 7:14, where God promises David: 'I will be his father, and he will be my son.' It didn't necessarily imply ontological divinity at this stage — it meant 'the anointed king who has a unique relationship with God.' However, John's readers, having already read 1:1-18 about the eternal Logos, would hear this title with much deeper resonance. Nathanael says more than he knows.",
+        "translationNote": "Accurate. The theological weight grows throughout the gospel as the reader understands who the 'Son' really is.",
+        "twisted": false,
+        "twistedExplanation": null
+      },
+      {
+        "english": "the King of Israel",
+        "original": "ὁ βασιλεὺς τοῦ Ἰσραήλ",
+        "transliteration": "ho basileus tou Israēl",
+        "pronunciation": "ho bah-sil-YOOS too is-rah-AYL",
+        "strongs": "G935, G2474",
+        "partOfSpeech": "noun, nominative + genitive",
+        "literalMeaning": "the king of Israel",
+        "definition": "Basileus means king, sovereign, ruler. This is the political dimension of messianic hope — a Davidic king who would restore Israel's sovereignty, defeat enemies, and establish justice. For a man under Roman occupation, confessing someone as 'King of Israel' was both an act of faith and an act of political courage. This same title will appear on the cross: 'Jesus of Nazareth, King of the Jews' (19:19) — meant as mockery, but accidentally the most accurate sign in history.",
+        "translationNote": "Accurate.",
+        "twisted": false,
+        "twistedExplanation": null
+      }
+    ]
+  },
+  {
+    "verseNumber": 50,
+    "verseText": "Jesus answered and said unto him, Because I said unto thee, I saw thee under the fig tree, believest thou? thou shalt see greater things than these.",
+    "freshTranslation": "Jesus responded, 'You believe because I told you I saw you under the fig tree? You will see far greater things than this.'",
+    "historicalContext": "Jesus acknowledges Nathanael's faith but gently challenges its basis — if supernatural knowledge of one private moment was enough to convince him, wait until he sees what's coming. The 'greater things' include water to wine, healings, raising Lazarus, and ultimately the resurrection. Jesus is saying: 'Your faith started from a small sign; it will be confirmed by enormous ones.' This is John's theme throughout — signs that reveal glory.",
+    "crossRefs": [
+      {"ref": "John 14:12", "explanation": "Jesus later promises: 'Whoever believes in me will do the works I have been doing, and they will do even greater things than these.' The 'greater things' theme continues."},
+      {"ref": "John 2:11", "explanation": "The first 'greater thing' comes in the very next chapter — water to wine at Cana, which John calls 'the first of his signs.'"}
+    ],
+    "words": [
+      {
+        "english": "believest thou?",
+        "original": "πιστεύεις;",
+        "transliteration": "pisteueis?",
+        "pronunciation": "pis-TEW-ays",
+        "strongs": "G4100",
+        "partOfSpeech": "verb, present active indicative, 2nd person singular",
+        "literalMeaning": "do you believe? are you trusting?",
+        "definition": "Pisteuō — the verb form of pistis (faith). It means to trust, to be persuaded, to commit oneself to. Jesus isn't dismissing Nathanael's faith; He's noting that it was triggered by a relatively small sign. The question implies: 'If this small demonstration convinced you, your faith is going to be overwhelmed by what comes next.' Jesus honors starting-point faith while pointing toward deeper grounds for belief.",
+        "translationNote": "Accurate.",
+        "twisted": false,
+        "twistedExplanation": null
+      },
+      {
+        "english": "greater things",
+        "original": "μείζω τούτων",
+        "transliteration": "meizō toutōn",
+        "pronunciation": "MAY-zo TOO-tone",
+        "strongs": "G3187",
+        "partOfSpeech": "adjective, comparative neuter plural + demonstrative pronoun",
+        "literalMeaning": "greater/larger things than these",
+        "definition": "Meizō is the comparative form of megas (great). It means greater in degree, not just in quantity — more significant, more revelatory, more transformative. The 'greater things' will include signs that reveal Jesus' identity more fully: mastery over nature (water to wine), power over disease, authority over death (Lazarus), and ultimately his own resurrection. Each sign escalates the evidence for who he is.",
+        "translationNote": "Accurate.",
+        "twisted": false,
+        "twistedExplanation": null
+      }
+    ]
+  },
+  {
+    "verseNumber": 51,
+    "verseText": "And he saith unto him, Verily, verily, I say unto you, Hereafter ye shall see heaven open, and the angels of God ascending and descending upon the Son of man.",
+    "freshTranslation": "Then Jesus said to him, 'Truly, truly, I tell you — you will see heaven torn open and the angels of God ascending and descending on the Son of Man.'",
+    "historicalContext": "This is one of the most loaded statements in the entire gospel. Jesus directly references Jacob's dream at Bethel (Genesis 28:12), where Jacob saw a ladder reaching to heaven with angels going up and down. But Jesus replaces the ladder with HIMSELF — 'ascending and descending on the Son of Man.' He is the new Bethel (House of God), the connection point between heaven and earth. And he says this to Nathanael, the man he just called 'a true Israelite' — the heir of Jacob is being told that the ladder Jacob saw is now standing in front of him as a person.",
+    "crossRefs": [
+      {"ref": "Genesis 28:12", "explanation": "Jacob's dream: 'He dreamed that there was a ladder set up on the earth, the top of it reaching to heaven; and the angels of God were ascending and descending on it.' Jesus claims to be that ladder."},
+      {"ref": "Daniel 7:13-14", "explanation": "'Son of Man' comes from Daniel's vision — 'one like a son of man, coming with the clouds of heaven' who receives everlasting dominion. Jesus' favorite self-designation."},
+      {"ref": "John 14:6", "explanation": "'I am the way, the truth, and the life. No one comes to the Father except through me.' Jesus as the sole bridge between heaven and earth — the same claim made here in symbolic language."},
+      {"ref": "1 Timothy 2:5", "explanation": "'There is one mediator between God and mankind, the man Christ Jesus.' Paul states directly what Jesus taught Nathanael through Jacob's ladder imagery."}
+    ],
+    "words": [
+      {
+        "english": "Verily, verily",
+        "original": "Ἀμὴν ἀμήν",
+        "transliteration": "Amēn amēn",
+        "pronunciation": "ah-MAYN ah-MAYN",
+        "strongs": "G281",
+        "partOfSpeech": "Hebrew particle, doubled",
+        "literalMeaning": "truly truly, certainly certainly, so be it so be it",
+        "definition": "Amēn is a Hebrew word transliterated into Greek — from the root 'aman' meaning firm, established, trustworthy. Rabbis used 'amen' to affirm what someone ELSE said. Jesus does something unprecedented — He uses it to affirm His OWN words, and doubles it for emphasis. This double-amen formula appears 25 times in John and nowhere in the other gospels. It functions as a solemn oath: 'What I'm about to say is absolutely, unshakably true.' No rabbi or prophet in Jewish history had ever spoken this way.",
+        "translationNote": "'Verily, verily' is archaic but captures the solemnity. 'Truly, truly' is more natural. 'I tell you the truth' (NIV) loses the doubling. No English fully captures the audacity of self-affirming amēn.",
+        "twisted": false,
+        "twistedExplanation": null
+      },
+      {
+        "english": "heaven open",
+        "original": "τὸν οὐρανὸν ἀνεῳγότα",
+        "transliteration": "ton ouranon aneōgota",
+        "pronunciation": "ton oo-rah-NON an-eh-oh-GO-tah",
+        "strongs": "G3772, G455",
+        "partOfSpeech": "noun, accusative + verb, perfect active participle",
+        "literalMeaning": "the heaven having been opened",
+        "definition": "Ouranos (heaven/sky) combined with anoigō (to open) in the perfect participle — meaning heaven is opened and STAYS open. This isn't a momentary glimpse; it's a permanent state. When Jesus becomes the bridge between heaven and earth, the barrier doesn't open briefly and close again. It remains open. The same language appears at Jesus' baptism (Mark 1:10) when 'the heavens were torn open.' Through Christ, the divide between God and humanity is permanently breached.",
+        "translationNote": "The perfect participle ('having been opened' = permanently open) is critical and often missed in translation.",
+        "twisted": false,
+        "twistedExplanation": null
+      },
+      {
+        "english": "the angels of God ascending and descending",
+        "original": "τοὺς ἀγγέλους τοῦ θεοῦ ἀναβαίνοντας καὶ καταβαίνοντας",
+        "transliteration": "tous angelous tou theou anabainontas kai katabainontas",
+        "pronunciation": "toos AN-gel-oos too theh-OO an-ah-BAI-non-tas kai kah-tah-BAI-non-tas",
+        "strongs": "G32, G2316, G305, G2597",
+        "partOfSpeech": "noun, accusative plural + present active participles",
+        "literalMeaning": "the messengers of God going up and going down",
+        "definition": "Angelos means messenger — beings who carry communications between God and humanity. Notice the order: ascending THEN descending, same as Genesis 28:12. The angels go UP first (from earth to heaven) then DOWN (from heaven to earth). They're already here, on earth, and travel upward to report before returning. The present participles indicate continuous action — ongoing, unceasing traffic between heaven and earth through the Son of Man.",
+        "translationNote": "Accurate.",
+        "twisted": false,
+        "twistedExplanation": null
+      },
+      {
+        "english": "upon the Son of man",
+        "original": "ἐπὶ τὸν υἱὸν τοῦ ἀνθρώπου",
+        "transliteration": "epi ton huion tou anthrōpou",
+        "pronunciation": "ep-EE ton hwee-ON too an-THRO-poo",
+        "strongs": "G1909, G5207, G444",
+        "partOfSpeech": "preposition + noun phrase",
+        "literalMeaning": "upon/on the Son of the Man/humanity",
+        "definition": "Ho huios tou anthrōpou — 'the Son of Man' — is Jesus' most common self-designation, used over 80 times in the gospels. It comes from Daniel 7:13-14 where 'one like a son of man' approaches God's throne and receives universal, everlasting dominion. The phrase is deliberately ambiguous: it emphasizes both humanity ('son of man' = human being) and divine authority (Daniel's figure receives worship from all nations). The preposition epi (upon) is crucial — in Jacob's dream, the angels ascend and descend on the LADDER. Jesus replaces the ladder with himself. He IS the connection between heaven and earth. He IS the house of God. The entire access point between the human and the divine is a person.",
+        "translationNote": "'Son of Man' is technically accurate but modern readers miss the Daniel 7 background. It sounds like 'a human' when it actually means 'the divine-human figure who will rule forever.' This is possibly the most misunderstood title in the Bible.",
+        "twisted": true,
+        "twistedExplanation": "Not twisted by translators, but widely misunderstood. Most readers assume 'Son of Man' emphasizes Jesus' humanity (as opposed to 'Son of God' which emphasizes divinity). In reality, 'Son of Man' from Daniel 7 is the MORE exalted title — it's the figure who rides the clouds (a divine prerogative), receives worship from all nations, and rules an everlasting kingdom. Jesus chose this title precisely because it contained both his humanity and his cosmic authority in one phrase."
+      }
+    ]
+  }
+]
