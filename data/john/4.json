@@ -3204,6 +3204,280 @@
           "twistedExplanation": null
         }
       ]
+    },
+    {
+      "verseNumber": 48,
+      "verseText": "Then said Jesus unto him, Except ye see signs and wonders, ye will not believe.",
+      "freshTranslation": "Jesus said to him, 'Unless you people see signs and wonders, you will never believe.'",
+      "historicalContext": "Jesus responds to the official's request with what sounds like a rebuke — but it's directed at the crowd ('ye' is plural in Greek), not just the father. The Galileans wanted spectacle; they'd heard about the water-to-wine miracle at Cana and the Jerusalem signs. Jesus distinguishes between faith that requires visual proof and faith that trusts His word alone. The father will demonstrate the second kind.",
+      "crossRefs": [
+        {
+          "ref": "John 20:29",
+          "explanation": "'Blessed are those who have not seen and yet have believed.' Jesus' words to Thomas echo this same theme — true faith doesn't require signs."
+        },
+        {
+          "ref": "1 Corinthians 1:22",
+          "explanation": "'Jews demand signs and Greeks look for wisdom, but we preach Christ crucified.'"
+        }
+      ],
+      "words": [
+        {
+          "english": "signs and wonders",
+          "original": "σημεῖα καὶ τέρατα",
+          "transliteration": "sēmeia kai terata",
+          "pronunciation": "say-MAY-ah kai TER-ah-tah",
+          "strongs": "G4592, G5059",
+          "partOfSpeech": "noun, accusative plural + noun, accusative plural",
+          "literalMeaning": "signs and wonders/portents",
+          "definition": "Sēmeion (sign — something that points to meaning) paired with teras (wonder — something that evokes awe). This is the only time John uses the pair together. Signs reveal identity; wonders provoke amazement. Jesus wants people to see through the wonder to the sign — to understand WHO He is, not just marvel at WHAT He does.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "ye will not believe",
+          "original": "οὐ μὴ πιστεύσητε",
+          "transliteration": "ou mē pisteusēte",
+          "pronunciation": "oo may pis-TYOO-say-teh",
+          "strongs": "G4100",
+          "partOfSpeech": "verb, aorist active subjunctive, 2nd person plural",
+          "literalMeaning": "you will absolutely not believe",
+          "definition": "The double negative ou mē is the strongest negation in Greek — 'you will absolutely, categorically not believe.' The plural 'you' (pisteusēte) shows Jesus is addressing a cultural pattern, not just this one father. It's a diagnosis of sign-dependent faith that can never be satisfied — there's always a need for one more miracle.",
+          "translationNote": "The strength of the double negative is lost in English. This isn't mild — it's emphatic.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 49,
+      "verseText": "The nobleman saith unto him, Sir, come down ere my child die.",
+      "freshTranslation": "The royal official pleaded, 'Lord, come down before my little boy dies.'",
+      "historicalContext": "The father ignores the theological rebuke entirely — his child is dying. This isn't sign-seeking curiosity; it's desperate parental love. He calls Jesus 'Lord' (kyrios) and begs Him to come physically. He still assumes Jesus needs to be present to heal. What happens next will shatter that assumption.",
+      "crossRefs": [
+        {
+          "ref": "Mark 5:23",
+          "explanation": "Jairus made the same request: 'Come and put your hands on her.' Both fathers assumed physical presence was required for healing."
+        }
+      ],
+      "words": [
+        {
+          "english": "Sir/Lord",
+          "original": "Κύριε",
+          "transliteration": "Kyrie",
+          "pronunciation": "KOO-ree-eh",
+          "strongs": "G2962",
+          "partOfSpeech": "noun, vocative masculine singular",
+          "literalMeaning": "lord, master, sir",
+          "definition": "Kyrios ranges from polite address ('sir') to divine title ('Lord'). In this context, the official likely means something between the two — deep respect bordering on acknowledgment of authority. His desperation has moved him past skepticism into genuine supplication.",
+          "translationNote": "KJV 'Sir' undersells it. The man is beyond politeness — he's begging someone he believes has power over death.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "my child",
+          "original": "τὸ παιδίον μου",
+          "transliteration": "to paidion mou",
+          "pronunciation": "to pai-DEE-on moo",
+          "strongs": "G3813",
+          "partOfSpeech": "noun, nominative neuter singular",
+          "literalMeaning": "my little child, my young one",
+          "definition": "Paidion is a diminutive of pais (child) — it means 'little child,' conveying tenderness and vulnerability. Earlier the text used huios (son); now the father switches to paidion, revealing his emotional state. This isn't 'my son' in a formal sense — it's 'my baby.' The vulnerability in this word is heartbreaking.",
+          "translationNote": "KJV 'child' is adequate but misses the diminutive tenderness. 'Little boy' or 'baby' better captures paidion.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 50,
+      "verseText": "Jesus saith unto him, Go thy way; thy son liveth. And the man believed the word that Jesus had spoken unto him, and he went his way.",
+      "freshTranslation": "Jesus told him, 'Go home. Your son lives.' The man believed the word Jesus spoke to him and started on his way.",
+      "historicalContext": "This is the turning point. Jesus doesn't go with him. He simply speaks a word: 'Your son lives.' No laying on of hands, no prayer, no ritual — just a declaration. And the father believes it. This is exactly the faith Jesus was looking for in verse 48 — faith in His word alone, without seeing signs. The official walks home trusting nothing but a sentence spoken by a man from Nazareth. That's faith.",
+      "crossRefs": [
+        {
+          "ref": "Matthew 8:8",
+          "explanation": "The centurion said: 'Just say the word, and my servant will be healed.' Same pattern — Gentile/outsider figures showing greater faith than Israel."
+        },
+        {
+          "ref": "Psalm 107:20",
+          "explanation": "'He sent out his word and healed them.' God heals by speaking — and Jesus does the same."
+        },
+        {
+          "ref": "Genesis 1:3",
+          "explanation": "'God said, Let there be light, and there was light.' Jesus' word has creative, life-giving power — the Logos in action."
+        }
+      ],
+      "words": [
+        {
+          "english": "Go thy way",
+          "original": "Πορεύου",
+          "transliteration": "Poreuou",
+          "pronunciation": "por-EW-oo",
+          "strongs": "G4198",
+          "partOfSpeech": "verb, present middle/passive imperative",
+          "literalMeaning": "go, travel, journey",
+          "definition": "Poreuomai means to travel, to journey — it implies a real trip, not just stepping outside. Capernaum to Cana was about 20 miles, a full day's walk. Jesus is telling this man to walk 20 miles home with nothing but a promise. The present imperative means 'start going and keep going' — begin the journey and don't stop.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "thy son liveth",
+          "original": "ὁ υἱός σου ζῇ",
+          "transliteration": "ho huios sou zē",
+          "pronunciation": "ho hwee-OS soo ZAY",
+          "strongs": "G5207, G2198",
+          "partOfSpeech": "noun + verb, present active indicative",
+          "literalMeaning": "your son lives/is alive",
+          "definition": "Zaō — to live, to be alive, to have life. Present tense: 'your son IS living' — right now, at this very moment, 20 miles away, the boy lives. Jesus speaks present-tense reality into existence across distance. This is the Logos — the Word that was with God and was God — exercising creative authority over life and death through speech alone.",
+          "translationNote": "Accurate. The present tense is critical — not 'will live' but 'lives.' It's already done.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "the man believed the word",
+          "original": "ἐπίστευσεν ὁ ἄνθρωπος τῷ λόγῳ",
+          "transliteration": "episteusen ho anthrōpos tō logō",
+          "pronunciation": "ep-IS-tyoo-sen ho AN-thro-pos to LO-go",
+          "strongs": "G4100, G3056",
+          "partOfSpeech": "verb, aorist active indicative + noun, dative",
+          "literalMeaning": "the man believed/trusted the word",
+          "definition": "Pisteuō with the dative (tō logō) — he trusted IN the word. And notice: logō — the same word from John 1:1. The man believed the logos of the Logos. The word spoken by the Word. John's readers would catch this — the creative, life-giving Word who was in the beginning has just spoken life into a dying boy across 20 miles, and a man trusted that word completely.",
+          "translationNote": "The connection between logos (word) here and Logos (the Word) in chapter 1 is invisible in English but deliberate in Greek.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 51,
+      "verseText": "And as he was now going down, his servants met him, and told him, saying, Thy son liveth.",
+      "freshTranslation": "While he was still on the road home, his servants met him with the news: 'Your boy is alive!'",
+      "historicalContext": "The servants use the exact same word — zē (lives) — that Jesus used. The confirmation comes through independent witnesses who don't know what Jesus said. The journey from Cana to Capernaum descended from the Galilean hills to the lake shore, hence 'going down.' The servants were so excited they didn't wait for the father to arrive — they ran out to meet him on the road.",
+      "crossRefs": [
+        {
+          "ref": "Isaiah 55:11",
+          "explanation": "'My word that goes out from my mouth will not return to me empty, but will accomplish what I desire.' Jesus' word accomplished exactly what it declared."
+        }
+      ],
+      "words": [
+        {
+          "english": "Thy son liveth",
+          "original": "ὁ παῖς σου ζῇ",
+          "transliteration": "ho pais sou zē",
+          "pronunciation": "ho paice soo ZAY",
+          "strongs": "G3816, G2198",
+          "partOfSpeech": "noun + verb, present active indicative",
+          "literalMeaning": "your child/servant lives",
+          "definition": "The servants use pais (child/servant) rather than huios (son) — a slightly different word but the same verb zaō (lives). The match between Jesus' declaration and the servants' report is deliberate: what the Word speaks becomes reality. Pais can mean either 'child' or 'servant,' but in this context clearly means the official's child.",
+          "translationNote": "Accurate.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 52,
+      "verseText": "Then enquired he of them the hour when he began to amend. And they said unto him, Yesterday at the seventh hour the fever left him.",
+      "freshTranslation": "He asked them what time the boy had started to recover. They said, 'The fever broke yesterday at one in the afternoon.'",
+      "historicalContext": "The father investigates — not from doubt but to confirm what he already believes. 'The seventh hour' by Jewish reckoning was about 1 PM. The fact that the father didn't arrive home until the next day confirms the 20-mile distance and suggests he left Cana in the afternoon after speaking with Jesus. He didn't rush home in panic — he walked at normal pace, believing the word. The fever didn't gradually improve; it 'left him' — sudden, complete, instantaneous healing.",
+      "crossRefs": [
+        {
+          "ref": "Mark 1:31",
+          "explanation": "When Jesus healed Peter's mother-in-law, 'the fever left her.' Same sudden, complete departure of illness."
+        }
+      ],
+      "words": [
+        {
+          "english": "the seventh hour",
+          "original": "ὥραν ἑβδόμην",
+          "transliteration": "hōran hebdomēn",
+          "pronunciation": "HO-rahn heb-DOH-mayn",
+          "strongs": "G5610, G1442",
+          "partOfSpeech": "noun + adjective, ordinal",
+          "literalMeaning": "the seventh hour",
+          "definition": "Jewish time reckoning counted from sunrise (~6 AM), making the seventh hour approximately 1 PM. This precise timestamp serves as evidence — the father can verify that the healing occurred at the exact moment Jesus spoke. John includes this detail because it transforms the story from anecdote to testimony. The timing is the proof.",
+          "translationNote": "Accurate, though modern readers need to know Jewish time reckoning to convert — 'seventh hour' = ~1 PM, not 7 PM.",
+          "twisted": false,
+          "twistedExplanation": null
+        },
+        {
+          "english": "the fever left him",
+          "original": "ἀφῆκεν αὐτὸν ὁ πυρετός",
+          "transliteration": "aphēken auton ho pyretos",
+          "pronunciation": "ah-FAY-ken ow-TON ho poo-reh-TOS",
+          "strongs": "G863, G4446",
+          "partOfSpeech": "verb, aorist active indicative + noun",
+          "literalMeaning": "the fever released/left him",
+          "definition": "Aphiēmi means to release, to let go, to send away — it's the same word used for forgiveness (releasing sins). The fever is personified as something that had a grip on the boy and was forced to release him. Pyretos (fever, from pyr — fire) simply left, suddenly and completely. No gradual recovery, no convalescence — instant health at the moment Jesus spoke.",
+          "translationNote": "Accurate. The aorist tense captures the sudden, decisive nature of the healing.",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 53,
+      "verseText": "So the father knew that it was at the same hour, in the which Jesus said unto him, Thy son liveth: and himself believed, and his whole house.",
+      "freshTranslation": "The father realized it was the exact hour when Jesus had told him, 'Your son lives.' And he himself believed — along with his entire household.",
+      "historicalContext": "The verification is complete: the fever left at the precise moment Jesus spoke. The father's faith evolves across the story — from desperate request (v.47) to trusting Jesus' word (v.50) to confirmed, household-wide faith (v.53). 'His whole house' (oikos) means not just family but servants and extended household — possibly dozens of people. One man's encounter with Jesus transforms an entire community. This is John's second sign in Galilee.",
+      "crossRefs": [
+        {
+          "ref": "Acts 16:31",
+          "explanation": "Paul told the Philippian jailer: 'Believe in the Lord Jesus, and you will be saved — you and your household.' The same household-faith pattern."
+        },
+        {
+          "ref": "Acts 10:2",
+          "explanation": "Cornelius 'and all his family were devout and God-fearing.' Household faith was the typical pattern of conversion in the ancient world."
+        }
+      ],
+      "words": [
+        {
+          "english": "himself believed, and his whole house",
+          "original": "ἐπίστευσεν αὐτὸς καὶ ἡ οἰκία αὐτοῦ ὅλη",
+          "transliteration": "episteusen autos kai hē oikia autou holē",
+          "pronunciation": "ep-IS-tyoo-sen ow-TOS kai hay oy-KEE-ah ow-TOO HO-lay",
+          "strongs": "G4100, G3614",
+          "partOfSpeech": "verb + pronoun + noun + adjective",
+          "literalMeaning": "he himself believed and his household whole",
+          "definition": "The emphatic autos (he himself) marks a deeper level of faith than verse 50. In v.50, he believed Jesus' word about his son. Here, he believes in Jesus himself — his identity, his authority, his divine nature. Oikia (household) in the ancient world was an economic and social unit including family, servants, and dependents. When the head of household came to faith, the whole oikia typically followed. This wasn't coercion — it was the natural social dynamic of ancient community.",
+          "translationNote": "Accurate. 'His whole house' sounds like a building in modern English; it means 'his entire household of people.'",
+          "twisted": false,
+          "twistedExplanation": null
+        }
+      ]
+    },
+    {
+      "verseNumber": 54,
+      "verseText": "This is again the second miracle that Jesus did, when he was come out of Judaea into Galilee.",
+      "freshTranslation": "This was the second sign Jesus performed after coming from Judea into Galilee.",
+      "historicalContext": "John counts the signs carefully: the first was water to wine at Cana (2:11), and this is the second — also connected to Cana (the official came to Cana to find Jesus). Both signs were performed in the same village. John is building a case — each sign reveals more about who Jesus is. The first showed His glory over nature; the second shows His authority over disease and distance. He heals with a word, across 20 miles, without being present. The Logos speaks, and reality obeys.",
+      "crossRefs": [
+        {
+          "ref": "John 2:11",
+          "explanation": "'This, the first of his signs, Jesus did at Cana in Galilee, and manifested his glory.' The first sign. Now this is the second — same place, escalating revelation."
+        },
+        {
+          "ref": "John 20:30-31",
+          "explanation": "John's stated purpose: 'These signs are written that you may believe that Jesus is the Christ, the Son of God.' Each sign builds the case."
+        }
+      ],
+      "words": [
+        {
+          "english": "the second miracle/sign",
+          "original": "δεύτερον σημεῖον",
+          "transliteration": "deuteron sēmeion",
+          "pronunciation": "DYOO-ter-on say-MAY-on",
+          "strongs": "G1208, G4592",
+          "partOfSpeech": "adjective, ordinal + noun",
+          "literalMeaning": "second sign",
+          "definition": "John explicitly numbers the signs: first (2:11) and second (4:54). After this, he stops numbering but continues recording them. Sēmeion again — sign, not miracle. John wants readers to look through the event to its meaning. This sign reveals that Jesus' word has creative power that transcends distance and physical presence. The Logos doesn't need to be physically present to give life — His word alone is sufficient.",
+          "translationNote": "KJV 'miracle' should be 'sign' (sēmeion). Same issue as 2:23 — John never uses 'miracle,' always 'sign.'",
+          "twisted": true,
+          "twistedExplanation": "Again, sēmeion translated as 'miracle' shifts focus from meaning to spectacle. John's whole theology of signs — that they point to Jesus' identity — is undermined when we call them 'miracles' instead."
+        }
+      ]
     }
   ]
 }
